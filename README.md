@@ -97,11 +97,59 @@ Important operational points:
 
 This repository should be deployed through a GitHub Actions build, not by publishing the raw repository contents directly.
 
+Important:
+
+- the `.github/workflows/ci.yml` workflow is required for deployment
+- without that workflow, GitHub Pages will not install MkDocs, Material, or `mkdocs-static-i18n`
+- without that workflow, the multilingual site should be considered not deployable in its intended form
+
 The deployment environment must:
 
 - install Python dependencies
 - run the MkDocs build from `mkdocs.yml`
 - publish the generated static site to GitHub Pages
+
+The repository includes a workflow at `.github/workflows/ci.yml` based on the Material for MkDocs publishing guide. On every push to `main`, GitHub Actions:
+
+- checks out the repository
+- configures git credentials for deployment
+- installs Python
+- restores the MkDocs / Material cache
+- installs dependencies from `requirements.txt`
+- runs `mkdocs gh-deploy --force`
+
+For GitHub Pages to publish correctly, ensure the repository Pages setting uses:
+
+- source branch: `gh-pages`
+- folder: `/ (root)`
+
+Expected behavior after a push to `main`:
+
+1. GitHub Actions starts the workflow from `.github/workflows/ci.yml`.
+2. The workflow installs the dependencies from `requirements.txt`.
+3. MkDocs builds the multilingual static site from `mkdocs.yml`.
+4. `mkdocs gh-deploy --force` publishes the generated output to `gh-pages`.
+5. GitHub Pages serves the published static files from that branch.
+6. The site is available at `https://fmacias.github.io/`.
+7. English resolves at `/`.
+8. German resolves at `/de/`.
+9. The browser-side language-preference script may redirect users from `/` to `/de/` when German is the stored or detected preference.
+
+Expected behavior if the workflow is missing or disabled:
+
+- the site will not be rebuilt automatically on push
+- GitHub Pages will not receive the generated multilingual output
+- plugin-dependent features such as `mkdocs-static-i18n` will not be applied during deployment
+- the published result may be outdated, incomplete, or broken
+
+Release / deployment checklist:
+
+1. `pip install -r requirements.txt`
+2. `mkdocs serve`
+3. `mkdocs build --clean`
+4. push to `main`
+5. confirm the GitHub Actions workflow passed
+6. confirm Pages is configured to publish from `gh-pages`
 
 ## References
 
