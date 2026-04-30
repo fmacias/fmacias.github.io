@@ -1,0 +1,55 @@
+site_name: Fernando Macias
+site_description: Professional profile and curated technical documentation
+site_url: https://fmacias.github.io/
+docs_dir: docs
+site_dir: site
+
+theme:
+  name: material
+
+plugins:
+  - search
+  - i18n:
+      docs_structure: folder
+      fallback_to_default: false
+      reconfigure_material: true
+      reconfigure_search: true
+      languages:
+        - locale: en
+          name: English
+          default: true
+          build: true
+        - locale: de
+          name: Deutsch
+          build: true
+          nav_translations:
+            Home: Start
+            Services: Leistungen
+            Documentation: Dokumentation
+            Overview: Überblick
+            Architecture: Architektur
+            Getting Started: Erste Schritte
+            Profile / CV: Profil / CV
+            Contact: Kontakt
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+
+extra_javascript:
+  - assets/javascripts/language-preference.js
+
+nav:
+  - Home: index.md
+  - Services: services.md
+  - TplQueue: tplqueue.md
+  - Documentation:
+      - Overview: technical/overview.md
+      - Architecture: technical/architecture.md
+      - Getting Started: technical/getting-started.md
+  - Profile / CV: profile.md
+  - Contact: contact.md

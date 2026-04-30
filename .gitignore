@@ -52,3 +52,18 @@ CodeCoverage/
 *.VisualState.xml
 TestResult.xml
 nunit-*.xml
+
+# Python and MkDocs
+.venv/
+venv/
+site/
+__pycache__/
+.pytest_cache/
+
+# Private local instructions
+PRIVAT-AGENTS.md
+PRIVAT-*-NOTES.md
+
+# Data Feed folder
+
+DataFeeds/
