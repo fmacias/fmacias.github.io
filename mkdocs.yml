@@ -40,6 +40,9 @@ markdown_extensions:
   - toc:
       permalink: true
 
+extra_css:
+  - assets/stylesheets/hero.css
+
 extra_javascript:
   - assets/javascripts/language-preference.js
 
