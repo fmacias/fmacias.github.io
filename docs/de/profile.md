@@ -83,11 +83,11 @@ Im Kontext der späteren Übernahme durch `Shoplogix` zusätzlich Mitarbeit an I
 
 Schwerpunkte:
 
-- Weiterentwicklung von `CCS` und `XI-Gateway` für industrielle Prozessdatenerfassung.
-- Erweiterung des `OPC UA`-Client-/Server XI-Gateway um `PKI`-Funktionalität, inklusive Konfigurations- und UI-naher Anpassungen für  sicherheitsrelevante Verbindungsparameter.
-- Verbesserung der Transformation von `MT Connect`-Daten in Richtung `OPC UA`, insbesondere durch Stabilisierung der Abfrage-, Parsing- und Mapping-Logik bei hoher Anfragefrequenz.
+- Weiterentwicklung von `CCS` als `OPC UA`-Client-Komponente für industrielle Prozessdatenerfassung.
+- Erweiterung des `XI-Gateway` als `OPC UA`-Client-/Server-Komponente um `PKI`-Funktionalität, einschließlich Konfigurationsoberfläche für sicherheitsrelevante Verbindungsparameter.
+- Stabilisierung der `MT Connect`-zu-`OPC UA`-Transformation im `XI-Gateway`, insbesondere der Abfrage-, Parsing- und Mapping-Logik zur Abbildung von Maschinendaten auf `OPC UA`-Nodes.
 - Erweiterung von `OPC UA`-Client-Komponenten und workflowbasierten Konfigurationen zur Abbildung kundenspezifischer Produktions- und Prozessabläufe.
-- Entwicklung einer modularen ETL-Middleware für den Austausch zentraler Domänenobjekte zwischen `PROXIA`- und `Shoplogix`-Systemlandschaften. Wobei die Nachverfolgbarkeit von Job-Statusübergängen zwischen zwei `MES`-Systemen nachvollziehbar wurde.
+- Entwicklung einer modularen ETL-Middleware für den Austausch zentraler Domänenobjekte zwischen `PROXIA`- und `Shoplogix`-Systemlandschaften sowie zur Nachverfolgung von Job-Statusübergängen zwischen beiden `MES`-Systemen.
 - Umsetzung kundenspezifischer Features, Bearbeitung supportnaher Change Requests sowie technische Bereinigung und Stabilisierung bestehender Backlog-Themen.
 - Test- und Skalierbarkeitsverbesserungen sowie Konfiguration von QA-Umgebungen, unter anderem mit `AWS`- und `Hyper-V`-basierten Setups.
 
