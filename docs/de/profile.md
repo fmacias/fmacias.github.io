@@ -1,17 +1,11 @@
 # Profil / CV
 
-Ich bin selbständiger Senior-Softwareentwickler und Berater mit mehr als 20 Jahren Erfahrung in Softwareentwicklung, Systemintegration und Wartung. Mein Schwerpunkt liegt auf `.NET`, `C#`, `SQL`, datenbankintensiven Kernsystemen, Industriesoftware, E-Commerce-/`PIM`-Workflows und qualitätskritischer Softwareauslieferung.
-
 ## Kurzprofil
 
-- Rolle: Senior-Softwareentwickler / Berater / Individual Contributor
-- Arbeitsmodell: freiberufliche Beratung, projektbezogene technische Umsetzung, Teamerweiterung
-- Schwerpunkt: `.NET`, `SQL`, datenbankintensive Systeme, Enterprise-Integration, `MES`, Industriesoftware, `SQA`, E-Commerce- und Produktdatenprozesse
-- Sprachen: Deutsch, Englisch, Spanisch, Baskisch
-
+Ich bin ein erfahrener .NET/C#-Spezialist mit Schwerpunkt auf maßgeschneiderten Backend- und Integrationslösungen. Trotz meiner Spezialisierung bin ich technologisch flexibel: Ob .NET, Java/Spring oder Frontend-Frameworks – ich liefere hochwertige Ergebnisse. Meine Stärke liegt darin, komplexe Systeme zu verbinden, Datenbanken zu modellieren und nachhaltige Software zu bauen. Mein Fokus bleibt auf dem, was dem Projekt am besten dient.
 ## Profilzusammenfassung
 
-- Mehr als 20 Jahre Erfahrung in Entwicklung, Integration, Wartung und technischer Weiterentwicklung
+- Mehr als 15 Jahre Erfahrung in Entwicklung, Integration, Wartung und technischer Weiterentwicklung
 - Starke Umsetzung in `.NET`, `C#`, `REST`, `SOAP`, `OPC UA`, `SECS/GEM`, `XML` sowie praxisnaher `SQL`- und Datenbankarbeit
 - Erfahrung mit `MS SQL Server`, `Oracle`, `PostgreSQL`, `MySQL`, `SQLite`, `DB2` und `Visual FoxPro`
 - Datenmigrationen, profilinggestützte Fehlersuche, Query-Optimierung, Indexierung und performanceorientierte Analyse in bestehenden Systemen
@@ -21,40 +15,40 @@ Ich bin selbständiger Senior-Softwareentwickler und Berater mit mehr als 20 Jah
 
 ## Berufsausbildung
 
-| Ausbildung | Zeitraum |
-|---|---|
+| Ausbildung                            | Zeitraum    |
+| ------------------------------------- | ----------- |
 | Wirtschaftsinformatik (`CEBANC-CDEA`) | 1994 - 1997 |
 
 ## Weiterbildung
 
-| Weiterbildung | Zeitraum |
-|---|---|
-| Grafisches Kommunikationsdesign (`CEBANC-CDEA`) | 1999 - 2000 |
+| Weiterbildung                                                | Zeitraum    |
+| ------------------------------------------------------------ | ----------- |
+| Grafisches Kommunikationsdesign (`CEBANC-CDEA`)              | 1999 - 2000 |
 | Objektorientierte Programmierung und Analyse (`CEBANC-CDEA`) | 1996 - 1997 |
 
 ## Weitere Trainings
 
-| Training | Jahr / Zeitraum |
-|---|---|
-| `Cobol`, `CICS`, `DB2`, Erstellung von `JCLs` | 1997 |
-| `Oracle` (`Developer 2000`, `PL/SQL`) | 1998 - 1999 |
-| Business English | 2008 |
-| `Spring Boot` Seminar | 2019 |
-| Clean Code und Softwarehandwerkskunst | 2019 |
+| Training                                      | Jahr / Zeitraum |
+| --------------------------------------------- | --------------- |
+| `Cobol`, `CICS`, `DB2`, Erstellung von `JCLs` | 1997            |
+| `Oracle` (`Developer 2000`, `PL/SQL`)         | 1998 - 1999     |
+| Business English                              | 2008            |
+| `Spring Boot` Seminar                         | 2019            |
+| Clean Code und Softwarehandwerkskunst         | 2019            |
 
 ## Kurzprojekt-Vita
 
-| Unternehmen / Mandat | Zeitraum | Rolle | Bereich |
-|---|---:|---|---|
-| `PROXIA Software AG` / `Shoplogix` | 2022 - 2025 | Senior-Softwareentwickler | `MES`, `OPC UA`, ETL, industrielle Integration |
-| Kurzmandat im E-Commerce-Umfeld | 2021 | Softwareentwicklung, Integration, Test | E-Commerce, Logistikintegration |
-| `Data Experts GmbH` | 2017 - 2020 | Softwareingenieur | Output Management System |
-| Kurzmandat im ERP-Umfeld | 2017 | Softwareentwicklung und Wartung | ERP, interne Fachsoftware |
-| `Infineon Technologies, Regensburg` | 2014 - 2016 | Softwareentwickler / Equipment Integration | `MES`, Halbleiterfertigung |
-| `K New Media GmbH & Co` | 2011 - 2013 | Softwareentwickler | E-Commerce, `Magento`, `PIM`, Produktdaten |
-| `Infineon Technologies, Villach` | 2007 - 2010 | Softwareentwickler / Equipment Integration | `MES`, `SECS/GEM` |
-| `Music Pictures Ltd.` | 2006 | Softwareentwickler | Datenmigration, interne Verwaltung |
-| Frühe Berufserfahrung | 1998 - 2005 | IT-Entwicklung, Webentwicklung, freiberufliche Projekte, Schulung, Support | ERP, E-Commerce, CMS, maßgeschneiderte Software, Logistik, Office-Automatisierung |
+| Unternehmen / Mandat                |    Zeitraum | Rolle                                                                      | Bereich                                                                           |
+| ----------------------------------- | ----------: | -------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
+| `PROXIA Software AG` / `Shoplogix`  | 2022 - 2025 | Senior-Softwareentwickler                                                  | `MES`, `OPC UA`, ETL, industrielle Integration                                    |
+| Kurzmandat im E-Commerce-Umfeld     |        2021 | Softwareentwicklung, Integration, Test                                     | E-Commerce, Logistikintegration                                                   |
+| `Data Experts GmbH`                 | 2017 - 2020 | Softwareingenieur                                                          | Output Management System                                                          |
+| Kurzmandat im ERP-Umfeld            |        2017 | Softwareentwicklung und Wartung                                            | ERP, interne Fachsoftware                                                         |
+| `Infineon Technologies, Regensburg` | 2014 - 2016 | Softwareentwickler / Equipment Integration                                 | `MES`, Halbleiterfertigung                                                        |
+| `K New Media GmbH & Co`             | 2011 - 2013 | Softwareentwickler                                                         | E-Commerce, `Magento`, `PIM`, Produktdaten                                        |
+| `Infineon Technologies, Villach`    | 2007 - 2010 | Softwareentwickler / Equipment Integration                                 | `MES`, `SECS/GEM`                                                                 |
+| `Music Pictures Ltd.`               |        2006 | Softwareentwickler                                                         | Datenmigration, interne Verwaltung                                                |
+| Frühe Berufserfahrung               | 1998 - 2005 | IT-Entwicklung, Webentwicklung, freiberufliche Projekte, Schulung, Support | ERP, E-Commerce, CMS, maßgeschneiderte Software, Logistik, Office-Automatisierung |
 
 ## Skills
 
