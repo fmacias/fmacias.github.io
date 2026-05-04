@@ -53,20 +53,20 @@ Mein technologischer Schwerpunkt liegt auf .NET/C#, SQL, datenbankintensiven Anw
 
 ### Kernkompetenzen
 
-| Bereich                        | Skills                                                                                                                                 |
-| ------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------- |
-| `.NET` / Backend               | `.NET Framework`, `.NET Core`, `.NET Standard`, `C#`, `ASP.NET`, Services, Rich Clients, Backend-Komponenten, `MSBuild`, `NuGet`       |
-| Industrielle Integration / MES | `MES`, Equipment Integration, Prozessdatenerfassung, `OPC UA`, `SECS/GEM`, `MQTT`, `MT Connect`, ETL                                   |
-| Datenbanken / SQL              | `SQL`, `MS SQL Server`, `Oracle`, `PostgreSQL`, `MySQL`, `SQLite`, `DB2`, Query-Optimierung, Indexierung, Profiling, Datenmigrationen  |
-| Enterprise Integration         | `REST`, `SOAP`, XML-basierte Schnittstellen, Domänenobjekt-Transformation, Systemintegration                                           |
-| Qualität / Delivery            | `SQA`, Integrationstests, Regressionstests, `NUnit`, `JUnit`, `Selenium`, Code Reviews, Release-Readiness, `CI/CD`, `Jenkins`, `Nexus` |
+| Bereich                        | Skills                                                                                                                                              |
+| ------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `.NET` / Backend               | `.NET Framework`, `.NET Core`, `.NET Standard`, `C#`, `ASP.NET`,`Entity Framework`, Services, Rich Clients, Backend-Komponenten, `MSBuild`, `NuGet` |
+| Industrielle Integration / MES | `MES`, Equipment Integration, Prozessdatenerfassung, `OPC UA`, `SECS/GEM`, `MQTT`, `MT Connect`, ETL                                                |
+| Datenbanken / SQL              | `SQL`, `MS SQL Server`, `Oracle`, `PostgreSQL`, `MySQL`, `SQLite`, `DB2`, Query-Optimierung, Indexierung, Profiling, Datenmigrationen               |
+| Enterprise Integration         | `REST`, `SOAP`, XML-basierte Schnittstellen, Domänenobjekt-Transformation, Systemintegration                                                        |
+| Qualität / Delivery            | `SQA`, Integrationstests, Regressionstests, `NUnit`, `JUnit`, `Selenium`, Code Reviews, Release-Readiness, `CI/CD`, `Jenkins`, `Nexus`              |
 
 ### Ergänzende Erfahrung
 
 | Bereich                | Skills                                                                                                          |
 | ---------------------- | --------------------------------------------------------------------------------------------------------------- |
 | Web / Frontend         | `JavaScript`, `React`, `Vue.js`, `Node.js`, `AngularJS`, DOM, `HTML`, `CSS`                                     |
-| PHP / E-Commerce       | `PHP`, `Magento`, `Zend`, `MySQL`, `Tradebyte`, Produktdaten-Mapping, XML-Importe                               |
+| PHP / E-Commerce       | `PHP`, `Magento`, `Zend`, `MySQL`, `Tradebyte`, Produktdaten-Mapping, XML-Importe, `Doctrine`, `Propel`         |
 | Java / JVM             | `Java 8`, ausgewählte `Spring Boot`-Mitarbeit, `Maven`, `JUnit`                                                 |
 | Modellierung / Analyse | User Stories, UML Activity / Use Case / Sequence / Class Diagrams, `Enterprise Architect`, `Jira`, `Confluence` |
 | DevOps / Betrieb       | `Git`, `SVN`, `Docker`, `Vagrant`, `Hyper-V`, `WSL`, `Bash`, `Windows`, `Linux`, `IIS`, `Apache`, `Nginx`       |
