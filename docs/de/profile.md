@@ -217,8 +217,7 @@ Ausgewählte Stationen:
 In dieser Phase fielen sowohl ERP- und Fachanwendungsarbeit als auch frühe Web- und CMS-Projekte im E-Commerce-Umfeld zusammen.
 
 **Technologien:** `Oracle Developer 2000`, `PL/SQL`, `Visual FoxPro`, `Crystal Reports`, `SQL`, `MS Access`, `Visual Basic`, `MS Office`, `PHP`, `MySQL`, `HTML`, `CSS`, `JavaScript`, `Java`, `XML`, `XSLT`, `Apache`, `Tomcat`
-<span id="aktuelle-technische-richtung"></span>
 
-## Aktuelle technische Richtung { #current-technical-direction }
+## Aktuelle technische Richtung
 
 Parallel zur Projektarbeit entwickle ich [TplQueue](tplqueue.md), eine wiederverwendbare `.NET`-Komponente für kontrollierte nebenläufige Ausführung, queue-basierte Verarbeitung und Orchestrierungsmuster.

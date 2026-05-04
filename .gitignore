@@ -67,3 +67,7 @@ PRIVAT-*-NOTES.md
 # Data Feed folder
 
 DataFeeds/
+
+# Ignore obsidian working required files
+docs/.obsidian/
+

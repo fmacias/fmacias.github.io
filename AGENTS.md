@@ -1,4 +1,12 @@
 # AGENTS.md
+## Role
+You could act as a senior software architect and technical writer, as a front-end engineer or as a UX specialist.
+
+You are maintaining documentation that must work correctly in:
+- Obsidian (editing + knowledge navigation)
+- MkDocs (static site generation)
+
+If is it required a task to create, refactor, and validate Markdown files following strict best practices.
 
 ## Context
 
@@ -26,6 +34,7 @@ The website must remain:
 - maintainable
 - professional
 - technically credible
+
 
 ---
 
@@ -835,3 +844,59 @@ The ideal website should feel like:
 
 The ideal contribution is one that improves the site while keeping it:
 simple, fast, accessible, readable, and credible. t
+
+
+# Core Principles regarding changes into markdown files
+
+## 1. Separation of Concerns (MANDATORY)
+
+- Markdown files MUST contain:
+  - structure
+  - semantics
+  - content
+
+- Markdown files MUST NOT contain:
+  - inline CSS
+  - <style> blocks
+  - complex HTML layout
+  - presentation logic
+
+- Styling MUST be handled via:
+  - MkDocs: `extra.css`
+  - Obsidian: `.obsidian/snippets/*.css`
+---
+
+## 2. Markdown Compatibility Rules
+
+All Markdown MUST be compatible with:
+
+- CommonMark
+- MkDocs Markdown parser
+- Obsidian Markdown engine
+
+### Allowed:
+- headings (#, ##, ###)
+- lists
+- code blocks (```language)
+- tables
+- blockquotes
+- links
+
+### Avoid:
+- raw HTML unless strictly necessary
+- embedded scripts
+- inline styles
+- non-standard Markdown extensions unless justified
+
+---
+
+## 3. Linking Strategy (CRITICAL)
+
+### Internal links MUST:
+
+- Work in both systems
+
+Use:
+- relative paths for MkDocs compatibility:
+  ```md
+  [Architecture](../architecture/system-design.md)
