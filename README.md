@@ -17,14 +17,29 @@ The site uses a multilingual folder-based content structure:
 ```text
 docs/
   en/
+    index.md
+    services.md
+    tplqueue.md
+    profile.md
+    contact.md
   de/
+    index.md
+    services.md
+    tplqueue.md
+    profile.md
+    contact.md
   assets/
 ```
+
+The public landing pages are the language-specific `index.md` files under `docs/en/` and `docs/de/`.
+Legacy `home.md` pages are not part of the current site structure.
+Those landing pages are intentionally outside the visible top navigation.
 
 Current language behavior:
 
 - English is the default language at `/`
 - German is available at `/de/`
+- the landing pages are localized at `docs/en/index.md` and `docs/de/index.md`
 - a small client-side script may redirect users from `/` to `/de/` when the browser language is German or a German preference was stored earlier
 
 ## Local Setup
@@ -73,6 +88,8 @@ What to expect:
 
 - English pages are served from `/`
 - German pages are served from `/de/`
+- English content uses root-relative routes such as `/services/`
+- German content uses `/de/`-prefixed routes such as `/de/services/`
 - the multilingual build depends on the `i18n` plugin from `mkdocs-static-i18n`
 
 ## Release Notes For Maintainers

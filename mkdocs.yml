@@ -23,7 +23,6 @@ plugins:
           name: Deutsch
           build: true
           nav_translations:
-            Home: Start
             Services: Leistungen
             Documentation: Dokumentation
             Overview: Überblick

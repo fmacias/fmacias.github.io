@@ -67,11 +67,30 @@
   window.addEventListener("hashchange", updateLanguageSwitcherLinks);
   updateLanguageSwitcherLinks();
 
-  if (normalized === "") {
+  if (normalized !== "") {
+    if (!hasManualPreference()) {
+      setPreference(getLanguageFromPath(normalized), "auto");
+    }
+
     return;
   }
 
-  if (!hasManualPreference()) {
-    setPreference(getLanguageFromPath(normalized), "auto");
+  var savedLanguage = localStorage.getItem(preferenceKey);
+  if (hasManualPreference() && savedLanguage) {
+    if (savedLanguage === "de") {
+      window.location.replace("/de/");
+      return;
+    }
+
+    return;
   }
+
+  var browserLanguage = (navigator.language || navigator.userLanguage || "").toLowerCase();
+  if (browserLanguage.indexOf("de") === 0) {
+    setPreference("de", "auto");
+    window.location.replace("/de/");
+    return;
+  }
+
+  setPreference("en", "auto");
 })();

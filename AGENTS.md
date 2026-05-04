@@ -260,7 +260,7 @@ Do not add engineering complexity to solve a design problem that can be solved w
 
 ## Repository and structure rules
 
-Preferred repository structure:
+Single-language reference structure:
 
 ```text
 .
@@ -291,6 +291,7 @@ Rules:
 - keep public-facing pages distinct from deep technical documentation
 - avoid orphan pages
 - avoid duplicate content across pages
+- in the multilingual site, prefer language-specific landing pages at `docs/en/index.md` and `docs/de/index.md` over legacy `home.md` duplicates
 
 Multilingual structure supplement:
 
@@ -338,6 +339,8 @@ Multilingual structure supplement:
 `-- .github/
 ```
 
+The current public site follows the multilingual structure below, with language-specific landing pages in `docs/en/index.md` and `docs/de/index.md`.
+
 Additional structure rules:
 
 - keep the same relative page paths across language trees whenever possible
@@ -355,12 +358,13 @@ The website should generally remain small and focused.
 
 Preferred top-level navigation:
 
-- Home
 - Services
 - TplQueue
 - Documentation
 - Profile / About
 - Contact
+
+A localized landing page may exist at `/` and `/de/` without a visible `Home` navigation item.
 
 Changes to navigation must improve discoverability or user flow.
 
@@ -396,7 +400,7 @@ Preferred behavior:
 - English is the default built language at `/`
 - German is built at `/de/`
 - Spanish, when added, should be built at `/es/`
-- the root path `/` may use a very small JavaScript redirect
+- the root path `/` may use a very small JavaScript redirect, but the landing content should live in `docs/<lang>/index.md`
 - if a saved language preference exists, use it first when that language is available
 - otherwise, if the browser language starts with `de`, route to `/de/`
 - otherwise stay on the English root `/`
