@@ -42,12 +42,12 @@ markdown_extensions:
 
 extra_css:
   - assets/stylesheets/hero.css
+  - assets/stylesheets/landing.css
 
 extra_javascript:
   - assets/javascripts/language-preference.js
 
 nav:
-  - Home: index.md
   - Services: services.md
   - TplQueue: tplqueue.md
   - Documentation:

@@ -1,0 +1,115 @@
+/* Root landing page hero for fmacias.github.io.
+   Mobile-first, accessible, and independent from the MkDocs navigation. */
+
+.fm-root-landing {
+  --fm-yellow: #ffcd00;
+  --fm-red: #c90000;
+  --fm-black: #111111;
+  --fm-white: #ffffff;
+
+  min-height: calc(100vh - 4rem);
+  padding: 0 0.75rem 0.75rem;
+  text-align: center;
+}
+
+.fm-root-landing__hero {
+  display: block;
+  max-width: 1080px;
+  margin: 0 auto;
+  overflow: hidden;
+  border-radius: 1rem;
+  background: var(--fm-yellow);
+  box-shadow: 0 1rem 2.5rem rgba(0, 0, 0, 0.22);
+  text-decoration: none;
+}
+
+.fm-root-landing__hero img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.fm-root-landing__hero:focus-visible,
+.fm-root-landing__button:focus-visible,
+.fm-root-landing__links a:focus-visible {
+  outline: 4px solid var(--md-accent-fg-color);
+  outline-offset: 4px;
+}
+
+.fm-root-landing__actions {
+  display: grid;
+  gap: 0.75rem;
+  max-width: 1080px;
+  margin: 1rem auto 0 auto;
+}
+
+.fm-root-landing__button {
+  display: block;
+  padding: 0.9rem 1rem;
+  border-radius: 0.8rem;
+  font-weight: 800;
+  line-height: 1.2;
+  text-decoration: none;
+  box-shadow: 0 0.45rem 1rem rgba(0, 0, 0, 0.16);
+}
+
+.fm-root-landing__button span {
+  display: block;
+  margin-top: 0.2rem;
+  font-size: 0.78rem;
+  font-weight: 600;
+  opacity: 0.9;
+}
+
+.fm-root-landing__button--primary {
+  color: var(--fm-white);
+  background: var(--fm-red);
+}
+
+.fm-root-landing__button--secondary {
+  color: var(--fm-black);
+  background: var(--fm-yellow);
+  border: 2px solid var(--fm-black);
+}
+
+.fm-root-landing__button--dark {
+  color: var(--fm-white);
+  background: var(--fm-black);
+}
+
+.fm-root-landing__links {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0.65rem 1rem;
+  max-width: 1080px;
+  margin: 1rem auto 0 auto;
+  font-size: 0.85rem;
+}
+
+.fm-root-landing__links a {
+  color: var(--md-default-fg-color);
+  text-decoration: none;
+}
+
+.fm-root-landing__links a:hover {
+  text-decoration: underline;
+}
+
+@media screen and (min-width: 760px) {
+  .fm-root-landing {
+    padding: 0 1.25rem 1.25rem;
+  }
+
+  .fm-root-landing__actions {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+@media screen and (min-width: 1100px) {
+  .fm-root-landing__hero,
+  .fm-root-landing__actions,
+  .fm-root-landing__links {
+    max-width: 1180px;
+  }
+}
