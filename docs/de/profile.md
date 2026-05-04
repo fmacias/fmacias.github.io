@@ -72,25 +72,27 @@ Mein technologischer Schwerpunkt liegt auf .NET/C#, SQL, datenbankintensiven Anw
 | DevOps / Betrieb       | `Git`, `SVN`, `Docker`, `Vagrant`, `Hyper-V`, `WSL`, `Bash`, `Windows`, `Linux`, `IIS`, `Apache`, `Nginx`       |
 
 ## Arbeitserfahrung
-
 ### PROXIA Software AG / Shoplogix
 
 **Senior-Softwareentwickler**  
-**MES / Prozessdatenerfassung / ETL**  
-**07/2022 - 01/2025**
+**MES / Prozessdatenerfassung / OPC UA / ETL**  
+**07/2022 – 01/2025**
 
-Weiterentwicklung und Pflege von Softwarekomponenten für Prozessdatenerfassung, `OPC UA`-Kommunikation und Datenintegration in industriellen `MES`-Umfeldern. Nach der Übernahme durch `Shoplogix` zusätzlich Entwicklung einer modularen ETL-Middleware für den Austausch von Domänenobjekten zwischen zwei unterschiedlichen Systemlandschaften.
+Weiterentwicklung, Stabilisierung und Erweiterung produktiver Softwarekomponenten für Prozessdatenerfassung, `OPC UA`-Kommunikation und Datenintegration in industriellen `MES`-Umgebungen.  
+Im Kontext der späteren Übernahme durch `Shoplogix` zusätzlich Mitarbeit an Integrations- und Transformationsprozessen zwischen unterschiedlichen `MES`-Systemlandschaften.
 
 Schwerpunkte:
 
-- Weiterentwicklung von `CCS`, `XI-Gateway`, Connectoren und angrenzenden Komponenten
-- Erweiterung eines `OPC UA`-Gateways um `PKI`-Funktionalität
-- Normalisierung von `MT Connect`-Daten in Richtung `OPC UA`
-- Kundenspezifische Features, Support-nahe Change Requests und QA-nahe Tätigkeiten
-- Test- und Skalierbarkeitsverbesserungen sowie Konfiguration von QA-Umgebungen
+- Weiterentwicklung von `CCS` und `XI-Gateway` für industrielle Prozessdatenerfassung.
+- Erweiterung des `OPC UA`-Client-/Server XI-Gateway um `PKI`-Funktionalität, inklusive Konfigurations- und UI-naher Anpassungen für  sicherheitsrelevante Verbindungsparameter.
+- Verbesserung der Transformation von `MT Connect`-Daten in Richtung `OPC UA`, insbesondere durch Stabilisierung der Abfrage-, Parsing- und Mapping-Logik bei hoher Anfragefrequenz.
+- Erweiterung von `OPC UA`-Client-Komponenten und workflowbasierten Konfigurationen zur Abbildung kundenspezifischer Produktions- und Prozessabläufe.
+- Entwicklung einer modularen ETL-Middleware für den Austausch zentraler Domänenobjekte zwischen `PROXIA`- und `Shoplogix`-Systemlandschaften. Wobei die Nachverfolgbarkeit von Job-Statusübergängen zwischen zwei `MES`-Systemen nachvollziehbar wurde.
+- Umsetzung kundenspezifischer Features, Bearbeitung supportnaher Change Requests sowie technische Bereinigung und Stabilisierung bestehender Backlog-Themen.
+- Test- und Skalierbarkeitsverbesserungen sowie Konfiguration von QA-Umgebungen, unter anderem mit `AWS`- und `Hyper-V`-basierten Setups.
 
-**Technologien:** `.NET`, `C#`, `ASP.NET`, `OPC UA`, `MT Connect`, `MQTT`, ETL, `AWS`, `Git`, `GitLab`, `Hyper-V`, `REST`, `WSL`, `React`, `Vue.js`, `Jira`, `Confluence`
-
+**Technologien / Umfeld:**  
+`.NET`, `C#`, `ASP.NET`, `OPC UA`, `PKI`, `MT Connect`, `MQTT`, `REST`, ETL, `XML`, `AWS`, `Git`, `GitLab`, `Hyper-V`, `WSL`, `React`, `Vue.js`, `Jira`, `Confluence`
 ### Kurzmandat im E-Commerce-Umfeld
 
 **Softwareentwicklung, Integration und Test**  
