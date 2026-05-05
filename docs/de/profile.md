@@ -159,20 +159,21 @@ Schwerpunkte:
 ### K New Media GmbH & Co
 
 **Softwareentwickler (PHP)**  
-**E-Commerce / Produktdaten / Magento**  
+**E-Commerce / Produktdaten / Magento / PIM**  
 **01/2011 - 05/2013**
 
-Weiterentwicklung einer Produktimportanwendung, Implementierung von `Magento`-Modulen und technische Pflege angrenzender Komponenten in einem integrationslastigen E-Commerce-Umfeld.
+Weiterentwicklung einer Produktimportanwendung und Implementierung von `Magento`-Modulen. Fokus auf automatisierten Importprozessen, Produktdaten-Mapping, Datenvalidierung sowie Stabilisierung großer `XML`- und Bildimport-Workflows.
 
 Schwerpunkte:
 
-- JavaScript-nahe `Magento`-Arbeit und Frontend-Anpassungen
-- Große XML- und Bildimport-Workflows
-- Normalisierung von Produkt- und Bestandsdaten aus `Klingel`-XML-Feeds für das `Tradebyte`-`PIM`-System
+- Produktimportprozesse für mehrere E-Commerce-Marktplätze
+- `Magento`-Modulentwicklung und `JavaScript`-/Frontend-Anpassungen
+- Normalisierung von Produkt- und Bestandsdaten aus `Klingel`-XML-Feeds für das `Tradebyte`-PIM-System im deutschen E-Commerce-/Versandhandelsumfeld
 - Automatisierte Importprozesse auf Basis eines `PHP`-Clients
-- Mapping, Validierung, Prozessoptimierung, Unit Tests und Integrationstests
+- Mapping, Validierung, Prozessoptimierung, Unit Tests, Integrationstests und Dokumentation
 
-**Technologien:** `Linux`, `PHP`, `Magento`, `JavaScript`, `MySQL`, `Zend`, `Jenkins`, `PHPUnit`, `XDebug`, `XML`, `XSD`, `HTML`, `CSS`, `Bash`, UML
+**Technologien:**  
+`Linux`, `PHP 5`, `Magento`, `Zend`, `JavaScript`, `jQuery`, `Prototype`, `MySQL`, `Git`, `SVN`, `Jenkins`, `PHPUnit`, `XDebug`, `XML`, `XSD`, `HTML`, `CSS`, `Bash`, UML
 
 ### Infineon Technologies, Villach
 
