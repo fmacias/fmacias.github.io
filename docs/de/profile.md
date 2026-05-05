@@ -111,20 +111,22 @@ Schwerpunkte:
 ### Data Experts GmbH
 
 **Softwareingenieur**  
-**Output Management System**  
+**Output Management System der AOK-Krankenkasse**  
 **11/2017 - 07/2020**
 
-Weiterentwicklung und Wartung eines `.NET`-Clients und zugehöriger Services im täglichen Unternehmenseinsatz. Ergänzend Fehlerbehebungen und Erweiterungen in einer `Java`-basierten Serveranwendung sowie Änderungen an grafischen Oberflächen in `React`.
+Hauptverantwortliche Weiterentwicklung und Wartung der `XOUT.Net`-Client- und Service-Anwendung im produktiven Einsatz bei ca. 5.000 täglichen Nutzern. Zusätzlich Fehlerbehebungen und Erweiterungen an einer `Java`-basierten Serveranwendung sowie Anpassungen an `React`-Oberflächen.
 
 Schwerpunkte:
 
-- Weiterentwicklung einer produktionsrelevanten Client-/Service-Anwendung
-- Release-Vorbereitung mit größerer Integrations- und Regressionsabdeckung
-- Fehlerbehebungen und Erweiterungen in `Java` / `Spring Boot`
-- Mitarbeit an `React`-Oberflächen
+- Weiterentwicklung und Stabilisierung einer produktionsrelevanten `.NET Framework`-Client-/Service-Anwendung
+- Release-Vorbereitung mit Integrations- und Regressionsabdeckung
+- Fehlerbehebungen und Erweiterungen in `Java 8` / `Spring Boot`
+- Anpassungen an `React`-basierten Benutzeroberflächen
 - Reviews, Tests, Dokumentation und qualitätsrelevante Abstimmung
+- Arbeit mit `Oracle`, `PostgreSQL`, `ModeShape` und `JBoss WildFly`
 
-**Technologien:** `.NET Framework`, `C#`, `Java 8`, `Spring Boot`, `React`, `Oracle`, `Postgres`, `REST`, `SOAP`, `JUnit`, `NUnit`, `Jenkins`, `Maven`, `Jira`, `Confluence`, `Nexus`, `JBoss WildFly`
+**Technologien:**  
+`.NET Framework`, `C#`, `Java 8`, `Spring Boot`, `React`, `Oracle`, `PostgreSQL`, `ModeShape`, `REST`, `SOAP`, `JUnit`, `NUnit`, `Jenkins`, `Maven`, `Vagrant`, `Jira`, `Confluence`, `Nexus`, `JBoss WildFly`, `Visual Studio`, `IntelliJ`
 
 ### Kurzmandat im ERP-Umfeld
 
