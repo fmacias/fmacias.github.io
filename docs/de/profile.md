@@ -141,19 +141,20 @@ Kurzfristiger Einsatz mit Schwerpunkt auf Weiterentwicklung und Wartung einer ER
 ### Infineon Technologies, Regensburg
 
 **Softwareentwickler / Equipment Integration**  
-**Halbleiterindustrie / MES**  
+**Halbleiterindustrie / MES / SECS/GEM**  
 **05/2014 - 11/2016**
 
-Projektarbeit im Kontext von `MES`-naher Halbleiterfertigung. Weiterentwicklung und Integration produktionsrelevanter Abläufe für unterschiedliche Wafer-Produktionslinien.
+Projektarbeit im Auftrag von `Hays AG` bei `Infineon Technologies Regensburg`. Weiterentwicklung, Integrationstest und technische Anpassung der `EAF`-Software für produktionsrelevante Wafer-Abläufe im `MES`-nahen Halbleiterumfeld, einschließlich Adaption von 300-mm- auf 200-mm-Produktionslinien.
 
 Schwerpunkte:
 
-- Erweiterung und Integration einer produktionsnahen Software für 300-mm- und 200-mm-Wafer-Abläufe
+- Erweiterung und Integration der `EAF`-Software für 300-mm- und 200-mm-Wafer-Abläufe
 - Integrationstests und technische Anpassungen im Produktionsumfeld
-- Browserseitiges `JavaScript` für simulationsnahe Werkzeuge
-- Spezifikationsarbeit und UML-basierte Dokumentation, insbesondere Activity Diagrams
+- `JavaScript` für simulationsnahe Werkzeuge
+- UML-basierte Spezifikation und Dokumentation, insbesondere *Activity Diagrams*
 
-**Technologien:** `YODA`, `TIBCO`, `.NET Framework`, `C#`, `JavaScript`, `XML`, `XSLT`, `DOM`, `SECS/GEM`, UML, `Enterprise Architect`
+**Technologien:**  
+`YODA`, `TIBCO`, `.NET Framework 4.5`, `C#`, `JavaScript`, `XML`, `XSLT`, `DOM`, `SECS/GEM`, UML, `Enterprise Architect`, `Visual Studio`
 
 ### K New Media GmbH & Co
 
@@ -176,18 +177,22 @@ Schwerpunkte:
 ### Infineon Technologies, Villach
 
 **Softwareentwickler / Equipment Integration via SECS/GEM**  
+**Halbleiterindustrie / MES**  
 **03/2007 - 03/2010**
 
-Entwicklung und Integration eines `.NET`-basierten Equipment-Integrationsservice im Halbleiterumfeld auf Basis von `SECS/GEM`.
+Projektarbeit im Auftrag von `Saxonia Systems AG` bei `Infineon Technologies Villach`. Entwicklung und Integration eines `.NET`-basierten Equipment-Integrationsservice zur Anbindung von Produktionsanlagen an ein `MES` im Halbleiterumfeld.
 
 Schwerpunkte:
 
-- Bereitstellung von `SECS/GEM`-Fähigkeit für einen Integrationsservice
-- Kommunikation zwischen Host und Equipment über `HSMS`, `RS232` und SECS-Protokolle
-- Simulation, Datenerfassung, Prozessüberwachung und Job-Status-Updates
-- GUI-nahe Entwürfe, Dokumentation und Deployment
+- Bereitstellung von `SECS/GEM`-Fähigkeit für einen `.NET`-basierten Equipment-Integrationsservice
+- Host-Equipment-Kommunikation über `SECS-I`, `SECS-II`, `HSMS`/`TCP/IP` und `RS232`
+- Automatisierung produktionsnaher Equipment-Prozesse zur Reduzierung manueller und fehleranfälliger Abläufe
+- Simulation von Equipment-Verhalten, Befehlen, Ereignissen und Messwerten
+- Unterstützung von Rezeptauswahl, Prozessüberwachung, Prozessdatenerfassung und Job-Status-Updates
+- Analyse, Softwareentwicklung, Integrationstests, Dokumentation und Deployment
 
-**Technologien:** `.NET`, `C#`, `JavaScript`, `TIBCO`, `YODA`, `SECS/GEM`, `XML`, `XSLT`, UML, `SQL`
+**Technologien:**  
+`.NET`, `C#`, `JavaScript`, `Windows 2000 Server`, `TIBCO`, `YODA`, `SECS/GEM`, `HSMS`, `RS232`, `XML`, `XSLT`, `DOM`, UML, `SQL`, SPS
 
 ### Music Pictures Ltd.
 
