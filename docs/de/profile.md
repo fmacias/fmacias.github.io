@@ -198,11 +198,19 @@ Schwerpunkte:
 ### Music Pictures Ltd.
 
 **Softwareentwickler**  
+**Datenmigration / interne Verwaltungssoftware**  
 **08/2006 - 11/2006**
 
-Datenmigration von `Access` nach `Oracle` sowie Weiterentwicklung und Test einer internen Verwaltungssoftware.
+Kurzer Projekteinsatz nach einem Praktikumseinstieg, bei dem ich aufgrund meiner Datenbankerfahrung in ein professionelles Migrationsprojekt für die Mutterfirma `Redferns.com` eingebunden wurde. Schwerpunkt war die Migration einer bestehenden `MS Access`-Anwendung nach `Oracle`, einschließlich Umsetzung und Abstimmung vor Ort im Kundenbüro in London.
 
-**Technologien:** `MS Access`, `Visual Basic`, `Oracle`, `SQL`
+Schwerpunkte:
+
+- Migration von Daten und Anwendungslogik von `MS Access` nach `Oracle`
+- Weiterentwicklung und Test der internen Verwaltungssoftware
+- Arbeit mit `Visual Basic`, `ADODB` und SQL-basierter Datenprüfung
+
+**Technologien:**  
+`MS Access`, `Visual Basic`, `ADODB`, `Oracle`, `SQL`
 
 ### Frühe Berufserfahrung
 
