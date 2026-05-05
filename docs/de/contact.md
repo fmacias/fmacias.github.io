@@ -1,3 +1,2 @@
-## Kontakt
 
-Haben Sie eine offene Möglichkeit? Schreiben Sie mir einfach eine E-Mail an maxmustermann@gmail.com.
+Haben Sie eine offene Möglichkeit? Schreiben Sie mir einfach eine E-Mail an maxmustermann@gmail.com, vielen Dank.
