@@ -2,10 +2,9 @@
 
 ## Kurzprofil
 
-> [!NOTE]
 > Mein Fokus bleibt auf dem, was dem Projekt am besten dient
 
-Ich bin ein erfahrener **.NET/C#-Spezialist** mit Schwerpunkt auf maßgeschneiderten Backend- und Integrationslösungen. Trotz meiner Spezialisierung bin ich technologisch flexibel: Ob .NET, Java/Spring oder Frontend-Frameworks. 
+Ich bin ein erfahrener **.NET/C#-Spezialist** mit Schwerpunkt auf maßgeschneiderten Backend- und Integrationslösungen. Trotz meiner Spezialisierung bin ich technologisch flexibel: Ob .NET, Java Spring oder Frontend-Frameworks. 
 ## Profilzusammenfassung
 
 Meine berufliche Stärke liegt im Backend- und Integrationsbereich, bringe aber ausreichend Full-Stack-Erfahrung mit, um Schnittstellen zwischen Backend, Datenbanken, Services und Benutzeroberflächen sinnvoll umzusetzen.
