@@ -62,13 +62,13 @@ Besonders Vertraut bin ich mit der Abarbeitung des Rückstands von Systemen, in 
 
 ### Ergänzende Erfahrung
 
-| Bereich                | Skills                                                                                                          |
-| ---------------------- | --------------------------------------------------------------------------------------------------------------- |
-| Web / Frontend         | `JavaScript`, `React`, `Vue.js`, `Node.js`, `AngularJS`, DOM, `HTML`, `CSS`                                     |
-| PHP / E-Commerce       | `PHP`, `Magento`, `Zend`, `MySQL`, `Tradebyte`, Produktdaten-Mapping, XML-Importe, `Doctrine`, `Propel`         |
-| Java / JVM             | `Java 8`, ausgewählte `Spring Boot`-Mitarbeit, `Maven`, `JUnit`                                                 |
-| Modellierung / Analyse | User Stories, UML Activity / Use Case / Sequence / Class Diagrams, `Enterprise Architect`, `Jira`, `Confluence` |
-| DevOps / Betrieb       | `Git`, `SVN`, `Docker`, `Vagrant`, `Hyper-V`, `WSL`, `Bash`, `Windows`, `Linux`, `IIS`, `Apache`, `Nginx`       |
+| Bereich                | Skills                                                                                                                      |
+| ---------------------- | --------------------------------------------------------------------------------------------------------------------------- |
+| Web / Frontend         | `JavaScript`, `React`, `Vue.js`, `Node.js`, `AngularJS`, DOM, `HTML`, `CSS`, `XSLT`, `XPATH`                                |
+| PHP / E-Commerce       | `PHP`, `Magento`, `Zend`, `MySQL`, `Tradebyte`, Produktdaten-Mapping, XML-Import, `Doctrine`, `Propel`                      |
+| Java / JVM             | `Java 8`, ausgewählte `Spring Boot`-Mitarbeit, `Maven`, `JUnit`                                                             |
+| Modellierung / Analyse | User Stories, UML Activity / Use Case / Sequence / Class Diagrams, `Enterprise Architect`, `Jira`, `Confluence`, `PlantUML` |
+| DevOps / Betrieb       | `Git`, `SVN`, `Docker`, `Vagrant`, `Hyper-V`, `WSL`, `Bash`, `Windows`, `Linux`, `IIS`, `Apache`, `Nginx`                   |
 
 ## Arbeitserfahrung
 ### PROXIA Software AG / Shoplogix
