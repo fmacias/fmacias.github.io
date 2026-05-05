@@ -4,12 +4,12 @@
 
 > Mein Fokus bleibt auf dem, was dem Projekt am besten dient
 
-Ich bin ein erfahrener **.NET/C#-Spezialist** mit Schwerpunkt auf maßgeschneiderten Backend- und Integrationslösungen. Trotz meiner Spezialisierung bin ich technologisch flexibel: Ob .NET, Java Spring oder Frontend-Frameworks. 
+Ich bin ein erfahrener **.NET/C#-Spezialist** mit Schwerpunkt auf maßgeschneiderten Backend- und Integrationslösungen. Trotz meiner Spezialisierung bin ich technologisch flexibel – ob `.NET`, `Java`/`Spring` oder moderne Frontend-Frameworks.
 ## Profilzusammenfassung
 
-Meine berufliche Stärke liegt im Backend- und Integrationsbereich, bringe aber ausreichend Full-Stack-Erfahrung mit, um Schnittstellen zwischen Backend, Datenbanken, Services und Benutzeroberflächen sinnvoll umzusetzen.
+Meine berufliche Stärke liegt im Backend- und Integrationsbereich; zugleich bringe ich ausreichend Full-Stack-Erfahrung mit, um Schnittstellen zwischen Backend, Datenbanken, Services und Benutzeroberflächen sinnvoll umzusetzen.
 
-Besonders Vertraut bin ich mit der Abarbeitung des Rückstands von Systemen, in denen *technische Schulden*, *Legacy-Code*, *Datenbankabhängigkeiten*, *Integrationsaufwand* oder *Release-Druck* eine Rolle spielen. Ich analysiere solche Umgebungen strukturiert, erkenne technische Abhängigkeiten und liefere pragmatische Lösungen, die Wartbarkeit, Testbarkeit und Betriebssicherheit verbessern.
+Besonders vertraut bin ich mit der Abarbeitung des Rückstands von Systemen, in denen *technische Schulden*, *Legacy-Code*, *Datenbankabhängigkeiten*, *Integrationsaufwand* oder *Release-Druck* eine Rolle spielen. Ich analysiere solche Umgebungen strukturiert, erkenne technische Abhängigkeiten und liefere pragmatische Lösungen, die Wartbarkeit, Testbarkeit und Betriebssicherheit verbessern.
 
 ## Berufsausbildung
 
@@ -92,21 +92,25 @@ Schwerpunkte:
 
 **Technologien:**  
 `.NET`, `C#`, `ASP.NET`, `OPC UA`, `PKI`, `MT Connect`, `MQTT`, `REST`, ETL, `XML`, `AWS`, `Git`, `GitLab`, `Hyper-V`, `WSL`, `React`, `Vue.js`, `Jira`, `Confluence`
+
 ### Kurzmandat im E-Commerce-Umfeld
 
 **Softwareentwicklung, Integration und Test**  
-**E-Commerce / Logistikintegration**  
+**E-Commerce / Logistikintegration / Legacy-Systeme**  
 **2021**
 
-Kurzfristiger Beratungseinsatz mit Schwerpunkt auf E-Commerce-naher Integration, qualitätsorientierter Umsetzung und technischer Stabilisierung in einer bestehenden Systemlandschaft.
+Kurzfristiger, technisch intensiver Einsatz in einer bestehenden E-Commerce-Systemlandschaft mit Schwerpunkt auf Wartung, Integration, Testautomatisierung und Stabilisierung interner Anwendungen.
 
 Schwerpunkte:
 
-- `Selenium`-gestützte Tests und release-nahe Qualitätssicherung
-- `DHL`- und `DPD`-API-Integrationen sowie lokale `SOAP`- und `REST`-Anbindungen
-- Wartung und Weiterentwicklung interner `.NET`-Anwendungen
+- Wartung und Weiterentwicklung interner `.NET`-/Legacy-Anwendungen
+- Integration und Anpassung lokaler `SOAP`- und `REST`-Anbindungen
+- `DHL`- und `DPD`-API-Integrationen im Logistik- und Versandumfeld
+- `Selenium`-gestützte Tests sowie *release*-nahe Qualitätssicherung
+- Unterstützung bei *Refactoring*, Fehleranalyse und technischer Stabilisierung
 
-**Technologien:** `.NET`, `C#`, `SOAP`, `REST`, `Selenium`, `Docker`, `Vagrant`, `Node.js`
+**Technologien:**  
+`.NET`, `C#`, `SOAP`, `REST`, `Selenium`, `Docker`, `Vagrant`, `Node.js`
 
 ### Data Experts GmbH
 
@@ -114,7 +118,7 @@ Schwerpunkte:
 **Output Management System der AOK-Krankenkasse**  
 **11/2017 - 07/2020**
 
-Hauptverantwortliche Weiterentwicklung und Wartung der `XOUT.Net`-Client- und Service-Anwendung im produktiven Einsatz bei ca. 5.000 täglichen Nutzern. Zusätzlich Fehlerbehebungen und Erweiterungen an einer `Java`-basierten Serveranwendung sowie Anpassungen an `React`-Oberflächen.
+Hauptverantwortlich für Weiterentwicklung und Wartung der `XOUT.Net`-Client- und Service-Anwendung im produktiven Einsatz bei ca. 5.000 täglichen Nutzern. Zusätzlich Fehlerbehebungen und Erweiterungen an einer `Java`-basierten Serveranwendung sowie Anpassungen an `React`-Oberflächen.
 
 Schwerpunkte:
 
@@ -131,12 +135,20 @@ Schwerpunkte:
 ### Kurzmandat im ERP-Umfeld
 
 **Softwareentwicklung und Wartung**  
-**ERP / interne Fachsoftware**  
+**ERP / interne Fachsoftware / Desktop-Anwendungen**  
 **2017**
 
-Kurzfristiger Einsatz mit Schwerpunkt auf Weiterentwicklung und Wartung einer ERP-nahen Fachanwendung.
+Kurzfristiger Einsatz mit Schwerpunkt auf Weiterentwicklung, Wartung und Fehlerbehebung einer ERP-nahen Fachanwendung im internen Unternehmensumfeld.
 
-**Technologien:** `.NET Framework`, `C#`, `Entity Framework`, `MS SQL Server`, `DevExpress`, `WinForms`, `NUnit`, `ReSharper`
+Schwerpunkte:
+
+- Weiterentwicklung und Wartung einer bestehenden `.NET Framework`-Anwendung
+- Fehleranalyse, Bugfixing und kleinere funktionale Erweiterungen
+- Arbeit an datenbankgestützten Desktop-Komponenten mit `WinForms`
+- Unterstützung von Tests und qualitätsnaher Entwicklungsarbeit
+
+**Technologien:**  
+`.NET Framework`, `C#`, `Entity Framework`, `MS SQL Server`, `DevExpress`, `WinForms`, `NUnit`, `ReSharper`
 
 ### Infineon Technologies, Regensburg
 
@@ -214,29 +226,30 @@ Schwerpunkte:
 
 ### Frühe Berufserfahrung
 
-**IT-Entwicklung, Webentwicklung, freiberufliche Projekte, Schulung und Support**  
+**IT-Entwicklung, Mainframe-Grundlagen, Webentwicklung, freiberufliche Projekte, Schulung und Support**  
 **1998 - 2005**
 
-Frühe berufliche Entwicklungsphase mit ERP-Entwicklung, maßgeschneiderten Unternehmensanwendungen, Webentwicklung, technischem Support, Office-Automatisierung, Access-/VB-Lösungen, Logistikprozessen und Schulungstätigkeiten.
+Frühe berufliche Entwicklungsphase mit Mainframe-Grundlagen, ERP-Entwicklung, maßgeschneiderten Unternehmensanwendungen, Webentwicklung, technischem Support, Office-Automatisierung, Access-/VB-Lösungen, Logistikprozessen und Schulungstätigkeiten.
 
-Ausgewählte Stationen:
+| Station                              | Branche / Kontext                  | Tätigkeit                                                                                                                   | Technischer Stack                                            |
+| ------------------------------------ | ---------------------------------- | --------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ |
+| `Kutxa Bank`                         | Finanzwesen                        | Erste berufliche IT-Erfahrung im Unternehmensumfeld; Arbeit im Umfeld klassischer Mainframe-Technologien und Job-Ausführung | `COBOL`, `CICS`, `DB2`, `JCL`                                |
+| `CTI Soft`                           | ERP / Unternehmenssoftware         | Weiterentwicklung einer ERP-Anwendung                                                                                       | `Oracle Developer 2000`, `PL/SQL`                            |
+| `Cestero SL`                         | Sanitärunternehmen / Fachanwendung | Entwicklung einer maßgeschneiderten Lösung zur Verwaltung und Unterzeichnung betrieblicher Arbeiten                         | `Visual FoxPro`, Forms, `Crystal Reports`, `SQL`             |
+| Krankenpflegeschule des Baskenlandes | Bildung / Lagerverwaltung          | Entwicklung einer Lagerverwaltungslösung                                                                                    | `Visual FoxPro`, Forms, `Crystal Reports`, `SQL`             |
+| `Euskaltel`                          | Telekommunikation / Support        | Technischer Telefonsupport und Unterstützung bei Treiber-/Systemkonfigurationen                                             | Treiberinstallation, Systemkonfiguration                     |
+| `Azkar`                              | Logistik / Lagerprozesse           | Kontrolle von Lagerprozessen mit interner Software sowie lokale Office-Automatisierung                                      | `MS Access`, `Visual Basic`, `MS Office`                     |
+| `Zubeldia / Consultec / Gekon`       | Fortbildung / Anwenderschulung     | Schulungen in Office-Automatisierung, Access/VB und Internet-Grundlagen                                                     | `MS Access`, Access-`VBA`, `Excel`, `Word`, `MS Office`      |
+| `Sistek SL`                          | IT-Beratung / Kleinunternehmen     | Kundenberatung, Hardware-/Systemunterstützung und Netzwerkadministration                                                    | Treiber, BIOS, Netzwerkkonfiguration, Datenwiederherstellung |
+| `IT-Pool Berlin`                     | Bildung / Softwareentwicklung      | Unterstützung in einem Bildungsprojekt, Tests und Scripting in einer Java-/XML-nahen Umgebung                               | `Java`, `XML`, `XSLT`, `Apache`, `Tomcat`, DeepaMehta        |
+| `Plak Music GmbH`                    | Music Publishing / Webentwicklung  | Entwicklung eines mehrsprachigen Content-Management-Systems                                                                 | `PHP`, `MySQL`, `HTML`, `CSS`, `JavaScript`                  |
+| `Dending SL`                         | E-Commerce / Webentwicklung        | Entwicklung eines eigenen E-Shops und Content-Management-Systems                                                            | `PHP`, `MySQL`, `HTML`, `CSS`, `JavaScript`                  |
 
-- `Kutxa Bank`
-- `CTI Soft`
-- `Cestero SL`
-- Krankenpflegeschule des Baskenlandes
-- `Euskaltel`
-- `Azkar`
-- `Zubeldia / Consultec / Gekon`
-- `Sistek SL`
-- `IT-Pool Berlin`
-- `Plak Music GmbH`
-- `Dending SL`
+In dieser Phase fielen Mainframe-Grundlagen, ERP- und Fachanwendungsentwicklung, frühe Web-/CMS-Projekte, technische Unterstützung, Schulung und Office-Automatisierung zusammen. Die Erfahrung bildet die Grundlage für meine spätere Arbeit mit datenbanknahen Unternehmensanwendungen, Integrationslösungen und Bestandssystemen.
 
-In dieser Phase fielen sowohl ERP- und Fachanwendungsarbeit als auch frühe Web- und CMS-Projekte im E-Commerce-Umfeld zusammen.
-
-**Technologien:** `Oracle Developer 2000`, `PL/SQL`, `Visual FoxPro`, `Crystal Reports`, `SQL`, `MS Access`, `Visual Basic`, `MS Office`, `PHP`, `MySQL`, `HTML`, `CSS`, `JavaScript`, `Java`, `XML`, `XSLT`, `Apache`, `Tomcat`
+**Technologien:**  
+`COBOL`, `CICS`, `DB2`, `JCL`, `Oracle Developer 2000`, `PL/SQL`, `Visual FoxPro`, `Crystal Reports`, `SQL`, `MS Access`, `Visual Basic`, `MS Office`, `PHP`, `MySQL`, `HTML`, `CSS`, `JavaScript`, `Java`, `XML`, `XSLT`, `Apache`, `Tomcat`
 
 ## Aktuelle technische Richtung
 
-Parallel zur Projektarbeit entwickle ich [TplQueue](tplqueue.md), eine wiederverwendbare `.NET`-Komponente für kontrollierte nebenläufige Ausführung, queue-basierte Verarbeitung und Orchestrierungsmuster.
+Parallel zur Projektarbeit entwickle ich [TplQueue](tplqueue.md), eine`.NET`-Komponente für kontrollierte nebenläufige Ausführung, queue-basierte Verarbeitung und Orchestrierungsmuster.
