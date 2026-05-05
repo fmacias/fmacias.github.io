@@ -2,15 +2,15 @@
 
 ## Kurzprofil
 
-Ich bin ein erfahrener .NET/C#-Spezialist mit Schwerpunkt auf maßgeschneiderten Backend- und Integrationslösungen. Trotz meiner Spezialisierung bin ich technologisch flexibel: Ob .NET, Java/Spring oder Frontend-Frameworks – ich liefere hochwertige Ergebnisse. Meine Stärke liegt darin, komplexe Systeme zu verbinden, Datenbanken zu modellieren und nachhaltige Software zu bauen. Mein Fokus bleibt auf dem, was dem Projekt am besten dient.
+> [!NOTE]
+> Mein Fokus bleibt auf dem, was dem Projekt am besten dient
 
+Ich bin ein erfahrener **.NET/C#-Spezialist** mit Schwerpunkt auf maßgeschneiderten Backend- und Integrationslösungen. Trotz meiner Spezialisierung bin ich technologisch flexibel: Ob .NET, Java/Spring oder Frontend-Frameworks. 
 ## Profilzusammenfassung
 
-Meine berufliche Stärke liegt in der Weiterentwicklung, Stabilisierung und Integration produktiver Softwarelandschaften. Ich arbeite schwerpunktmäßig im Backend- und Integrationsbereich, bringe aber ausreichend Full-Stack-Erfahrung mit, um Schnittstellen zwischen Backend, Datenbanken, Services und Benutzeroberflächen sinnvoll zu verstehen und umzusetzen.
+Meine berufliche Stärke liegt im Backend- und Integrationsbereich, bringe aber ausreichend Full-Stack-Erfahrung mit, um Schnittstellen zwischen Backend, Datenbanken, Services und Benutzeroberflächen sinnvoll umzusetzen.
 
-Besonders vertraut bin ich mit bestehenden Systemen, in denen technische Schulden, Legacy-Code, Datenbankabhängigkeiten, Integrationsaufwand oder Release-Druck eine Rolle spielen. Ich analysiere solche Umgebungen strukturiert, erkenne technische Abhängigkeiten und liefere pragmatische Lösungen, die Wartbarkeit, Testbarkeit und Betriebssicherheit verbessern.
-
-Mein technologischer Schwerpunkt liegt auf .NET/C#, SQL, datenbankintensiven Anwendungen und Systemintegration. Gleichzeitig bin ich nicht auf eine einzelne Sprache oder Plattform beschränkt: Java/Spring, JavaScript-/Frontend-Themen, PHP/E-Commerce-Umfelder, XML-/XSLT-Verarbeitung und klassische Datenbankarbeit gehören ebenfalls zu meinem beruflichen Hintergrund. Entscheidend ist für mich nicht die Technologie als Selbstzweck, sondern die robuste Lösung eines konkreten technischen Problems.
+Besonders Vertraut bin ich mit der Abarbeitung des Rückstands von Systemen, in denen *technische Schulden*, *Legacy-Code*, *Datenbankabhängigkeiten*, *Integrationsaufwand* oder *Release-Druck* eine Rolle spielen. Ich analysiere solche Umgebungen strukturiert, erkenne technische Abhängigkeiten und liefere pragmatische Lösungen, die Wartbarkeit, Testbarkeit und Betriebssicherheit verbessern.
 
 ## Berufsausbildung
 
@@ -56,7 +56,7 @@ Mein technologischer Schwerpunkt liegt auf .NET/C#, SQL, datenbankintensiven Anw
 | Bereich                        | Skills                                                                                                                                              |
 | ------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------- |
 | `.NET` / Backend               | `.NET Framework`, `.NET Core`, `.NET Standard`, `C#`, `ASP.NET`,`Entity Framework`, Services, Rich Clients, Backend-Komponenten, `MSBuild`, `NuGet` |
-| Industrielle Integration / MES | `MES`, Equipment Integration, Prozessdatenerfassung, `OPC UA`, `SECS/GEM`, `MQTT`, `MT Connect`, ETL                                                |
+| Industrielle Integration / MES | `MES`, Equipment Integration, Prozessdatenerfassung, `OPC UA`, `SECS/GEM`, `MQTT`, `MT Connect`, `ETL`                                              |
 | Datenbanken / SQL              | `SQL`, `MS SQL Server`, `Oracle`, `PostgreSQL`, `MySQL`, `SQLite`, `DB2`, Query-Optimierung, Indexierung, Profiling, Datenmigrationen               |
 | Enterprise Integration         | `REST`, `SOAP`, XML-basierte Schnittstellen, Domänenobjekt-Transformation, Systemintegration                                                        |
 | Qualität / Delivery            | `SQA`, Integrationstests, Regressionstests, `NUnit`, `JUnit`, `Selenium`, Code Reviews, Release-Readiness, `CI/CD`, `Jenkins`, `Nexus`              |
@@ -91,7 +91,7 @@ Schwerpunkte:
 - Umsetzung kundenspezifischer Features, Bearbeitung supportnaher Change Requests sowie technische Bereinigung und Stabilisierung bestehender Backlog-Themen.
 - Test- und Skalierbarkeitsverbesserungen sowie Konfiguration von QA-Umgebungen, unter anderem mit `AWS`- und `Hyper-V`-basierten Setups.
 
-**Technologien / Umfeld:**  
+**Technologien:**  
 `.NET`, `C#`, `ASP.NET`, `OPC UA`, `PKI`, `MT Connect`, `MQTT`, `REST`, ETL, `XML`, `AWS`, `Git`, `GitLab`, `Hyper-V`, `WSL`, `React`, `Vue.js`, `Jira`, `Confluence`
 ### Kurzmandat im E-Commerce-Umfeld
 
