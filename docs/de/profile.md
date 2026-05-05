@@ -252,12 +252,10 @@ In dieser Phase fielen Mainframe-Grundlagen, ERP- und Fachanwendungsentwicklung,
 
 ## Aktuelle technische Richtung
 
-Parallel zu meiner beruflichen Weiterentwicklung arbeite ich an Konzepten und Komponenten für industrielle Datenerfassung, kontrollierte Verarbeitung und workflowbasierte Integration produktionsnaher Systeme. Ziel ist die zuverlässige Verbindung zwischen Maschinen-, Prozess- und Auftragsdaten einerseits und nachgelagerten Systemen wie `MES`, `MOS`, `ERP` oder spezialisierten Drittdiensten andererseits.
+Ich suche Projekte und Gespräche rund um industrielle Datenerfassung, Monitoring und workflowbasierte Integration produktionsnaher Systeme. Besonders interessant sind Aufgaben, bei denen Maschinen-, Prozess- oder Auftragsdaten zuverlässig erfasst, verarbeitet und an `MES`, `MOS`, `ERP` oder spezialisierte Drittdienste weitergeleitet werden müssen.
 
-Ein technischer Schwerpunkt ist meine eigene `.NET`-Komponente [`TplQueue`](../../tplqueue/), die kontrollierte nebenläufige Ausführung, queue-basierte Verarbeitung, Retry-Strategien und beobachtbare Ausführungsabläufe unterstützt. Sie kann als Grundlage für robuste Datenerfassungs- und Integrationssoftware dienen, ist aber nicht zwingend Voraussetzung; entscheidend bleibt die passende Architektur für den konkreten Produktions- und Integrationskontext.
+Dafür bringe ich Erfahrung in `.NET`/`C#`, industrieller Integration, Datenfluss, Prozessdatenerfassung und Bestandssystemen mit. Ergänzend entwickle ich mit [`TplQueue`](../../tplqueue/) eine eigene `.NET`-Komponente für kontrollierte nebenläufige Ausführung, queue-basierte Verarbeitung, Retry-Strategien und beobachtbare Ausführungsabläufe. Die Komponente kann als technischer Baustein dienen, ist aber nicht Voraussetzung; entscheidend ist die passende Architektur für den konkreten Produktionskontext.
 
-Besonders interessieren mich Projekte zur Anbindung von Produktionslinien, Maschinen oder bestehenden Softwaresystemen, um Daten zuverlässig zu erfassen, Workflows abzubilden, Prozesszustände sichtbar zu machen und Informationen strukturiert an `MES`-, `MOS`-, `ERP`- oder Industrie-4.0-nahe Anwendungen weiterzuleiten.
+Ich bin offen für Festanstellung, freiberufliche Projektarbeit oder partnerschaftliche Kooperationen — insbesondere mit Unternehmen, die Produktionslinien, Maschinen oder bestehende Systeme anbinden, überwachen oder für Industrie-4.0-nahe Datensichten nutzbar machen wollen.
 
-Ich bin offen für klassische Festanstellungen, freiberufliche Projektarbeit und partnerschaftliche Kooperationen, insbesondere dort, wo `.NET`-Backend-Entwicklung, industrielle Integration, Datenfluss, Monitoring und pragmatische Architekturentscheidungen zusammenkommen.
-
-**Schwerpunkte:** industrielle Datenerfassung, Monitoring, Workflow-Integration, `MES`/`MOS`/`ERP`-Anbindung, `.NET`/`C#`, queue-basierte Verarbeitung, Retry-Strategien, Observability und kontrollierte Parallelität.
+**Schwerpunkte:** industrielle Datenerfassung, Produktionslinienanbindung, Monitoring, Workflow-Integration, `MES`/`MOS`/`ERP`-Anbindung, `.NET`/`C#`, queue-basierte Verarbeitung, Retry-Strategien, Observability und kontrollierte Parallelität.
