@@ -10,7 +10,7 @@ I am an experienced **.NET/C#** specialist with a focus on custom backend and in
 
 My professional strength lies in backend and integration work; at the same time, I bring enough full-stack experience to meaningfully connect backend systems, databases, services and user interfaces.
 
-I am particularly familiar with working through the backlog of systems where technical debt, legacy code, database dependencies, integration effort or release pressure play a role. I analyze such environments in a structured way, identify technical dependencies and deliver pragmatic solutions that improve maintainability, testability and operational reliability.
+I am particularly familiar with *working through the backlog of systems where technical debt, legacy code, database dependencies, integration effort or release pressure play a role*. I analyze such environments in a structured way, identify technical dependencies and deliver pragmatic solutions that improve maintainability, testability and operational reliability.
 
 ## Vocational Education
 
@@ -53,13 +53,13 @@ I am particularly familiar with working through the backlog of systems where tec
 
 ### Core Competencies
 
-| Area                         | Skills                                                                                                                                              |
-| ---------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
-| `.NET` / Backend             | `.NET Framework`, `.NET Core`, `.NET Standard`, `C#`, `ASP.NET`, `Entity Framework`, services, rich clients, backend components, `MSBuild`, `NuGet` |
-| Industrial Integration / MES | `MES`, equipment integration, process data acquisition, `OPC UA`, `SECS/GEM`, `MQTT`, `MT Connect`, `ETL`                                           |
-| Databases / SQL              | `SQL`, `MS SQL Server`, `Oracle`, `PostgreSQL`, `MySQL`, `SQLite`, `DB2`, query optimization, indexing, profiling, data migrations                  |
-| Enterprise Integration       | `REST`, `SOAP`, XML-based interfaces, domain object transformation, system integration                                                              |
-| Quality / Delivery           | `SQA`, integration tests, regression tests, `NUnit`, `JUnit`, `Selenium`, code reviews, release readiness, `CI/CD`, `Jenkins`, `Nexus`              |
+| Area                         | Skills                                                                                                                                                                     |
+| ---------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `.NET` / Backend             | `.NET Framework`, `.NET Core`, `.NET Standard`, `C#`, `ASP.NET`, `Entity Framework`, services, rich clients, backend components, `MSBuild`, `NuGet`, `WIX for MSI`, `VSTO` |
+| Industrial Integration / MES | `MES`, equipment integration, process data acquisition, `OPC UA`, `SECS/GEM`, `MQTT`, `MT Connect`, `ETL`                                                                  |
+| Databases / SQL              | `SQL`, `MS SQL Server`, `Oracle`, `PostgreSQL`, `MySQL`, `SQLite`, `DB2`, query optimization, indexing, profiling, data migrations                                         |
+| Enterprise Integration       | `REST`, `SOAP`, XML-based interfaces, domain object transformation, system integration                                                                                     |
+| Quality / Delivery           | `SQA`, integration tests, regression tests, `NUnit`, `JUnit`, `Selenium`, code reviews, release readiness, `CI/CD`, `Jenkins`, `Nexus`                                     |
 
 ### Additional Experience
 
@@ -169,7 +169,7 @@ Focus areas:
   * UML-based specification and documentation, especially activity diagrams.
 
 Technologies:  
-`YODA`, `TIBCO`, `.NET Framework 4.5`, `C#`, `JavaScript`, `XML`, `XSLT`, `DOM`, `SECS/GEM`, UML, `Enterprise Architect`, `Visual Studio`
+`YODA`, `TIBCO`, `.NET Framework 4.5`, `C#`, `JavaScript`, `XML`, `XSLT`, `DOM`, `SECS/GEM`, UML, `Enterprise Architect`
 
 ### K New Media GmbH & Co
 
@@ -249,16 +249,20 @@ Early professional development phase involving mainframe fundamentals, ERP devel
 | `Dending SL`                         | E-commerce / web development          | Development of a proprietary e-shop and content management system                                                                    | `PHP`, `MySQL`, `HTML`, `CSS`, `JavaScript`             |
 
 This phase combined mainframe fundamentals, ERP and business application development, early web/CMS projects, technical support, training and office automation. The experience forms the foundation for my later work with database-driven business applications, integration solutions and existing system landscapes.
-
 Technologies:  
 `COBOL`, `CICS`, `DB2`, `JCL`, `Oracle Developer 2000`, `PL/SQL`, `Visual FoxPro`, `Crystal Reports`, `SQL`, `MS Access`, `Visual Basic`, `MS Office`, `PHP`, `MySQL`, `HTML`, `CSS`, `JavaScript`, `Java`, `XML`, `XSLT`, `Apache`, `Tomcat`
 
-## Current Technical Direction
+## Current Direction
 
-I am looking for projects and conversations around industrial data acquisition, monitoring and workflow-based integration of production-related systems. I am particularly interested in tasks where machine, process or order data must be reliably acquired, processed and forwarded to `MES`, `MOS`, `ERP` or specialized third-party services.
+> Primary interested  **in opportunities** **where my expertise** in Software development **adds value**. 
 
-I bring experience in `.NET`/`C#`, industrial integration, data flow, process data acquisition and existing system landscapes. In addition, I am developing [TplQueue](../../tplqueue/), my own `.NET` component for controlled concurrent execution, queue-based processing, retry strategies and observable execution flows. The component can serve as a technical building block, but it is not a prerequisite; the decisive factor is the right architecture for the specific production context.
+My knowledges and skills in **OPC UA, MQTT, SECS/GEM** and **[Integration](services.md#integration-issues)** together with my experience, aptitudes and analitical instinct makes me a good choice for companies that want to connect and monitor production lines, machines or existing systems, or make them usable for Industry 4.0-related data views.
 
-I am open to permanent employment, freelance project work or partnership-based cooperation — especially with companies that want to connect and monitor production lines, machines or existing systems, or make them usable for Industry 4.0-related data views.
+In addition, If problems with you legacy software, I can help:
 
-Focus areas: industrial data acquisition, production line integration, monitoring, workflow integration, `MES`/`MOS`/`ERP` integration, `.NET`/`C#`, queue-based processing, retry strategies, observability and controlled parallelism.
+- Solving your [concurrency and synchronization problems](services.md#concurrency-issues) 
+- Migrate your [legacy system](services.md#legacy-systems) to modern systems step by step.
+
+The [services](services.md) I offer are more that words in a web site.
+
+Problems? Better contact [Fernando](contact.md)!

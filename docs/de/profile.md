@@ -52,13 +52,13 @@ Besonders vertraut bin ich mit der Abarbeitung des Rückstands von Systemen, in 
 
 ### Kernkompetenzen
 
-| Bereich                        | Skills                                                                                                                                              |
-| ------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------- |
-| `.NET` / Backend               | `.NET Framework`, `.NET Core`, `.NET Standard`, `C#`, `ASP.NET`,`Entity Framework`, Services, Rich Clients, Backend-Komponenten, `MSBuild`, `NuGet` |
-| Industrielle Integration / MES | `MES`, Equipment Integration, Prozessdatenerfassung, `OPC UA`, `SECS/GEM`, `MQTT`, `MT Connect`, `ETL`                                              |
-| Datenbanken / SQL              | `SQL`, `MS SQL Server`, `Oracle`, `PostgreSQL`, `MySQL`, `SQLite`, `DB2`, Query-Optimierung, Indexierung, Profiling, Datenmigrationen               |
-| Enterprise Integration         | `REST`, `SOAP`, XML-basierte Schnittstellen, Domänenobjekt-Transformation, Systemintegration                                                        |
-| Qualität / Delivery            | `SQA`, Integrationstests, Regressionstests, `NUnit`, `JUnit`, `Selenium`, Code Reviews, Release-Readiness, `CI/CD`, `Jenkins`, `Nexus`              |
+| Bereich                        | Skills                                                                                                                                                                     |
+| ------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `.NET` / Backend               | `.NET Framework`, `.NET Core`, `.NET Standard`, `C#`, `ASP.NET`,`Entity Framework`, Services, Rich Clients, Backend-Komponenten, `MSBuild`, `NuGet`, `WIX for MSI`, `VSTO` |
+| Industrielle Integration / MES | `MES`, Equipment Integration, Prozessdatenerfassung, `OPC UA`, `SECS/GEM`, `MQTT`, `MT Connect`, `ETL`                                                                     |
+| Datenbanken / SQL              | `SQL`, `MS SQL Server`, `Oracle`, `PostgreSQL`, `MySQL`, `SQLite`, `DB2`, Query-Optimierung, Indexierung, Profiling, Datenmigrationen                                      |
+| Enterprise Integration         | `REST`, `SOAP`, XML-basierte Schnittstellen, Domänenobjekt-Transformation, Systemintegration                                                                               |
+| Qualität / Delivery            | `SQA`, Integrationstests, Regressionstests, `NUnit`, `JUnit`, `Selenium`, Code Reviews, Release-Readiness, `CI/CD`, `Jenkins`, `Nexus`                                     |
 
 ### Ergänzende Erfahrung
 
@@ -250,12 +250,17 @@ In dieser Phase fielen Mainframe-Grundlagen, ERP- und Fachanwendungsentwicklung,
 **Technologien:**  
 `COBOL`, `CICS`, `DB2`, `JCL`, `Oracle Developer 2000`, `PL/SQL`, `Visual FoxPro`, `Crystal Reports`, `SQL`, `MS Access`, `Visual Basic`, `MS Office`, `PHP`, `MySQL`, `HTML`, `CSS`, `JavaScript`, `Java`, `XML`, `XSLT`, `Apache`, `Tomcat`
 
-## Aktuelle technische Richtung
+## Aktuelle Ausrichtung
 
-Ich suche Projekte und Gespräche rund um industrielle Datenerfassung, Monitoring und workflowbasierte Integration produktionsnaher Systeme. Besonders interessant sind Aufgaben, bei denen Maschinen-, Prozess- oder Auftragsdaten zuverlässig erfasst, verarbeitet und an `MES`, `MOS`, `ERP` oder spezialisierte Drittdienste weitergeleitet werden müssen.
+> Ich interessiere mich für Chance, bei denen meine Expertise in der Softwareentwicklung einen echten Mehrwert schafft.
 
-Dafür bringe ich Erfahrung in `.NET`/`C#`, industrieller Integration, Datenfluss, Prozessdatenerfassung und Bestandssystemen mit. Ergänzend entwickle ich mit [`TplQueue`](../../tplqueue/) eine eigene `.NET`-Komponente für kontrollierte nebenläufige Ausführung, queue-basierte Verarbeitung, Retry-Strategien und beobachtbare Ausführungsabläufe. Die Komponente kann als technischer Baustein dienen, ist aber nicht Voraussetzung; entscheidend ist die passende Architektur für den konkreten Produktionskontext.
+Meine Kenntnisse in **OPC UA, MQTT, SECS/GEM** und **[Integration](services.md#integration-issues)** machen mich zusammen mit meiner Erfahrung, meinen Fähigkeiten und meinem analytischen Instinkt zu einer guten Wahl für Unternehmen, die Produktionslinien, Maschinen oder bestehende Systeme anbinden, überwachen oder für Industrie-4.0-nahe Datensichten nutzbar machen wollen.
 
-Ich bin offen für Festanstellung, freiberufliche Projektarbeit oder partnerschaftliche Kooperationen — insbesondere mit Unternehmen, die Produktionslinien, Maschinen oder bestehende Systeme anbinden, überwachen oder für Industrie-4.0-nahe Datensichten nutzbar machen wollen.
+Darüber hinaus kann ich helfen, wenn es Probleme mit Ihrer Legacy-Software gibt:
 
-**Schwerpunkte:** industrielle Datenerfassung, Produktionslinienanbindung, Monitoring, Workflow-Integration, `MES`/`MOS`/`ERP`-Anbindung, `.NET`/`C#`, queue-basierte Verarbeitung, Retry-Strategien, Observability und kontrollierte Parallelität.
+- Ihre [Nebenläufigkeits- und Synchronisationsprobleme](services.md#concurrency-issues) zu lösen
+- Ihr [Legacy-System](services.md#legacy-systems) Schritt für Schritt auf moderne Systeme zu migrieren.
+
+Die [Leistungen](services.md), die ich anbiete, sind mehr als nur Worte auf einer Website.
+
+Problems? Better call [Fernando](contact.md)!

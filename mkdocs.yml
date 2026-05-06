@@ -28,7 +28,7 @@ plugins:
             Overview: Überblick
             Architecture: Architektur
             Getting Started: Erste Schritte
-            Profile / CV: Profil / CV
+            Profile: Profil
             Contact: Kontakt
 
 markdown_extensions:
@@ -53,5 +53,5 @@ nav:
       - Overview: technical/overview.md
       - Architecture: technical/architecture.md
       - Getting Started: technical/getting-started.md
-  - Profile / CV: profile.md
+  - Profile: profile.md
   - Contact: contact.md
