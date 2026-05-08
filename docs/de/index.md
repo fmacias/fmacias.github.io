@@ -6,20 +6,20 @@ title: Fernando Macias
   <picture>
     <source
       media="(min-width: 900px)"
-      srcset="../assets/images/hero/better-call-fernando-desktop.webp"
+      srcset="../assets/images/hero/call-fernando-desktop.webp"
       type="image/webp"
     />
     <source
       media="(min-width: 900px)"
-      srcset="../assets/images/hero/better-call-fernando-desktop.png"
+      srcset="../assets/images/hero/call-fernando-desktop.png"
       type="image/png"
     />
     <source
-      srcset="../assets/images/hero/better-call-fernando-mobile.webp"
+      srcset="../assets/images/hero/call-fernando-mobile.webp"
       type="image/webp"
     />
     <img
-      src="../assets/images/hero/better-call-fernando-mobile.png"
+      src="../assets/images/hero/call-fernando-mobile.png"
       alt="Better call Fernando. Bestehende Systeme. Technische Schulden. Reale Deadlines. Senior .NET Backend- und Integrationsunterstützung."
       width="1080"
       height="1622"
