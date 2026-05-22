@@ -48,7 +48,7 @@ Typical support:
   * controlled parallel processing with clear execution boundaries
   * stabilization of job-, queue- and dispatcher-based workflows
 
-In addition, I am developing [`TplQueue`](tplqueue.md) as my own `.NET` component for the controlled execution, observation and coordination of concurrent tasks. The project serves as technical evidence of my working style in the areas of queue processing, retry strategies, observability and API design.
+In addition, I am developing [`TplQueue`](tplqueue/index.md) as my own `.NET` component for the controlled execution, observation and coordination of concurrent tasks. The project serves as technical evidence of my working style in the areas of queue processing, retry strategies, observability and API design.
 
 ## Fragile Releases
 

@@ -19,16 +19,18 @@ docs/
   en/
     index.md
     services.md
-    tplqueue.md
+    tplqueue/
     profile.md
     contact.md
   de/
     index.md
     services.md
-    tplqueue.md
+    tplqueue/
     profile.md
     contact.md
   assets/
+scripts/
+  sync_tplqueue_public_docs.py
 ```
 
 The public landing pages are the language-specific `index.md` files under `docs/en/` and `docs/de/`.
@@ -63,25 +65,27 @@ pip install "mkdocs-static-i18n[material]"
 
 ## Local Development
 
-Start the local development server:
+Sync the public TplQueue documentation sources, then start the local development server:
 
 ```powershell
-mkdocs serve
+python .\scripts\sync_tplqueue_public_docs.py
+python -m mkdocs serve
 ```
 
 Useful local commands:
 
 ```powershell
-mkdocs serve
-mkdocs build
-mkdocs build --clean
-```
-
-If `mkdocs` is not on your PATH, run it through the selected Python environment instead:
-
-```powershell
+python .\scripts\sync_tplqueue_public_docs.py
 python -m mkdocs serve
 python -m mkdocs build
+python -m mkdocs build --clean
+```
+
+If `mkdocs` is already on your PATH, the equivalent commands are:
+
+```powershell
+mkdocs serve
+mkdocs build
 ```
 
 What to expect:
@@ -91,17 +95,19 @@ What to expect:
 - English content uses root-relative routes such as `/services/`
 - German content uses `/de/`-prefixed routes such as `/de/services/`
 - the multilingual build depends on the `i18n` plugin from `mkdocs-static-i18n`
+- the imported TplQueue public reference pages are refreshed by `scripts/sync_tplqueue_public_docs.py`
 
 ## Release Notes For Maintainers
 
 Before releasing or deploying:
 
 1. Install dependencies from `requirements.txt`.
-2. Verify that `mkdocs serve` works locally.
-3. Verify that English pages resolve under `/`.
-4. Verify that German pages resolve under `/de/`.
-5. Run `mkdocs build` and confirm the static output is generated without configuration errors.
-6. Ensure the deployment workflow installs both Material for MkDocs and `mkdocs-static-i18n` before building.
+2. Run `python .\scripts\sync_tplqueue_public_docs.py`.
+3. Verify that `mkdocs serve` works locally.
+4. Verify that English pages resolve under `/`.
+5. Verify that German pages resolve under `/de/`.
+6. Run `mkdocs build` and confirm the static output is generated without configuration errors.
+7. Ensure the deployment workflow installs both Material for MkDocs and `mkdocs-static-i18n` before building.
 
 Important operational points:
 
@@ -118,6 +124,7 @@ Important:
 
 - the `.github/workflows/ci.yml` workflow is required for deployment
 - without that workflow, GitHub Pages will not install MkDocs, Material, or `mkdocs-static-i18n`
+- without that workflow, the public TplQueue docs from the sibling repositories will not be imported into the site tree
 - without that workflow, the multilingual site should be considered not deployable in its intended form
 
 The deployment environment must:
@@ -133,6 +140,8 @@ The repository includes a workflow at `.github/workflows/ci.yml` based on the Ma
 - installs Python
 - restores the MkDocs / Material cache
 - installs dependencies from `requirements.txt`
+- checks out the public `TplQueue.Abstractions`, `TplQueue.Adapter`, and `TplQueue.Usage` repositories
+- runs `python scripts/sync_tplqueue_public_docs.py --source-base .external-src`
 - runs `mkdocs gh-deploy --force`
 
 For GitHub Pages to publish correctly, ensure the repository Pages setting uses:
@@ -162,11 +171,12 @@ Expected behavior if the workflow is missing or disabled:
 Release / deployment checklist:
 
 1. `pip install -r requirements.txt`
-2. `mkdocs serve`
-3. `mkdocs build --clean`
-4. push to `main`
-5. confirm the GitHub Actions workflow passed
-6. confirm Pages is configured to publish from `gh-pages`
+2. `python .\scripts\sync_tplqueue_public_docs.py`
+3. `python -m mkdocs serve`
+4. `python -m mkdocs build --clean`
+5. push to `main`
+6. confirm the GitHub Actions workflow passed
+7. confirm Pages is configured to publish from `gh-pages`
 
 ## References
 

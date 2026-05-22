@@ -24,10 +24,11 @@ plugins:
           build: true
           nav_translations:
             Services: Leistungen
-            Documentation: Dokumentation
-            Overview: Überblick
+            Overview: Ueberblick
             Architecture: Architektur
             Getting Started: Erste Schritte
+            Public Repositories: Oeffentliche Repositories
+            Core License: Core Lizenz
             Profile: Profil
             Contact: Kontakt
 
@@ -48,10 +49,15 @@ extra_javascript:
 
 nav:
   - Services: services.md
-  - TplQueue: tplqueue.md
-  - Documentation:
-      - Overview: technical/overview.md
-      - Architecture: technical/architecture.md
-      - Getting Started: technical/getting-started.md
+  - TplQueue:
+      - Overview: tplqueue/overview.md
+      - Architecture: tplqueue/architecture.md
+      - Getting Started: tplqueue/getting-started.md
+      - Public Repositories:
+          - Overview: tplqueue/repositories/index.md
+          - Abstractions: tplqueue/repositories/abstractions.md
+          - Adapter: tplqueue/repositories/adapter.md
+          - Usage: tplqueue/repositories/usage.md
+      - Core License: tplqueue/core-license.md
   - Profile: profile.md
   - Contact: contact.md

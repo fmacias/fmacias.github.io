@@ -30,6 +30,6 @@ title: Fernando Macias
 </a>
 
 - [Services](services.md)
-- [TplQueue](tplqueue.md)
+- [TplQueue](tplqueue/index.md)
 - [Profile / CV](profile.md)
 - [Contact](contact.md)
