@@ -1,5 +1,5 @@
-site_name: Fernando Macias
-site_description: Professional profile and curated technical documentation
+site_name: github.fmacias
+site_description: Documentation hub for GitHub repositories, services, and profile
 site_url: https://fmacias.github.io/
 docs_dir: docs
 site_dir: site
@@ -25,9 +25,14 @@ plugins:
           nav_translations:
             Services: Leistungen
             Overview: Ueberblick
-            Architecture: Architektur
             Getting Started: Erste Schritte
-            Public Repositories: Oeffentliche Repositories
+            Architecture: Architektur
+            Development: Entwicklung
+            Operations: Betrieb
+            Reference Hub: Referenz
+            Core Engine: Core Engine
+            Usage: Nutzung
+            Full Reference: Vollstaendige Referenz
             Core License: Core Lizenz
             Profile: Profil
             Contact: Kontakt
@@ -48,16 +53,21 @@ extra_javascript:
   - assets/javascripts/language-preference.js
 
 nav:
-  - Services: services.md
   - TplQueue:
-      - Overview: tplqueue/overview.md
-      - Architecture: tplqueue/architecture.md
-      - Getting Started: tplqueue/getting-started.md
-      - Public Repositories:
-          - Overview: tplqueue/repositories/index.md
-          - Abstractions: tplqueue/repositories/abstractions.md
-          - Adapter: tplqueue/repositories/adapter.md
-          - Usage: tplqueue/repositories/usage.md
+      - Overview: tplqueue/index.md
+      - Getting Started: tplqueue/usage/index.md
+      - Architecture: tplqueue/architecture/index.md
+      - Development: tplqueue/development/index.md
+      - Operations: tplqueue/operations/index.md
+      - Reference Hub: tplqueue/reference.md
+      - Core Engine:
+          - Overview: tplqueue/core-engine/index.md
+          - Usage: tplqueue/core-engine/usage/index.md
+          - Architecture: tplqueue/core-engine/architecture/index.md
+          - Development: tplqueue/core-engine/development/index.md
+          - Operations: tplqueue/core-engine/operations/index.md
+          - Full Reference: tplqueue/core-engine/reference.md
       - Core License: tplqueue/core-license.md
+  - Services: services.md
   - Profile: profile.md
   - Contact: contact.md

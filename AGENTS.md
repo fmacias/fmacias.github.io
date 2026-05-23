@@ -22,6 +22,12 @@ The website has these primary purposes:
 4. Publish curated technical documentation in Markdown.
 5. Provide a clear contact path for clients, collaborators, and employers.
 
+In practice, treat this repository as documentation-first:
+
+- repository documentation and public technical guidance come before profile-style presentation
+- `TplQueue` is the main public entry in the site navigation
+- `Services`, `Profile`, and `Contact` remain available, but they are secondary to the documentation hub
+
 This repository is **not** intended to become a heavy frontend application, a JavaScript-dependent SPA, or a visually overloaded marketing site.
 
 The website must remain:
@@ -277,7 +283,15 @@ Single-language reference structure:
 ├─ docs/
 │  ├─ index.md
 │  ├─ services.md
-│  ├─ tplqueue.md
+│  ├─ tplqueue/
+│  │  ├─ index.md
+│  │  ├─ usage/
+│  │  ├─ architecture/
+│  │  ├─ development/
+│  │  ├─ operations/
+│  │  ├─ core-engine/
+│  │  ├─ reference.md
+│  │  └─ core-license.md
 │  ├─ profile.md
 │  ├─ contact.md
 │  ├─ assets/
@@ -285,10 +299,6 @@ Single-language reference structure:
 │  │  ├─ files/
 │  │  ├─ stylesheets/
 │  │  └─ javascripts/
-│  └─ technical/
-│     ├─ overview.md
-│     ├─ architecture.md
-│     └─ getting-started.md
 └─ .github/ 
 ```
 
@@ -311,33 +321,45 @@ Multilingual structure supplement:
 |   |-- en/
 |   |   |-- index.md
 |   |   |-- services.md
-|   |   |-- tplqueue.md
+|   |   |-- tplqueue/
+|   |   |   |-- index.md
+|   |   |   |-- usage/
+|   |   |   |-- architecture/
+|   |   |   |-- development/
+|   |   |   |-- operations/
+|   |   |   |-- core-engine/
+|   |   |   |-- reference.md
+|   |   |   `-- core-license.md
 |   |   |-- profile.md
 |   |   |-- contact.md
-|   |   `-- technical/
-|   |       |-- overview.md
-|   |       |-- architecture.md
-|   |       `-- getting-started.md
 |   |-- de/
 |   |   |-- index.md
 |   |   |-- services.md
-|   |   |-- tplqueue.md
+|   |   |-- tplqueue/
+|   |   |   |-- index.md
+|   |   |   |-- usage/
+|   |   |   |-- architecture/
+|   |   |   |-- development/
+|   |   |   |-- operations/
+|   |   |   |-- core-engine/
+|   |   |   |-- reference.md
+|   |   |   `-- core-license.md
 |   |   |-- profile.md
 |   |   |-- contact.md
-|   |   `-- technical/
-|   |       |-- overview.md
-|   |       |-- architecture.md
-|   |       `-- getting-started.md
 |   |-- es/
 |   |   |-- index.md
 |   |   |-- services.md
-|   |   |-- tplqueue.md
+|   |   |-- tplqueue/
+|   |   |   |-- index.md
+|   |   |   |-- usage/
+|   |   |   |-- architecture/
+|   |   |   |-- development/
+|   |   |   |-- operations/
+|   |   |   |-- core-engine/
+|   |   |   |-- reference.md
+|   |   |   `-- core-license.md
 |   |   |-- profile.md
 |   |   |-- contact.md
-|   |   `-- technical/
-|   |       |-- overview.md
-|   |       |-- architecture.md
-|   |       `-- getting-started.md
 |   `-- assets/
 |       |-- images/
 |       |-- files/
@@ -367,11 +389,18 @@ The website should generally remain small and focused.
 
 Preferred top-level navigation:
 
-- Services
 - TplQueue
-- Documentation
+- Services
 - Profile / About
 - Contact
+
+Inside `TplQueue`, prefer this public information architecture:
+
+- the general ecosystem entry sourced from the public `TplQueue.Adapter` documentation tree
+- a `Core Engine` entry sourced from the public `TplQueue.Core` documentation tree
+- the `Core License` or license-model page kept at the same tree level as the other major `TplQueue` entries
+
+Do not introduce a separate generic `Documentation` top-level item when `TplQueue` itself is the primary documentation hub.
 
 A localized landing page may exist at `/` and `/de/` without a visible `Home` navigation item.
 
@@ -382,6 +411,27 @@ Do not add navigation items casually.
 Do not create deep menu trees without a real information architecture need.
 
 Do not bury important pages under vague parent sections.
+
+---
+
+## Sync source of truth
+
+For TplQueue documentation work, `scripts/sync_tplqueue_public_docs.py` is the canonical refresh step inside this repository.
+
+Treat these paths as the source of truth:
+
+- `../TplQueue.Adapter/docs/en/` and `../TplQueue.Adapter/docs/de/`
+  These are the main public MkDocs-friendly entries for the TplQueue ecosystem on this site.
+- `../TplQueue.Core/docs/en/` and `../TplQueue.Core/docs/de/`
+  These are the main sources for the `Core Engine` branch and the mirrored `Core License` page.
+
+Operational rules:
+
+- update the source repository docs first, then run `python .\scripts\sync_tplqueue_public_docs.py`
+- do not hand-maintain mirrored copies inside `fmacias.github.io` when the source docs tree should be refreshed instead
+- never import `Agents.md` or `AGENTS.md` into the published site tree
+- mirror only repository documentation content under `docs/<lang>/`
+- treat the Adapter docs tree as the first public entry and the Core docs tree as the source for `Core Engine`
 
 ---
 
@@ -479,6 +529,8 @@ The site should present Fernando Macías as:
 - experienced in industrial and integration-heavy contexts
 - especially relevant for MES / MOS / manufacturing / equipment integration / data acquisition domains
 - open to adjacent freelance technical opportunities
+
+For information architecture and page emphasis, the documentation-hub role takes precedence over the profile role.
 
 ## Public documentation curation
 
@@ -835,8 +887,8 @@ Before suggesting or committing any change, verify all of the following.
 
 The ideal website should feel like:
 
-- a concise professional profile
 - a curated technical documentation hub
+- a concise professional profile
 - a lightweight static site
 - a mobile-friendly experience
 - an accessible and ergonomic interface

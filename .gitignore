@@ -63,6 +63,7 @@ __pycache__/
 # Private local instructions
 PRIVAT-AGENTS.md
 PRIVAT-*-NOTES.md
+PRIVATE*.*
 
 # Data Feed folder
 
@@ -71,3 +72,6 @@ DataFeeds/
 # Ignore obsidian working required files
 docs/.obsidian/
 
+# Generated mirrored TplQueue documentation
+docs/en/tplqueue/
+docs/de/tplqueue/
