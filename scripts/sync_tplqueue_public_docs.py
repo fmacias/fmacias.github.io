@@ -96,14 +96,14 @@ def main() -> int:
     parser.add_argument(
         "--source-base",
         default="..",
-        help="Base directory that contains TplQueue.Adapter and TplQueue.Core.",
+        help="Base directory that contains TplQueue.Adapter and TplQueue.Usage.",
     )
     args = parser.parse_args()
 
     site_root = Path(__file__).resolve().parent.parent
     source_base = (site_root / args.source_base).resolve()
     adapter_docs = source_base / "TplQueue.Adapter" / "docs"
-    core_docs = source_base / "TplQueue.Core" / "docs"
+    core_docs = source_base / "TplQueue.Usage" / "TplQueue.Core" / "docs"
 
     for language in LANGUAGES:
         adapter_source = adapter_docs / language

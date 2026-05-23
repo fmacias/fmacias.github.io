@@ -397,7 +397,7 @@ Preferred top-level navigation:
 Inside `TplQueue`, prefer this public information architecture:
 
 - the general ecosystem entry sourced from the public `TplQueue.Adapter` documentation tree
-- a `Core Engine` entry sourced from the public `TplQueue.Core` documentation tree
+- a `Core Engine` entry sourced from the public `TplQueue.Core` documentation tree stored under `TplQueue.Usage/TplQueue.Core/docs`
 - the `Core License` or license-model page kept at the same tree level as the other major `TplQueue` entries
 
 Do not introduce a separate generic `Documentation` top-level item when `TplQueue` itself is the primary documentation hub.
@@ -422,7 +422,7 @@ Treat these paths as the source of truth:
 
 - `../TplQueue.Adapter/docs/en/` and `../TplQueue.Adapter/docs/de/`
   These are the main public MkDocs-friendly entries for the TplQueue ecosystem on this site.
-- `../TplQueue.Core/docs/en/` and `../TplQueue.Core/docs/de/`
+- `../TplQueue.Usage/TplQueue.Core/docs/en/` and `../TplQueue.Usage/TplQueue.Core/docs/de/`
   These are the main sources for the `Core Engine` branch and the mirrored `Core License` page.
 
 Operational rules:
@@ -430,8 +430,8 @@ Operational rules:
 - update the source repository docs first, then run `python .\scripts\sync_tplqueue_public_docs.py`
 - do not hand-maintain mirrored copies inside `fmacias.github.io` when the source docs tree should be refreshed instead
 - never import `Agents.md` or `AGENTS.md` into the published site tree
-- mirror only repository documentation content under `docs/<lang>/`
-- treat the Adapter docs tree as the first public entry and the Core docs tree as the source for `Core Engine`
+- mirror only repository documentation content under the documented public source trees
+- treat the Adapter docs tree as the first public entry and the `TplQueue.Usage/TplQueue.Core/docs/<lang>/` tree as the source for `Core Engine`
 
 ---
 
