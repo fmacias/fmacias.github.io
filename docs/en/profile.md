@@ -82,6 +82,7 @@ Materialisation of new features, applications and backlog work on legacy softwar
 Rough and detailed planning of user histories, features and agile project management.
 
 Continuous development (CD):
+
   * `OPC UA Client` for industrial process data acquisition.
   * `OPC UA client/server` gateway with `PKI` (Public Key Infrastructure) functionality, including its `UI` (User interface). 
   * `MT Connect` transformation to `OPC UA` nodes.
