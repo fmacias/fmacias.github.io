@@ -2,15 +2,13 @@
 
 ## Short Profile
 
-> My focus remains on what best serves the project
-
-I am an experienced **.NET/C#** specialist with a focus on custom backend and integration solutions. Despite my specialization, I remain technologically flexible — whether `.NET`, `Java Spring` or modern frontend frameworks.
-
-## Profile Summary
-
-My professional strength lies in backend and integration work; at the same time, I bring enough full-stack experience to meaningfully connect backend systems, databases, services and user interfaces.
-
-I am particularly familiar with *working through the backlog of systems where technical debt, legacy code, database dependencies, integration effort or release pressure play a role*. I analyze such environments in a structured way, identify technical dependencies and deliver pragmatic solutions that improve maintainability, testability and operational reliability.
+> My focus remains on what best serves the project  
+  
+Back-end oriented **senior software developer** with a focus on legacy solutions.  
+  
+Particularly familiar with *working through the backlog of solutions where technical debt, legacy code, database dependencies, integration effort or release pressure block progress*.  
+  
+Despite my specialisation within `.Net` ecosystem, I bring enough `full-stack` experience to meaningfully connect back-end systems, databases, services and user interfaces. I remain technologically flexible.
 
 ## Vocational Education
 
@@ -37,31 +35,31 @@ I am particularly familiar with *working through the backlog of systems where te
 
 ## Short Project CV
 
-| Company / Engagement                          |      Period | Role                                                                   | Area                                                                |
-| --------------------------------------------- | ----------: | ---------------------------------------------------------------------- | ------------------------------------------------------------------- |
-| `PROXIA Software AG` / `Shoplogix`            | 2022 - 2025 | Senior Software Developer                                              | `MES`, `OPC UA`, ETL, industrial integration                        |
-| Short engagement in an e-commerce environment |        2021 | Software development, integration, testing                             | E-commerce, logistics integration                                   |
-| `Data Experts GmbH`                           | 2017 - 2020 | Software Engineer                                                      | Output Management System                                            |
-| Short engagement in an ERP environment        |        2017 | Software development and maintenance                                   | ERP, internal business software                                     |
-| `Infineon Technologies, Regensburg`           | 2014 - 2016 | Software Developer / Equipment Integration                             | `MES`, semiconductor manufacturing                                  |
-| `K New Media GmbH & Co`                       | 2011 - 2013 | Software Developer                                                     | E-commerce, `Magento`, `PIM`, product data                          |
-| `Infineon Technologies, Villach`              | 2007 - 2010 | Software Developer / Equipment Integration                             | `MES`, `SECS/GEM`                                                   |
-| `Music Pictures Ltd.`                         |        2006 | Software Developer                                                     | Data migration, internal administration                             |
-| Early professional experience                 | 1998 - 2005 | IT development, web development, freelance projects, training, support | ERP, e-commerce, CMS, custom software, logistics, office automation |
+| Company / Engagement                          |      Period | Role                                                                   | Area                                                                    |
+| --------------------------------------------- | ----------: | ---------------------------------------------------------------------- | ----------------------------------------------------------------------- |
+| `PROXIA Software AG` / `Shoplogix`            | 2022 - 2025 | Senior Software Developer                                              | `MES`, `OPC UA`, `ETL`, industrial integration                          |
+| Short engagement in an e-commerce environment |        2021 | Senior Software Developer                                              | E-commerce, logistics integration                                       |
+| `Data Experts GmbH`                           | 2017 - 2020 | Software Engineer                                                      | Output Management System                                                |
+| Short engagement in an ERP environment        |        2017 | Software developer                                                     | `ERP`                                                                   |
+| `Infineon Technologies, Regensburg`           | 2014 - 2016 | Software Developer / Equipment Integration                             | `MES` `SECS/GEM`, semiconductor manufacturing                           |
+| `K New Media GmbH & Co`                       | 2011 - 2013 | Software Developer                                                     | E-commerce, `Magento`, `PIM`, `ETL`, product data                       |
+| `Infineon Technologies, Villach`              | 2007 - 2010 | Software Developer / Equipment Integration                             | `MES`, `SECS/GEM`, semiconductor manufacturing                          |
+| `Music Pictures Ltd.`                         |        2006 | Software Developer                                                     | Data migration, internal administration                                 |
+| Early professional experience                 | 1998 - 2005 | IT development, web development, freelance projects, training, support | `ERP`, e-commerce, `CMS`, custom software, logistics, office automation |
 
 ## Skills
 
 ### Core Competencies
 
-| Area                         | Skills                                                                                                                                                                     |
-| ---------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| `.NET` / Backend             | `.NET Framework`, `.NET Core`, `.NET Standard`, `C#`, `ASP.NET`, `Entity Framework`, services, rich clients, backend components, `MSBuild`, `NuGet`, `WIX for MSI`, `VSTO` |
-| Industrial Integration / MES | `MES`, equipment integration, process data acquisition, `OPC UA`, `SECS/GEM`, `MQTT`, `MT Connect`, `ETL`                                                                  |
-| Databases / SQL              | `SQL`, `MS SQL Server`, `Oracle`, `PostgreSQL`, `MySQL`, `SQLite`, `DB2`, query optimization, indexing, profiling, data migrations                                         |
-| Enterprise Integration       | `REST`, `SOAP`, XML-based interfaces, domain object transformation, system integration                                                                                     |
-| Quality / Delivery           | `SQA`, integration tests, regression tests, `NUnit`, `JUnit`, `Selenium`, code reviews, release readiness, `CI/CD`, `Jenkins`, `Nexus`                                     |
+| Area                         | Skills                                                                                                                                                                            |
+| ---------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `.NET` / Backend             | `.NET Framework`, `.NET Core`, `.NET Standard`, `C#`, `ASP.NET`, `Entity Framework`, services, rich clients, backend components, `MSBuild`, `NuGet`, `WIX for MSI`, `VSTO`, `TDD` |
+| Industrial Integration / MES | `MES`, equipment integration, process data acquisition, `OPC UA`, `SECS/GEM`, `MQTT`, `MT Connect`, `ETL`                                                                         |
+| Databases / SQL              | `SQL`, `MS SQL Server`, `Oracle`, `PostgreSQL`, `MySQL`, `SQLite`, `DB2`, query optimization, indexing, profiling, data migrations                                                |
+| Enterprise Integration       | `REST`, `SOAP`, XML-based interfaces, domain object transformation, system integration                                                                                            |
+| Quality / Delivery           | `SQA`, integration tests, regression tests, `NUnit`, `JUnit`, `Selenium`, code reviews, release readiness, `CI/CD`, `Jenkins`, `Nexus`                                            |
 
-### Additional Experience
+### Additional Competencies
 
 | Area                | Skills                                                                                                                      |
 | ------------------- | --------------------------------------------------------------------------------------------------------------------------- |
@@ -76,44 +74,41 @@ I am particularly familiar with *working through the backlog of systems where te
 ### PROXIA Software AG / Shoplogix
 
 **Senior Software Developer**  
-**MES / Process Data Acquisition / OPC UA / ETL**  
+**MES | Process Data Acquisition | OPC UA | ETL**  
 **07/2022 – 01/2025**
 
-Further development, stabilization and extension of productive software components for process data acquisition, `OPC UA` communication and data integration in industrial `MES` environments.
+Materialisation of new features, applications and backlog work on legacy software components for process data acquisition, integration and customised programming  for industrial environments
 
-In the context of the later acquisition by `Shoplogix`, additional work on integration and transformation processes between different `MES` system landscapes.
+Rough and detailed planning of user histories, features and agile project management.
 
-Focus areas:
-
-  * Further development of `CCS` as an `OPC UA` client component for industrial process data acquisition.
-  * Extension of the `XI-Gateway` as an `OPC UA` client/server component with `PKI` functionality, including configuration interface for security-relevant connection parameters.
-  * Stabilization of the `MT Connect` to `OPC UA` transformation in the `XI-Gateway`, especially the request, parsing and mapping logic for representing machine data as `OPC UA` nodes.
-  * Extension of `OPC UA` client components and workflow-based configurations for representing customer-specific production and process workflows.
-  * Development of a modular ETL middleware for exchanging central domain objects between `PROXIA` and `Shoplogix` system landscapes, as well as for tracking job status transitions between both `MES` systems.
-  * Implementation of customer-specific features, handling of support-related change requests, and technical cleanup and stabilization of existing backlog topics.
-  * Improvements to testability and scalability, as well as configuration of QA environments, including `AWS` and `Hyper-V` based setups.
+Continuous development (CD):
+  * `OPC UA Client` for industrial process data acquisition.
+  * `OPC UA client/server` gateway with `PKI` (Public Key Infrastructure) functionality, including its `UI` (User interface). 
+  * `MT Connect` transformation to `OPC UA` nodes.
+  * Improvement of the _asynchronous execution flow_ on susceptible systems.
+  * `ETL` middleware for exchanging central domain objects between `PROXIA` and `Shoplogix` system landscapes, as well as for tracking job status transitions between both `MES` systems.
+  * Testability and scalability improvments, as well as configuration of `QA` environments, including `AWS` and `Hyper-V` based setups.
 
 Technologies:  
 `.NET`, `C#`, `ASP.NET`, `OPC UA`, `PKI`, `MT Connect`, `MQTT`, `REST`, ETL, `XML`, `AWS`, `Git`, `GitLab`, `Hyper-V`, `WSL`, `React`, `Vue.js`, `Jira`, `Confluence`
 
 ### Short Engagement in an E-Commerce Environment
 
-**Software development, integration and testing**  
-**E-commerce / Logistics integration / Legacy systems**  
+**Senior Software Developer**  
+**E-commerce | Logistics integration | Legacy systems**  
 **2021**
 
-Short-term, technically intensive engagement in an existing e-commerce system landscape, focused on maintenance, integration, test automation and stabilization of internal applications.
+Short-term, technically intensive engagement in an existing e-commerce system landscape, focused on maintenance, integration, test automation and stabilization of internal legacy applications.
 
 Focus areas:
 
-  * Maintenance and further development of internal `.NET` / legacy applications.
-  * Integration and adaptation of local `SOAP` and `REST` connections.
+  * Continous development of legacy `.NET` PIM oriented application.
   * `DHL` and `DPD` API integrations in a logistics and shipping context.
-  * `Selenium`-based tests and release-related quality assurance.
+  * `Selenium`-based solutions.
   * Support with refactoring, error analysis and technical stabilization.
 
 Technologies:  
-`.NET`, `C#`, `SOAP`, `REST`, `Selenium`, `Docker`, `Vagrant`, `Node.js`
+`.NET`, `C#`, `SOAP`, `REST`, `Selenium`, `Docker`, `Vagrant`, `Node.js`,`TDD`,`Integration Test`
 
 ### Data Experts GmbH
 
@@ -121,31 +116,31 @@ Technologies:
 **Output Management System for the AOK health insurance fund**  
 **11/2017 - 07/2020**
 
-Main responsibility for further development and maintenance of the `XOUT.Net` client and service application in productive use by approx. 5,000 daily users. In addition, bug fixes and extensions to a `Java`-based server application as well as adaptations to `React` user interfaces.
+Continuous development of legacy client and service application named `XOUT.Net` used by approx. 5K. daily users. In addition, bug fixes and extensions to a `Java`-based server application as well as occasional front-end work with `React`.
 
 Focus areas:
 
-  * Further development and stabilization of a production-relevant `.NET Framework` client/service application.
-  * Release preparation with integration and regression coverage.
+  * Legacy`.NET Framework` client/service application.
+  * Release intensive work.
+  * Integration and regression test.
   * Bug fixes and extensions in `Java 8` / `Spring Boot`.
   * Adaptations to `React`-based user interfaces.
   * Reviews, tests, documentation and quality-related coordination.
-  * Work with `Oracle`, `PostgreSQL`, `ModeShape` and `JBoss WildFly`.
 
 Technologies:  
 `.NET Framework`, `C#`, `Java 8`, `Spring Boot`, `React`, `Oracle`, `PostgreSQL`, `ModeShape`, `REST`, `SOAP`, `JUnit`, `NUnit`, `Jenkins`, `Maven`, `Vagrant`, `Jira`, `Confluence`, `Nexus`, `JBoss WildFly`, `Visual Studio`, `IntelliJ`
 
 ### Short Engagement in an ERP Environment
 
-**Software development and maintenance**  
-**ERP / Internal business software / Desktop applications**  
-**2017**
+**Software Developer
+ERP 
+2017**
 
-Short-term engagement focused on further development, maintenance and bug fixing of an ERP-related business application in an internal company environment.
+Short-term engagement focused on further development, maintenance and bug fixing of a legacy ERP-related business application.
 
 Focus areas:
 
-  * Further development and maintenance of an existing `.NET Framework` application.
+  * Continious development of legacy `.NET Framework` application.
   * Error analysis, bug fixing and smaller functional extensions.
   * Work on database-backed desktop components with `WinForms`.
   * Support with testing and quality-related development work.
@@ -155,33 +150,35 @@ Technologies:
 
 ### Infineon Technologies, Regensburg
 
-**Software Developer / Equipment Integration**  
-**Semiconductor industry / MES / SECS/GEM**  
+**Software Developer  
+Equipment Integration | Semiconductor industry | MES / SECS/GEM**  
 **05/2014 - 11/2016**
 
-Project work on behalf of `Hays AG` at `Infineon Technologies Regensburg`. Further development, integration testing and technical adaptation of the `EAF` software for production-relevant wafer workflows in an `MES`-related semiconductor manufacturing environment, including adaptation from 300 mm to 200 mm production lines.
+Project work on behalf of `Hays AG` at `Infineon Technologies Regensburg`.
+  
+Continuous development, integration and technical adaptation of the `EAF` software for relevant wafer production workflows in an `MES`-related semiconductor manufacturing environment, including adaptation from 300 mm to 200 mm production lines.
 
 Focus areas:
 
   * Extension and integration of the `EAF` software for 300 mm and 200 mm wafer workflows.
-  * Integration tests and technical adaptations in the production environment.
-  * `JavaScript` for simulation-related tools.
-  * UML-based specification and documentation, especially activity diagrams.
+  * Integration and facility tests. 
+  * Technical adaptations in the production environment.
+  * `UML`-based specification and documentation, especially activity diagrams.
 
 Technologies:  
 `YODA`, `TIBCO`, `.NET Framework 4.5`, `C#`, `JavaScript`, `XML`, `XSLT`, `DOM`, `SECS/GEM`, UML, `Enterprise Architect`
 
 ### K New Media GmbH & Co
 
-**Software Developer (PHP)**  
-**E-Commerce / Product Data / Magento / PIM**  
+**Software Developer  
+E-Commerce | Product Data | Magento | PIM**  
 **01/2011 - 05/2013**
 
-Further development of a product import application and implementation of `Magento` modules. Focus on automated import processes, product data mapping, data validation and stabilization of large `XML` and image import workflows.
+Continious development of a product import application and implementation of `Magento` modules. Focus on automated import processes, product data mapping, data validation and stabilization of large `XML` and image import workflows.
 
 Focus areas:
 
-  * Product import processes for several e-commerce marketplaces.
+  * Intensive product import processes for several e-commerce marketplaces.
   * `Magento` module development and `JavaScript` / frontend adaptations.
   * Normalization of product and inventory data from `Klingel` XML feeds for the `Tradebyte` PIM system in the German e-commerce / mail-order retail environment.
   * Automated import processes based on a `PHP` client.
@@ -192,11 +189,13 @@ Technologies:
 
 ### Infineon Technologies, Villach
 
-**Software Developer / Equipment Integration via SECS/GEM**  
-**Semiconductor industry / MES**  
+**Software Developer  
+Equipment Integration | Semiconductor industry | MES / SECS/GEM**  
 **03/2007 - 03/2010**
 
-Project work on behalf of `Saxonia Systems AG` at `Infineon Technologies Villach`. Development and integration of a `.NET`-based equipment integration service for connecting production equipment to an `MES` in a semiconductor environment.
+Project work on behalf of `Saxonia Systems AG` at `Infineon Technologies Villach`. 
+
+Development of legacy `.NET` service application focused to equipment integration within a `MES` system in a semiconductor industrial environment.
 
 Focus areas:
 
@@ -213,10 +212,12 @@ Technologies:
 ### Music Pictures Ltd.
 
 **Software Developer**  
-**Data migration / Internal administration software**  
+**Data migration  
 **08/2006 - 11/2006**
 
-Short project assignment after an internship start, during which I was brought into a professional migration project for the parent company `Redferns.com` because of my database experience. The focus was the migration of an existing `MS Access` application to `Oracle`, including implementation and coordination on site at the customer office in London.
+Short project assignment after an internship start, during which I was brought into a professional migration project for the parent company `Redferns.com` because of my database experience. 
+
+The focus was the migration of an existing `MS Access` application to `Oracle`, including implementation and coordination on site at the customer office in London.
 
 Focus areas:
 
@@ -229,7 +230,7 @@ Technologies:
 
 ### Early Professional Experience
 
-**IT development, mainframe fundamentals, web development, freelance projects, training and support**  
+**IT development | Mainframe fundamentals |  Web development |  Freelance projects |  Training |  Support**  
 **1998 - 2005**
 
 Early professional development phase involving mainframe fundamentals, ERP development, custom business applications, web development, technical support, office automation, Access/VB solutions, logistics processes and training activities.
