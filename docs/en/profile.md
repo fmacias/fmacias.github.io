@@ -10,6 +10,16 @@ Particularly familiar with *working through the backlog of solutions where techn
   
 Despite my specialisation within `.Net` ecosystem, I bring enough `full-stack` experience to meaningfully connect back-end systems, databases, services and user interfaces. I remain technologically flexible.
 
+## Current Direction
+
+I am currently open to focused senior software development roles, consulting-oriented assignments and part-time engagements, preferably up to 30-32 hours per week.
+
+My strongest contribution is in `.NET` backend development, legacy system stabilisation, industrial integration, MES-related software, data acquisition, database-backed systems, technical debt reduction and pragmatic software quality.
+
+Since early 2025, I have used a professional transition phase to consolidate my technical direction, modernise my own existing concurrency component into `TplQueue`, and establish a more AI-assisted engineering workflow for code review, documentation, architecture analysis, refactoring support and implementation planning.
+
+I am especially interested in roles connected to Industry 4.0, production data, integration middleware, OPC UA, MQTT, SECS/GEM, ETL, monitoring and sustainable software delivery.
+
 ## Vocational Education
 
 | Education                            |      Period |
@@ -254,17 +264,25 @@ This phase combined mainframe fundamentals, ERP and business application develop
 Technologies:  
 `COBOL`, `CICS`, `DB2`, `JCL`, `Oracle Developer 2000`, `PL/SQL`, `Visual FoxPro`, `Crystal Reports`, `SQL`, `MS Access`, `Visual Basic`, `MS Office`, `PHP`, `MySQL`, `HTML`, `CSS`, `JavaScript`, `Java`, `XML`, `XSLT`, `Apache`, `Tomcat`
 
-## Current Direction
+## Independent Engineering Work
 
-> Primary interested  **in opportunities** **where my expertise** in Software development **adds value**. 
+### TplQueue — .NET Task Execution and Concurrency-Control Component  
+**2025 – present | Independent R&D / product-oriented engineering**
 
-My knowledges and skills in **OPC UA, MQTT, SECS/GEM** and **[Integration](services.md#integration-issues)** together with my experience, aptitudes and analitical instinct makes me a good choice for companies that want to connect and monitor production lines, machines or existing systems, or make them usable for Industry 4.0-related data views.
+`TplQueue` is an independent .NET engineering project focused on task execution, concurrency control, retry policies, observer-based monitoring and serialisable job/payload handling.
 
-In addition, If problems with you legacy software, I can help:
+The project builds on earlier practical experience with asynchronous execution flows, integration-heavy systems, background processing, system observability and reliability-oriented backend design.
 
-- Solving your [concurrency and synchronization problems](services.md#concurrency-issues) 
-- Migrate your [legacy system](services.md#legacy-systems) to modern systems step by step.
+This work has also been used to modernise my development workflow with AI-assisted engineering practices, including architecture review, documentation, refactoring support, implementation planning and structured technical decision-making.
 
-The [services](services.md) I offer are more that words in a web site.
+Key focus areas:
 
-Problems? Better contact [Fernando](contact.md)!
+- `.NET Standard` / C#
+- asynchronous task execution
+- concurrency control
+- retry policies
+- observer-based monitoring
+- serialisation and payload handling
+- documentation and architecture review
+- AI-assisted software engineering workflow
+

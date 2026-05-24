@@ -10,6 +10,16 @@ Besonders vertraut mit der Aufarbeitung von Lösungs-Backlogs, in denen *technis
 
 Trotz meiner Spezialisierung im `.NET`-Umfeld bringe ich genug `Full-Stack`-Erfahrung mit, um Backend-Systeme, Datenbanken, Services und Benutzeroberflächen sinnvoll miteinander zu verbinden. Ich bleibe technologisch flexibel.
 
+## Aktuelle Ausrichtung
+
+Ich bin derzeit offen für fokussierte Senior-Softwareentwicklungsrollen, beratungsnahe Einsätze und Teilzeitmandate, vorzugsweise im Umfang von bis zu 30 bis 32 Stunden pro Woche.
+
+Meinen stärksten Beitrag leiste ich in den Bereichen `.NET`-Backend-Entwicklung, Stabilisierung von Legacy-Systemen, industrielle Integration, MES-nahe Software, Datenerfassung, datenbankgestützte Systeme, technischer Schuldenabbau und pragmatische Softwarequalität.
+
+Seit Anfang 2025 nutze ich eine berufliche Übergangsphase, um meine technische Ausrichtung zu schärfen, meine bestehende Concurrency-Komponente zu `TplQueue` weiterzuentwickeln und einen stärker KI-gestützten Engineering-Workflow für Code Reviews, Dokumentation, Architekturanalyse, Refactoring-Unterstützung und Implementierungsplanung aufzubauen.
+
+Besonders interessieren mich Rollen im Umfeld von Industry 4.0, Produktionsdaten, Integrations-Middleware, OPC UA, MQTT, SECS/GEM, ETL, Monitoring und nachhaltiger Softwarebereitstellung.
+
 ## Berufsausbildung
 
 | Ausbildung                            |    Zeitraum |
@@ -255,17 +265,24 @@ Diese Phase verband Mainframe-Grundlagen, ERP- und Fachanwendungsentwicklung, fr
 Technologien:  
 `COBOL`, `CICS`, `DB2`, `JCL`, `Oracle Developer 2000`, `PL/SQL`, `Visual FoxPro`, `Crystal Reports`, `SQL`, `MS Access`, `Visual Basic`, `MS Office`, `PHP`, `MySQL`, `HTML`, `CSS`, `JavaScript`, `Java`, `XML`, `XSLT`, `Apache`, `Tomcat`
 
-## Aktuelle Ausrichtung
+## Unabhängige Engineering-Arbeit
 
-> Vorrangig interessiert an Möglichkeiten, bei denen meine Expertise in der Softwareentwicklung Mehrwert schafft.
+### TplQueue - .NET-Komponente für Task-Ausführung und Concurrency Control  
+**2025 - heute | Unabhängige F&E / produktorientiertes Engineering**
 
-Meine Kenntnisse in **OPC UA, MQTT, SECS/GEM** und **[Integration](services.md#integration-issues)** machen mich zusammen mit meiner Erfahrung und meinem analytischen Instinkt zu einer guten Wahl für Unternehmen, die Produktionslinien, Maschinen oder bestehende Systeme anbinden und überwachen oder für Industrie-4.0-nahe Datensichten nutzbar machen wollen.
+`TplQueue` ist ein unabhängiges .NET-Engineering-Projekt mit Fokus auf Task-Ausführung, Concurrency Control, Retry Policies, observerbasierter Überwachung sowie serialisierbarer Job- und Payload-Verarbeitung.
 
-Darüber hinaus kann ich helfen, wenn Ihre Legacy-Software Probleme bereitet:
+Das Projekt baut auf früherer praktischer Erfahrung mit asynchronen Ausführungsflüssen, integrationsintensiven Systemen, Background Processing, Systembeobachtbarkeit und auf Zuverlässigkeit ausgerichtetem Backend-Design auf.
 
-- Ihre [Nebenläufigkeits- und Synchronisationsprobleme](services.md#concurrency-issues) zu lösen.
-- Ihr [Legacy-System](services.md#legacy-systems) Schritt für Schritt auf moderne Systeme zu migrieren.
+Diese Arbeit dient zugleich dazu, meinen Entwicklungsworkflow mit KI-gestützten Engineering-Praktiken weiterzuentwickeln, darunter Architektur-Review, Dokumentation, Refactoring-Unterstützung, Implementierungsplanung und strukturierte technische Entscheidungsfindung.
 
-Die [Leistungen](services.md), die ich anbiete, sind mehr als Worte auf einer Website.
+Wesentliche Schwerpunkte:
 
-Probleme? Dann [Fernando kontaktieren](contact.md)!
+- `.NET Standard` / C#
+- asynchrone Task-Ausführung
+- Concurrency Control
+- Retry Policies
+- observerbasierte Überwachung
+- Serialisierung und Payload-Verarbeitung
+- Dokumentation und Architektur-Review
+- KI-gestützter Software-Engineering-Workflow
