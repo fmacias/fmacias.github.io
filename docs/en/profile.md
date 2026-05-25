@@ -87,9 +87,9 @@ I am especially interested in roles connected to Industry 4.0, production data, 
 **MES | Process Data Acquisition | OPC UA | ETL**  
 **07/2022 – 01/2025**
 
-Materialisation of new features, applications and backlog work on legacy software components for process data acquisition, integration and customised programming  for industrial environments
+Materialisation of new features, applications and backlog work on legacy software components for process data acquisition, integration and customised development  for industrial environments
 
-Rough and detailed planning of user histories, features and agile project management.
+Rough and detailed planning of user histories, features. Developer-Driven Project _Agile_ Management.
 
 Continuous development (CD):
 
@@ -129,17 +129,19 @@ Technologies:
 
 Continuous development of legacy client and service application named `XOUT.Net` used by approx. 5K. daily users. In addition, bug fixes and extensions to a `Java`-based server application as well as occasional front-end work with `React`.
 
+Developer-Driven Project _Agile_ Management.
+
 Focus areas:
 
-  * Legacy`.NET Framework` client/service application.
-  * Release intensive work.
+  * Continuous development of Backlog of Legacy`.NET Framework` client/service application.
+  * Release intensive operations.
   * Integration and regression test.
-  * Bug fixes and extensions in `Java 8` / `Spring Boot`.
-  * Adaptations to `React`-based user interfaces.
-  * Reviews, tests, documentation and quality-related coordination.
+  * Continuous development of legacy `Java 8` / `Spring Boot` applications.
+  * Front-End work with `React`.
+  * Reviews, tests, documentation and quality-related test. `SQA` intensive .
 
 Technologies:  
-`.NET Framework`, `C#`, `Java 8`, `Spring Boot`, `React`, `Oracle`, `PostgreSQL`, `ModeShape`, `REST`, `SOAP`, `JUnit`, `NUnit`, `Jenkins`, `Maven`, `Vagrant`, `Jira`, `Confluence`, `Nexus`, `JBoss WildFly`, `Visual Studio`, `IntelliJ`
+`.NET Framework`, `C#`, `Java 8`, `Spring Boot`, `React`, `Oracle`, `PostgreSQL`, `ModeShape`, `REST`, `SOAP`, `JUnit`, `NUnit`, `Jenkins`, `Maven`, `Vagrant`, `Jira`, `Confluence`, `Nexus`, `JBoss WildFly`, `Visual Studio`, `IntelliJ`, `SQA`
 
 ### Short Engagement in an ERP Environment
 
@@ -169,6 +171,8 @@ Project work on behalf of `Hays AG` at `Infineon Technologies Regensburg`.
   
 Continuous development, integration and technical adaptation of the `EAF` software for relevant wafer production workflows in an `MES`-related semiconductor manufacturing environment, including adaptation from 300 mm to 200 mm production lines.
 
+Technical Project Manager (TPL) and waterfall model. 
+
 Focus areas:
 
   * Extension and integration of the `EAF` software for 300 mm and 200 mm wafer workflows.
@@ -186,6 +190,8 @@ E-Commerce | Product Data | Magento | PIM**
 **01/2011 - 05/2013**
 
 Continious development of a product import application and implementation of `Magento` modules. Focus on automated import processes, product data mapping, data validation and stabilization of large `XML` and image import workflows.
+
+Developer-Driven Project _Agile_ Management.
 
 Focus areas:
 
@@ -207,6 +213,8 @@ Equipment Integration | Semiconductor industry | MES / SECS/GEM**
 Project work on behalf of `Saxonia Systems AG` at `Infineon Technologies Villach`. 
 
 Development of legacy `.NET` service application focused to equipment integration within a `MES` system in a semiconductor industrial environment.
+
+Technical Project Manager (TPL) and waterfall model. 
 
 Focus areas:
 
@@ -264,12 +272,14 @@ This phase combined mainframe fundamentals, ERP and business application develop
 Technologies:  
 `COBOL`, `CICS`, `DB2`, `JCL`, `Oracle Developer 2000`, `PL/SQL`, `Visual FoxPro`, `Crystal Reports`, `SQL`, `MS Access`, `Visual Basic`, `MS Office`, `PHP`, `MySQL`, `HTML`, `CSS`, `JavaScript`, `Java`, `XML`, `XSLT`, `Apache`, `Tomcat`
 
-## Independent Engineering Work
+### Independent Engineering Work
 
-### TplQueue — .NET Task Execution and Concurrency-Control Component  
-**2025 – present | Independent R&D / product-oriented engineering**
+## TplQueue
 
-`TplQueue` is an independent .NET engineering project focused on task execution, concurrency control, retry policies, observer-based monitoring and serialisable job/payload handling.
+**.NET Task Execution and Concurrency-Control Component**  
+**2025 – present
+
+`TplQueue` is an independent R&D/  .NET product-oriented engineering project focused on task execution, concurrency control, retry policies, observer-based monitoring and serialisable job/payload handling.
 
 The project builds on earlier practical experience with asynchronous execution flows, integration-heavy systems, background processing, system observability and reliability-oriented backend design.
 
@@ -285,4 +295,3 @@ Key focus areas:
 - serialisation and payload handling
 - documentation and architecture review
 - AI-assisted software engineering workflow
-
