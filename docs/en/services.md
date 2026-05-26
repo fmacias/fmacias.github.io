@@ -1,6 +1,8 @@
 # Services
 
-I support companies in stabilizing, extending and modernizing existing software landscapes — especially where technical debt, legacy systems, integration effort, concurrency or release pressure slow down progress.
+>I help teams clear accumulated technical debt and release pressure without disrupting team dynamics or turning legacy issues into internal friction.
+
+Support for companies in stabilizing, extending and modernizing existing software landscapes — especially where **technical debt**, **legacy systems**, **integration effort**, **concurrency** or **release pressure** slow down progress.
 
 The focus is on practical senior-level implementation: making problems visible, reducing risks, implementing sustainable solutions and selectively extending existing systems.
 

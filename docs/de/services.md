@@ -1,6 +1,8 @@
 # Leistungen
 
-Ich unterstütze Unternehmen bei der Stabilisierung, Weiterentwicklung und Modernisierung bestehender Softwarelandschaften — besonders dort, wo *technische Schulden*, *Legacy-Systeme*, *Integrationsaufwand*, *Nebenläufigkeit* oder *Release-Druck* den Fortschritt bremsen.
+>Ich unterstütze Teams dabei, angehäufte technische Schulden abzubauen und Lieferdruck zu reduzieren, ohne die Teamdynamik zu beeinträchtigen oder gewachsene Altlasten zu internen Reibungspunkten werden zu lassen.
+
+Unterstützung an Unternehmen bei der Stabilisierung, Weiterentwicklung und Modernisierung bestehender Softwarelandschaften — besonders dort, wo *technische Schulden*, *Legacy-Systeme*, *Integrationsaufwand*, *Nebenläufigkeit* oder *Release-Druck* den Fortschritt bremsen.
 
 Der Schwerpunkt liegt auf praktischer **Senior**-Umsetzung: Probleme sichtbar machen, Risiken reduzieren, tragfähige Lösungen implementieren und gezielte Erweiterung bestehende Systeme.
 
