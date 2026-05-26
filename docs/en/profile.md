@@ -12,13 +12,13 @@ Despite my specialisation within `.Net` ecosystem, I bring enough `full-stack` e
 
 ## Current Direction
 
-I am currently open to focused senior software development roles, consulting-oriented assignments and part-time engagements, preferably up to 30-32 hours per week.
+I am currently open to focused senior software development roles, consulting-oriented assignments and part-time engagements, preferably up to 32 hours per week.
 
 My strongest contribution is in `.NET` backend development, legacy system stabilisation, industrial integration, MES-related software, data acquisition, database-backed systems, technical debt reduction and pragmatic software quality.
 
-Since early 2025, I have used a professional transition phase to consolidate my technical direction, modernise my own existing concurrency component into `TplQueue`, and establish a more AI-assisted engineering workflow for code review, documentation, architecture analysis, refactoring support and implementation planning.
+Since early 2025, I have used a professional transition phase to consolidate my technical direction, modernise my own existing concurrency component into [`TplQueue`](tplqueue/index.md), and establish a more AI-assisted engineering workflow for code review, documentation, architecture analysis, refactoring support and implementation planning.
 
-I am especially interested in roles connected to Industry 4.0, production data, integration middleware, OPC UA, MQTT, SECS/GEM, ETL, monitoring and sustainable software delivery.
+I am especially interested in roles connected to `Industry 4.0`, production data, integration middleware, `OPC UA`, `MQTT`, `SECS/GEM`, `ETL`, monitoring and sustainable software delivery.
 
 ## Vocational Education
 
@@ -87,17 +87,19 @@ I am especially interested in roles connected to Industry 4.0, production data, 
 **MES | Process Data Acquisition | OPC UA | ETL**  
 **07/2022 – 01/2025**
 
-Materialisation of new features, applications and backlog work on legacy software components for process data acquisition, integration and customised development  for industrial environments
+Materialisation of new features, applications and backlog work on legacy software components for `PDA`(process data acquisition), `MDA`(Machine Data acquisition), integration and customised development  for industrial environments
 
-Rough and detailed planning of user histories, features. Developer-Driven Project _Agile_ Management.
+Rough and detailed planning of user histories and features. 
+
+Developer-Driven `Agile-Project Management`.
 
 Continuous development (CD):
 
   * `OPC UA Client` for industrial process data acquisition.
   * `OPC UA client/server` gateway with `PKI` (Public Key Infrastructure) functionality, including its `UI` (User interface). 
   * `MT Connect` transformation to `OPC UA` nodes.
-  * Improvement of the _asynchronous execution flow_ on susceptible systems.
-  * `ETL` middleware for exchanging central domain objects between `PROXIA` and `Shoplogix` system landscapes, as well as for tracking job status transitions between both `MES` systems.
+  * Improvement of the _asynchronous execution flow_ on **always-on systems**.
+  * Modular `ETL` middleware for exchanging central domain objects between `PROXIA` and `Shoplogix` system landscapes, as well as for tracking job status transitions between both `MES` systems.
   * Testability and scalability improvments, as well as configuration of `QA` environments, including `AWS` and `Hyper-V` based setups.
 
 Technologies:  
@@ -129,7 +131,7 @@ Technologies:
 
 Continuous development of legacy client and service application named `XOUT.Net` used by approx. 5K. daily users. In addition, bug fixes and extensions to a `Java`-based server application as well as occasional front-end work with `React`.
 
-Developer-Driven Project _Agile_ Management.
+Developer-Driven `Agile`-Project Management.
 
 Focus areas:
 
@@ -171,7 +173,7 @@ Project work on behalf of `Hays AG` at `Infineon Technologies Regensburg`.
   
 Continuous development, integration and technical adaptation of the `EAF` software for relevant wafer production workflows in an `MES`-related semiconductor manufacturing environment, including adaptation from 300 mm to 200 mm production lines.
 
-Technical Project Manager (TPL) and waterfall model. 
+`TPM`(Technical Project Manager). `Waterfall` model. 
 
 Focus areas:
 
@@ -191,7 +193,7 @@ E-Commerce | Product Data | Magento | PIM**
 
 Continious development of a product import application and implementation of `Magento` modules. Focus on automated import processes, product data mapping, data validation and stabilization of large `XML` and image import workflows.
 
-Developer-Driven Project _Agile_ Management.
+Developer-Driven `Agile`-Project Management.
 
 Focus areas:
 
@@ -214,7 +216,7 @@ Project work on behalf of `Saxonia Systems AG` at `Infineon Technologies Villach
 
 Development of legacy `.NET` service application focused to equipment integration within a `MES` system in a semiconductor industrial environment.
 
-Technical Project Manager (TPL) and waterfall model. 
+`TPM`(Technical Project Manager). `Waterfall` model. 
 
 Focus areas:
 
@@ -232,7 +234,7 @@ Technologies:
 
 **Software Developer**  
 **Data migration  
-**08/2006 - 11/2006**
+08/2006 - 11/2006**
 
 Short project assignment after an internship start, during which I was brought into a professional migration project for the parent company `Redferns.com` because of my database experience. 
 
@@ -279,7 +281,7 @@ Technologies:
 **.NET Task Execution and Concurrency-Control Component**  
 **2025 – present
 
-`TplQueue` is an independent R&D/  .NET product-oriented engineering project focused on task execution, concurrency control, retry policies, observer-based monitoring and serialisable job/payload handling.
+[`TplQueue`](tplqueue/index.md) is an independent R&D/  .NET product-oriented engineering project focused on task execution, concurrency control, retry policies, observer-based monitoring and serialisable job/payload handling.
 
 The project builds on earlier practical experience with asynchronous execution flows, integration-heavy systems, background processing, system observability and reliability-oriented backend design.
 
