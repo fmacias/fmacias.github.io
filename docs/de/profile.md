@@ -6,7 +6,7 @@
 
 Backend-orientierter **Senior Softwareentwickler** mit Fokus auf Legacy-Lösungen.
 
-Besonders vertraut mit der Aufarbeitung von Lösungs-Backlogs, in denen *Technical Debt, Legacy-Code, Datenbankabhängigkeiten, Integrationsaufwand oder Release-Druck den Fortschritt blockieren*.
+Besonders vertraut mit der Aufarbeitung von Backlogs, in denen *Technical Debt, Legacy-Code, Datenbankabhängigkeiten, Integrationsaufwand oder Release-Druck den Fortschritt blockieren*.
 
 Trotz meiner Spezialisierung im `.NET`-Ökosystem bringe ich genug `Full-Stack`-Erfahrung mit, um Backend-Systeme, Datenbanken, Services und User Interfaces sinnvoll miteinander zu verbinden. Ich bleibe technologisch flexibel.
 
@@ -16,7 +16,7 @@ Ich bin derzeit offen für fokussierte Senior-Softwareentwicklungsrollen, beratu
 
 Meinen stärksten Beitrag leiste ich in der `.NET`-Backend-Entwicklung, der Stabilisierung von Legacy-Systemen, industrieller Integration, MES-naher Software, Datenerfassung, datenbankgestützten Systemen, dem Abbau von _Technical Debt_ und pragmatischer Softwarequalität.
 
-Seit Anfang 2025 nutze ich eine berufliche Übergangsphase, um meine technische Ausrichtung zu konsolidieren, meine bestehende _Concurrency-Komponente_ zu `TplQueue` zu modernisieren und einen stärker KI-gestützten Engineering-Workflow für Code Reviews, Dokumentation, Architekturanalyse, _Refactoring_-Support und Implementierungsplanung aufzubauen.
+Seit Anfang 2025 nutze ich eine berufliche Übergangsphase, um meine technische Ausrichtung zu konsolidieren, meine bestehende _Concurrency-Komponente_ zu [`TplQueue`](tplqueue/index.md) zu modernisieren und einen stärker KI-gestützten Engineering-Workflow für Code Reviews, Dokumentation, Architekturanalyse, _Refactoring_-Support und Implementierungsplanung aufzubauen.
 
 Besonders interessieren mich Rollen im Umfeld von `Industry 4.0`, Produktionsdaten, Integration Middleware, `OPC UA`, `MQTT`, `SECS/GEM`, `ETL`, Monitoring und nachhaltiger Software Delivery.
 
@@ -87,17 +87,17 @@ Besonders interessieren mich Rollen im Umfeld von `Industry 4.0`, Produktionsdat
 **MES | Prozessdatenerfassung | OPC UA | ETL**  
 **07/2022 - 01/2025**
 
-Umsetzung neuer Features, Anwendungen und Backlog-Arbeit an Legacy-Softwarekomponenten für Prozessdatenerfassung, Integration und kundenspezifische Entwicklung in industriellen Umgebungen.
+Umsetzung neuer Features, Anwendungen und Backlog-Arbeit an Legacy-Softwarekomponenten für `PDE`(Prozessdatenerfassung), `MDE`(Machinedatenerfassung), Integration und kundenspezifische Entwicklung in industriellen Umgebungen.
 
-Grob- und Detailplanung von User Stories und Features. _Developer-driven_ Agile-Projektmanagement.
+Grob- und Detailplanung von User Stories und Features. Developer-driven `Agile`-Projektmanagement.
 
 Kontinuierliche Weiterentwicklung:
 
 - `OPC UA Client` für industrielle Prozessdatenerfassung.
 - `OPC UA`-Client/Server-Gateway mit `PKI`-Funktionalität einschließlich der zugehörigen `UI`.
 - Transformation von `MT Connect` in `OPC UA`-Nodes.
-- Verbesserung des asynchronen Execution Flows in anfälligen Systemen.
-- `ETL`-Middleware für den Austausch zentraler Domain Objects zwischen den Systemlandschaften von `PROXIA` und `Shoplogix` sowie zur Nachverfolgung von Job-Status-Übergängen zwischen beiden `MES`-Systemen.
+- Verbesserung des asynchronen Execution Flows in **alwasy-on** Systemen.
+- Moduleare `ETL`-Middleware für den Austausch zentraler Domain Objects zwischen den Systemlandschaften von `PROXIA` und `Shoplogix` sowie zur Nachverfolgung von Job-Status-Übergängen zwischen beiden `MES`-Systemen.
 - Verbesserungen bei Testbarkeit und Skalierbarkeit sowie Konfiguration von `QA`-Umgebungen einschließlich `AWS`- und `Hyper-V`-basierter Setups.
 
 Technologien:  
@@ -127,9 +127,9 @@ Technologien:
 **Output Management System für die AOK-Krankenkasse**  
 **11/2017 - 07/2020**
 
-Kontinuierliche Weiterentwicklung der Legacy-Client- und Service-Anwendung `XOUT.Net`, die von rund 5.000 Anwendern täglich genutzt wurde. Zusätzlich Bugfixes und Erweiterungen an einer `Java`-basierten Server-Anwendung sowie punktuelle Frontend-Arbeit mit `React`.
+Kontinuierliche Weiterentwicklung der Legacy-Client- und Service-Anwendung `XOUT.Net`, die von rund 5.000 Anwendern täglich genutzt wurde. Zusätzlich *Bugfixes* und Erweiterungen an einer `Java`-basierten Server-Anwendung sowie punktuelle Frontend-Arbeit mit `React`.
 
-_Developer-driven_ Agile-Projektmanagement.
+Developer-driven `Agile`-Projektmanagement.
 
 Schwerpunkte:
 
@@ -149,7 +149,7 @@ Technologien:
 **ERP**  
 **2017**
 
-Kurzfristiges Engagement mit Fokus auf Weiterentwicklung, Wartung und Bugfixing einer ERP-bezogenen Legacy-Business-Anwendung.
+Kurzfristiges Engagement mit Fokus auf Weiterentwicklung, Wartung und Bugfixing einer `ERP`-bezogenen Legacy-Business-Anwendung.
 
 Schwerpunkte:
 
@@ -171,7 +171,7 @@ Projektarbeit im Auftrag von `Hays AG` bei `Infineon Technologies Regensburg`.
 
 Kontinuierliche Weiterentwicklung, Integration und technische Anpassung der `EAF`-Software für relevante Wafer-Produktions-Workflows in einem `MES`-nahen Halbleiterfertigungsumfeld, einschließlich der Adaption von 300-mm- auf 200-mm-Produktionslinien.
 
-Technische Projektleitung (`TPL`) im Wasserfallmodell.
+Technische Projektleitung. `Wasserfallmodell`.
 
 Schwerpunkte:
 
@@ -191,7 +191,7 @@ Technologien:
 
 Kontinuierliche Weiterentwicklung einer Produktimport-Anwendung und Implementierung von `Magento`-Modulen. Fokus auf automatisierten Importprozessen, Produktdaten-Mapping, Datenvalidierung und Stabilisierung großer `XML`- und Bildimport-Workflows.
 
-_Developer-driven_ Agile-Projektmanagement.
+Developer-driven `Agile`-Projektmanagement.
 
 Schwerpunkte:
 
@@ -214,7 +214,7 @@ Projektarbeit im Auftrag von `Saxonia Systems AG` bei `Infineon Technologies Vil
 
 Weiterentwicklung einer Legacy-`.NET`-Service-Anwendung mit Fokus auf Equipment Integration innerhalb eines `MES`-Systems in einem industriellen Halbleiterumfeld.
 
-Technische Projektleitung (`TPL`) im Wasserfallmodell.
+Technische Projektleitung. `Wasserfallmodell`.
 
 Schwerpunkte:
 
@@ -280,7 +280,7 @@ Technologien:
 **.NET-Komponente für Task Execution und Concurrency Control**  
 **2025 - heute**
 
-`TplQueue` ist ein unabhängiges, produktorientiertes `.NET`-Engineering- und R&D-Projekt mit Fokus auf Task Execution, Concurrency Control, Retry Policies, observerbasiertes Monitoring sowie serialisierbare Job- und Payload-Verarbeitung.
+[`TplQueue`](tplqueue/index.md) ist ein unabhängiges, produktorientiertes `.NET`-Engineering- und R&D-Projekt mit Fokus auf Task Execution, Concurrency Control, Retry Policies, observerbasiertes Monitoring sowie serialisierbare Job- und Payload-Verarbeitung.
 
 Das Projekt baut auf früherer praktischer Erfahrung mit asynchronen Execution Flows, integrationsintensiven Systemen, Background Processing, System Observability und reliabilitätsorientiertem Backend-Design auf.
 
