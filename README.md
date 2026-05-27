@@ -8,7 +8,7 @@ This repository hosts:
 
 - the public documentation hub for repositories under the `fmacias` GitHub account
 - the main public documentation entry for the `TplQueue` ecosystem
-- mirrored multilingual documentation from `TplQueue.Adapter` and the public `TplQueue.Core` tree stored in `TplQueue.Usage`
+- mirrored multilingual documentation from `TplQueue.Adapter`
 - concise `Services`, `Profile`, and `Contact` pages for Fernando Macias
 - multilingual content in English and German, with Spanish planned later
 
@@ -23,13 +23,14 @@ docs/
     services.md
     tplqueue/
       index.md
-      usage/
+      getting-started/
+      core-concepts/
+      queues/
       architecture/
-      development/
       operations/
-      core-engine/
-      reference.md
-      core-license.md
+      development/
+      reference/
+      license/
     profile.md
     contact.md
   de/
@@ -37,13 +38,14 @@ docs/
     services.md
     tplqueue/
       index.md
-      usage/
+      getting-started/
+      core-concepts/
+      queues/
       architecture/
-      development/
       operations/
-      core-engine/
-      reference.md
-      core-license.md
+      development/
+      reference/
+      license/
     profile.md
     contact.md
   assets/
@@ -55,9 +57,9 @@ The public site is documentation-first. In the visible navigation, `TplQueue` sh
 
 Within `TplQueue`, the intended public structure is:
 
-- the general ecosystem entry sourced from `TplQueue.Adapter/docs`
-- a `Core Engine` section sourced from `TplQueue.Usage/TplQueue.Core/docs`
-- the `Core License` page kept at the same tree level
+- the integrated TplQueue documentation sourced from `TplQueue.Adapter/docs`
+- the Core usage material integrated into that same public TplQueue tree
+- the Core license information kept under the `License` branch inside that same tree
 
 The public landing pages are the language-specific `index.md` files under `docs/en/` and `docs/de/`.
 Legacy `home.md` pages are not part of the current site structure.
@@ -79,14 +81,11 @@ The sync script mirrors the TplQueue documentation trees from sibling repository
 It has these responsibilities:
 
 - sync `docs/en/` and `docs/de/` from `../TplQueue.Adapter/docs/` into the site `TplQueue` section
-- sync `docs/en/` and `docs/de/` from `../TplQueue.Usage/TplQueue.Core/docs/` into the site `Core Engine` section
-- sync `../TplQueue.Usage/TplQueue.Core/docs/<lang>/license.md` into the top-level `Core License` page for each language
 
 Important rules for that sync:
 
 - the source of truth is the public documentation tree inside each sibling repository
 - `TplQueue.Adapter/docs/en/index.md` and `TplQueue.Adapter/docs/de/index.md` are the main public entries for the ecosystem on this site
-- `TplQueue.Usage/TplQueue.Core/docs/en/index.md` and `TplQueue.Usage/TplQueue.Core/docs/de/index.md` are the main sources for the `Core Engine` branch on this site
 - `Agents.md` or `AGENTS.md` files are instruction files only and must never be copied into the published site tree
 - when rebuilding the site documentation, update the source repository docs first, then rerun `python .\scripts\sync_tplqueue_public_docs.py`
 
@@ -141,7 +140,7 @@ What to expect:
 - English content uses root-relative routes such as `/services/`
 - German content uses `/de/`-prefixed routes such as `/de/services/`
 - the multilingual build depends on the `i18n` plugin from `mkdocs-static-i18n`
-- the imported TplQueue public reference pages are refreshed by `scripts/sync_tplqueue_public_docs.py`
+- the imported TplQueue public pages are refreshed by `scripts/sync_tplqueue_public_docs.py`
 
 ## Release Notes For Maintainers
 

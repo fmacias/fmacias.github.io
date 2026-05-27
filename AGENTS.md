@@ -279,27 +279,24 @@ Single-language reference structure:
 
 ```text
 .
-├─ mkdocs.yml
-├─ docs/
-│  ├─ index.md
-│  ├─ services.md
-│  ├─ tplqueue/
-│  │  ├─ index.md
-│  │  ├─ usage/
-│  │  ├─ architecture/
-│  │  ├─ development/
-│  │  ├─ operations/
-│  │  ├─ core-engine/
-│  │  ├─ reference.md
-│  │  └─ core-license.md
-│  ├─ profile.md
-│  ├─ contact.md
-│  ├─ assets/
-│  │  ├─ images/
-│  │  ├─ files/
-│  │  ├─ stylesheets/
-│  │  └─ javascripts/
-└─ .github/ 
+|-- mkdocs.yml
+|-- docs/
+|   |-- index.md
+|   |-- services.md
+|   |-- tplqueue/
+|   |   |-- index.md
+|   |   |-- getting-started/
+|   |   |-- core-concepts/
+|   |   |-- queues/
+|   |   |-- architecture/
+|   |   |-- operations/
+|   |   |-- development/
+|   |   |-- reference/
+|   |   `-- license/
+|   |-- profile.md
+|   |-- contact.md
+|   `-- assets/
+`-- .github/
 ```
 
 Rules:
@@ -323,13 +320,14 @@ Multilingual structure supplement:
 |   |   |-- services.md
 |   |   |-- tplqueue/
 |   |   |   |-- index.md
-|   |   |   |-- usage/
+|   |   |   |-- getting-started/
+|   |   |   |-- core-concepts/
+|   |   |   |-- queues/
 |   |   |   |-- architecture/
-|   |   |   |-- development/
 |   |   |   |-- operations/
-|   |   |   |-- core-engine/
-|   |   |   |-- reference.md
-|   |   |   `-- core-license.md
+|   |   |   |-- development/
+|   |   |   |-- reference/
+|   |   |   `-- license/
 |   |   |-- profile.md
 |   |   |-- contact.md
 |   |-- de/
@@ -337,13 +335,14 @@ Multilingual structure supplement:
 |   |   |-- services.md
 |   |   |-- tplqueue/
 |   |   |   |-- index.md
-|   |   |   |-- usage/
+|   |   |   |-- getting-started/
+|   |   |   |-- core-concepts/
+|   |   |   |-- queues/
 |   |   |   |-- architecture/
-|   |   |   |-- development/
 |   |   |   |-- operations/
-|   |   |   |-- core-engine/
-|   |   |   |-- reference.md
-|   |   |   `-- core-license.md
+|   |   |   |-- development/
+|   |   |   |-- reference/
+|   |   |   `-- license/
 |   |   |-- profile.md
 |   |   |-- contact.md
 |   |-- es/
@@ -351,13 +350,14 @@ Multilingual structure supplement:
 |   |   |-- services.md
 |   |   |-- tplqueue/
 |   |   |   |-- index.md
-|   |   |   |-- usage/
+|   |   |   |-- getting-started/
+|   |   |   |-- core-concepts/
+|   |   |   |-- queues/
 |   |   |   |-- architecture/
-|   |   |   |-- development/
 |   |   |   |-- operations/
-|   |   |   |-- core-engine/
-|   |   |   |-- reference.md
-|   |   |   `-- core-license.md
+|   |   |   |-- development/
+|   |   |   |-- reference/
+|   |   |   `-- license/
 |   |   |-- profile.md
 |   |   |-- contact.md
 |   `-- assets/
@@ -397,8 +397,8 @@ Preferred top-level navigation:
 Inside `TplQueue`, prefer this public information architecture:
 
 - the general ecosystem entry sourced from the public `TplQueue.Adapter` documentation tree
-- a `Core Engine` entry sourced from the public `TplQueue.Core` documentation tree stored under `TplQueue.Usage/TplQueue.Core/docs`
-- the `Core License` or license-model page kept at the same tree level as the other major `TplQueue` entries
+- the public Core usage material integrated into that same public `TplQueue` tree
+- the `License` branch kept as the clear place for Core license and access information
 
 Do not introduce a separate generic `Documentation` top-level item when `TplQueue` itself is the primary documentation hub.
 
@@ -418,12 +418,23 @@ Do not bury important pages under vague parent sections.
 
 For TplQueue documentation work, `scripts/sync_tplqueue_public_docs.py` is the canonical refresh step inside this repository.
 
+## Cross-repository documentation alignment
+
+When a task touches documentation, navigation, publishing, licensing text, or repository-boundary explanations:
+
+1. Read the root `Agents.md` or `AGENTS.md` and the root `README.md` of every directly affected repository before editing.
+2. If a more specific instruction file exists for the affected surface, read it after the root files.
+3. Compare the requested change against the current documented source-of-truth model and note any contradictions before applying broad edits.
+4. Do not silently normalize contradictions across repositories.
+5. If the human instruction conflicts with the existing documentation or instruction files and intent is not already explicit, ask whether to:
+   - align the documentation to the current human instruction and treat the inconsistency as an exception, or
+   - preserve the existing inconsistency as the current operating rule.
+6. When proceeding with a cross-repository documentation change, update the relevant `README.md`, `Agents.md` or `AGENTS.md`, and sync or publishing instructions together so the documentation boundary remains aligned.
+
 Treat these paths as the source of truth:
 
 - `../TplQueue.Adapter/docs/en/` and `../TplQueue.Adapter/docs/de/`
   These are the main public MkDocs-friendly entries for the TplQueue ecosystem on this site.
-- `../TplQueue.Usage/TplQueue.Core/docs/en/` and `../TplQueue.Usage/TplQueue.Core/docs/de/`
-  These are the main sources for the `Core Engine` branch and the mirrored `Core License` page.
 
 Operational rules:
 
@@ -431,7 +442,7 @@ Operational rules:
 - do not hand-maintain mirrored copies inside `fmacias.github.io` when the source docs tree should be refreshed instead
 - never import `Agents.md` or `AGENTS.md` into the published site tree
 - mirror only repository documentation content under the documented public source trees
-- treat the Adapter docs tree as the first public entry and the `TplQueue.Usage/TplQueue.Core/docs/<lang>/` tree as the source for `Core Engine`
+- treat the Adapter docs tree as the public source for the integrated `TplQueue` documentation branch
 
 ---
 

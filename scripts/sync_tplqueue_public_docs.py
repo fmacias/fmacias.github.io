@@ -7,53 +7,18 @@ from pathlib import Path
 
 LANGUAGES = ("en", "de")
 
-ADAPTER_DOC_ITEMS = (
-    "index.md",
-    "reference.md",
-    "usage",
-    "architecture",
-    "development",
-    "operations",
-)
 
-ADAPTER_STALE_ITEMS = (
-    "overview.md",
-    "getting-started.md",
-    "architecture.md",
-    "reference",
-    "repositories",
-)
-
-CORE_DOC_ITEMS = (
-    "index.md",
-    "reference.md",
-    "usage",
-    "architecture",
-    "development",
-    "operations",
-)
+def reset_directory(path: Path) -> None:
+    if path.exists():
+        shutil.rmtree(path)
+    path.mkdir(parents=True, exist_ok=True)
 
 
-def remove_target_items(target_root: Path, items: tuple[str, ...]) -> None:
-    target_root.mkdir(parents=True, exist_ok=True)
+def copy_directory_contents(source_root: Path, target_root: Path) -> None:
+    reset_directory(target_root)
 
-    for item_name in items:
-        existing = target_root / item_name
-        if existing.is_dir():
-            shutil.rmtree(existing)
-        elif existing.exists():
-            existing.unlink()
-
-
-def copy_doc_tree(source_root: Path, target_root: Path, items: tuple[str, ...]) -> None:
-    remove_target_items(target_root, items)
-
-    for item_name in items:
-        source_item = source_root / item_name
-        if not source_item.exists():
-            continue
-
-        destination = target_root / item_name
+    for source_item in source_root.iterdir():
+        destination = target_root / source_item.name
         if source_item.is_dir():
             shutil.copytree(source_item, destination)
             continue
@@ -103,31 +68,17 @@ def main() -> int:
     site_root = Path(__file__).resolve().parent.parent
     source_base = (site_root / args.source_base).resolve()
     adapter_docs = source_base / "TplQueue.Adapter" / "docs"
-    core_docs = source_base / "TplQueue.Usage" / "TplQueue.Core" / "docs"
 
     for language in LANGUAGES:
         adapter_source = adapter_docs / language
-        core_source = core_docs / language
         if not adapter_source.exists():
             raise FileNotFoundError(f"Cannot find adapter docs source: {adapter_source}")
-        if not core_source.exists():
-            raise FileNotFoundError(f"Cannot find core docs source: {core_source}")
 
         tplqueue_root = site_root / "docs" / language / "tplqueue"
-        core_engine_root = tplqueue_root / "core-engine"
 
-        remove_target_items(tplqueue_root, ADAPTER_STALE_ITEMS)
-        copy_doc_tree(adapter_source, tplqueue_root, ADAPTER_DOC_ITEMS)
+        copy_directory_contents(adapter_source, tplqueue_root)
         remove_agents_files(tplqueue_root)
         normalize_adapter_entry_docs(tplqueue_root)
-
-        copy_doc_tree(core_source, core_engine_root, CORE_DOC_ITEMS)
-        remove_agents_files(core_engine_root)
-
-        license_source = core_source / "license.md"
-        if license_source.exists():
-            shutil.copy2(license_source, core_engine_root / "license.md")
-            shutil.copy2(license_source, tplqueue_root / "core-license.md")
 
     print(f"Synced TplQueue docs from {source_base} into {site_root / 'docs'}")
     return 0

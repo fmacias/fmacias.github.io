@@ -26,14 +26,59 @@ plugins:
             Services: Leistungen
             Overview: Ueberblick
             Getting Started: Erste Schritte
+            Core Concepts: Kernkonzepte
+            Queues: Queues
             Architecture: Architektur
             Development: Entwicklung
             Operations: Betrieb
-            Reference Hub: Referenz
-            Core Engine: Core Engine
-            Usage: Nutzung
-            Full Reference: Vollstaendige Referenz
+            Reference: Referenz
+            Reference Hub: Referenz Hub
+            License: Lizenz
+            Install: Installation
+            First Queue: Erste Queue
+            First Job Graph: Erster Job-Graph
+            Public Samples: Oeffentliche Samples
+            Jobs: Jobs
+            Job Roots: Job Roots
+            Payload Jobs: Payload Jobs
+            Job Graphs: Job-Graphen
+            Retry Selection: Retry-Auswahl
+            Parallel Queue: Parallele Queue
+            FIFO Queue: FIFO Queue
+            Cache Queue: Cache Queue
+            Pause and Resume: Pause und Resume
+            Cancellation: Cancellation
+            Cross-Queue Ownership: Cross-Queue Ownership
+            Reactive Dequeue Strategy: Reaktive Dequeue-Strategie
+            Runtime Model: Runtime-Modell
+            Core / Adapter Boundary: Core / Adapter Grenze
+            Payload Handler Integration: Payload-Handler-Integration
+            Observer Event Publication: Observer Event Publication
+            Cache and Persistence Boundary: Cache- und Persistenzgrenze
+            Diagrams: Diagramme
+            Observability: Observability
+            Retry Policies: Retry Policies
+            Cache-Backed Recovery: Cache-Backed Recovery
+            Build and Test: Build und Test
+            Strong-Name Signing: Strong-Name Signing
+            Versioning and Release: Versionierung und Release
+            Extending Queues: Queues erweitern
+            Extending Observers: Observer erweitern
+            Extending Retry Policies: Retry Policies erweitern
+            Serialization Modules: Serialisierungs-Module
+            Dependency Injection: Dependency Injection
+            C# Language Version Policy: C# Sprachversionsrichtlinie
+            API Facade: API Fassade
+            CoreApi: CoreApi
+            IJobFactory: IJobFactory
+            IDataJobFactory: IDataJobFactory
+            IQFactory: IQFactory
+            Public Packages: Oeffentliche Pakete
+            Samples: Samples
+            License Overview: Lizenz-Ueberblick
             Core License: Core Lizenz
+            MIT Adapter Modules: MIT Adapter Module
+            Production Use: Produktionseinsatz
             Profile: Profil
             Contact: Kontakt
 
@@ -59,19 +104,66 @@ extra_javascript:
 nav:
   - TplQueue:
       - Overview: tplqueue/index.md
-      - Getting Started: tplqueue/usage/index.md
-      - Architecture: tplqueue/architecture/index.md
-      - Development: tplqueue/development/index.md
-      - Operations: tplqueue/operations/index.md
-      - Reference Hub: tplqueue/reference.md
-      - Core Engine:
-          - Overview: tplqueue/core-engine/index.md
-          - Usage: tplqueue/core-engine/usage/index.md
-          - Architecture: tplqueue/core-engine/architecture/index.md
-          - Development: tplqueue/core-engine/development/index.md
-          - Operations: tplqueue/core-engine/operations/index.md
-          - Full Reference: tplqueue/core-engine/reference.md
-      - Core License: tplqueue/core-license.md
+      - Getting Started:
+          - Overview: tplqueue/getting-started/index.md
+          - Install: tplqueue/getting-started/install.md
+          - First Queue: tplqueue/getting-started/first-queue.md
+          - First Job Graph: tplqueue/getting-started/first-job-graph.md
+          - Public Samples: tplqueue/getting-started/public-samples.md
+      - Core Concepts:
+          - Overview: tplqueue/core-concepts/index.md
+          - Jobs: tplqueue/core-concepts/jobs.md
+          - Job Roots: tplqueue/core-concepts/job-roots.md
+          - Payload Jobs: tplqueue/core-concepts/payload-jobs.md
+          - Job Graphs: tplqueue/core-concepts/job-graphs.md
+          - Retry Selection: tplqueue/core-concepts/retry-selection.md
+      - Queues:
+          - Overview: tplqueue/queues/index.md
+          - Parallel Queue: tplqueue/queues/parallel-queue.md
+          - FIFO Queue: tplqueue/queues/fifo-queue.md
+          - Cache Queue: tplqueue/queues/cache-queue.md
+          - Pause and Resume: tplqueue/queues/pause-resume.md
+          - Cancellation: tplqueue/queues/cancellation.md
+          - Cross-Queue Ownership: tplqueue/queues/cross-queue-ownership.md
+          - Reactive Dequeue Strategy: tplqueue/queues/reactive-dequeue.md
+      - Architecture:
+          - Overview: tplqueue/architecture/index.md
+          - Runtime Model: tplqueue/architecture/runtime-model.md
+          - Core / Adapter Boundary: tplqueue/architecture/core-adapter-boundary.md
+          - Payload Handler Integration: tplqueue/architecture/payload-handler-integration.md
+          - Observer Event Publication: tplqueue/architecture/observer-event-publication.md
+          - Cache and Persistence Boundary: tplqueue/architecture/cache-persistence-boundary.md
+          - Diagrams: tplqueue/architecture/diagrams.md
+      - Operations:
+          - Overview: tplqueue/operations/index.md
+          - Observability: tplqueue/operations/observability.md
+          - Retry Policies: tplqueue/operations/retry-policies.md
+          - Cache-Backed Recovery: tplqueue/operations/cache-backed-recovery.md
+          - Build and Test: tplqueue/operations/build-and-test.md
+          - Strong-Name Signing: tplqueue/operations/strong-name-signing.md
+          - Versioning and Release: tplqueue/operations/versioning-release.md
+      - Development:
+          - Overview: tplqueue/development/index.md
+          - Extending Queues: tplqueue/development/extending-queues.md
+          - Extending Observers: tplqueue/development/extending-observers.md
+          - Extending Retry Policies: tplqueue/development/extending-retry-policies.md
+          - Serialization Modules: tplqueue/development/serialization-modules.md
+          - Dependency Injection: tplqueue/development/dependency-injection.md
+          - C# Language Version Policy: tplqueue/development/csharp-language-version.md
+      - Reference:
+          - Reference Hub: tplqueue/reference/index.md
+          - API Facade: tplqueue/reference/api-facade.md
+          - CoreApi: tplqueue/reference/core-api.md
+          - IJobFactory: tplqueue/reference/ijobfactory.md
+          - IDataJobFactory: tplqueue/reference/idatajobfactory.md
+          - IQFactory: tplqueue/reference/iqfactory.md
+          - Public Packages: tplqueue/reference/packages.md
+          - Samples: tplqueue/reference/samples.md
+      - License:
+          - License Overview: tplqueue/license/index.md
+          - Core License: tplqueue/license/core-license.md
+          - MIT Adapter Modules: tplqueue/license/mit-adapter-modules.md
+          - Production Use: tplqueue/license/production-use.md
   - Services: services.md
   - Profile: profile.md
   - Contact: contact.md
