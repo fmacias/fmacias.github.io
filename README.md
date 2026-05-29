@@ -72,7 +72,7 @@ Current language behavior:
 - the landing pages are localized at `docs/en/index.md` and `docs/de/index.md`
 - a small client-side script may redirect users from `/` to `/de/` when the browser language is German or a German preference was stored earlier
 
-The sync script mirrors the TplQueue documentation trees from sibling repository `docs/<lang>/` folders. The generated `TplQueue` section in this repo should be treated as deployment/build output, not hand-maintained content.
+The sync script mirrors the TplQueue documentation tree from the sibling `TplQueue.Adapter/docs/<lang>/` folders. The generated `TplQueue` section in this repo should be treated as deployment/build output, not hand-maintained content.
 
 ## Sync Source Of Truth
 
@@ -84,7 +84,7 @@ It has these responsibilities:
 
 Important rules for that sync:
 
-- the source of truth is the public documentation tree inside each sibling repository
+- the source of truth is `TplQueue.Adapter/docs/<lang>/`
 - `TplQueue.Adapter/docs/en/index.md` and `TplQueue.Adapter/docs/de/index.md` are the main public entries for the ecosystem on this site
 - `Agents.md` or `AGENTS.md` files are instruction files only and must never be copied into the published site tree
 - when rebuilding the site documentation, update the source repository docs first, then rerun `python .\scripts\sync_tplqueue_public_docs.py`
@@ -169,7 +169,7 @@ Important:
 
 - the `.github/workflows/ci.yml` workflow is required for deployment
 - without that workflow, GitHub Pages will not install MkDocs, Material, or `mkdocs-static-i18n`
-- without that workflow, the public TplQueue docs from the sibling repositories will not be imported into the site tree
+- without that workflow, the public TplQueue docs from `TplQueue.Adapter/docs/<lang>/` will not be imported into the site tree
 - without that workflow, the multilingual site should be considered not deployable in its intended form
 
 The deployment environment must:
@@ -185,7 +185,7 @@ The repository includes a workflow at `.github/workflows/ci.yml` based on the Ma
 - installs Python
 - restores the MkDocs / Material cache
 - installs dependencies from `requirements.txt`
-- checks out the public `TplQueue.Abstractions`, `TplQueue.Adapter`, and `TplQueue.Usage` repositories
+- checks out the public `TplQueue.Adapter` repository
 - runs `python scripts/sync_tplqueue_public_docs.py --source-base .external-src`
 - runs `mkdocs gh-deploy --force`
 

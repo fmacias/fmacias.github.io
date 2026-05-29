@@ -15,16 +15,8 @@ jobs:
       - uses: actions/checkout@v4
       - uses: actions/checkout@v4
         with:
-          repository: fmacias/TplQueue.Abstractions
-          path: .external-src/TplQueue.Abstractions
-      - uses: actions/checkout@v4
-        with:
           repository: fmacias/TplQueue.Adapter
           path: .external-src/TplQueue.Adapter
-      - uses: actions/checkout@v4
-        with:
-          repository: fmacias/TplQueue.Usage
-          path: .external-src/TplQueue.Usage
       - name: Configure Git Credentials
         run: |
           git config user.name github-actions[bot]
