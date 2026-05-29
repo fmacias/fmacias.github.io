@@ -443,6 +443,8 @@ Operational rules:
 - never import `Agents.md` or `AGENTS.md` into the published site tree
 - mirror only repository documentation content under the documented public source trees
 - treat the Adapter docs tree as the public source for the integrated `TplQueue` documentation branch
+- allow the Adapter docs tree to link to other public repositories and to include small focused code blocks from public sources such as `TplQueue.Abstractions` and `TplQueue.Usage`
+- do not turn those links or snippets into a second site-import source of truth
 
 ---
 

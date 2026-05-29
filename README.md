@@ -86,6 +86,7 @@ Important rules for that sync:
 
 - the source of truth is `TplQueue.Adapter/docs/<lang>/`
 - `TplQueue.Adapter/docs/en/index.md` and `TplQueue.Adapter/docs/de/index.md` are the main public entries for the ecosystem on this site
+- those Adapter docs may still link to other public repositories and may include small focused code blocks from public sources such as `TplQueue.Abstractions` and `TplQueue.Usage`
 - `Agents.md` or `AGENTS.md` files are instruction files only and must never be copied into the published site tree
 - when rebuilding the site documentation, update the source repository docs first, then rerun `python .\scripts\sync_tplqueue_public_docs.py`
 
