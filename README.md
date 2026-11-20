@@ -2,7 +2,6 @@
 
 Static documentation hub and professional website for Fernando Macias, built with MkDocs and Material for MkDocs.
 
-
 ## Purpose
 
 This repository hosts:
