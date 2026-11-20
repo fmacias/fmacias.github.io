@@ -1,0 +1,81 @@
+/* Hero banner used on the language home pages.
+   Mobile-first, accessible, and intentionally independent from the MkDocs header. */
+
+.fm-hero {
+  margin: 0 auto 2rem auto;
+}
+
+.fm-hero__link {
+  display: block;
+  text-decoration: none;
+  border-radius: 1rem;
+  overflow: hidden;
+  background: #ffd800;
+  box-shadow: 0 1rem 2.5rem rgba(0, 0, 0, 0.18);
+  transition:
+    transform 160ms ease,
+    box-shadow 160ms ease;
+}
+
+.fm-hero__link:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 1.25rem 3rem rgba(0, 0, 0, 0.22);
+}
+
+.fm-hero__link:focus-visible {
+  outline: 4px solid var(--md-accent-fg-color);
+  outline-offset: 4px;
+}
+
+.fm-hero__image {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.fm-hero__caption {
+  margin-top: 0.8rem;
+  font-size: 0.85rem;
+  line-height: 1.45;
+  color: var(--md-default-fg-color--light);
+}
+
+.fm-hero__fallback {
+  margin: 1.5rem 0 2rem 0;
+  padding: 1rem 1.1rem;
+  border-left: 0.25rem solid var(--md-accent-fg-color);
+  background: var(--md-code-bg-color);
+}
+
+.fm-hero__fallback strong {
+  color: var(--md-default-fg-color);
+}
+
+@media screen and (min-width: 900px) {
+  .fm-hero {
+    max-width: 1180px;
+    margin-top: 0.5rem;
+    margin-bottom: 2.5rem;
+  }
+
+  .fm-hero__link {
+    border-radius: 1.25rem;
+  }
+}
+
+@media screen and (max-width: 700px) {
+  .fm-hero {
+    margin-left: -0.6rem;
+    margin-right: -0.6rem;
+    margin-bottom: 1.5rem;
+  }
+
+  .fm-hero__link {
+    border-radius: 0.75rem;
+  }
+
+  .fm-hero__caption {
+    margin-left: 0.6rem;
+    margin-right: 0.6rem;
+  }
+}

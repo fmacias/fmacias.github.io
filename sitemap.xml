@@ -1,0 +1,801 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+        <loc>https://fmacias.github.io/</loc>
+        <lastmod>2026-11-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fmacias.github.io/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://fmacias.github.io/de/"/>
+    </url>
+    <url>
+        <loc>https://fmacias.github.io/contact/</loc>
+        <lastmod>2026-11-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fmacias.github.io/contact/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://fmacias.github.io/de/contact/"/>
+    </url>
+    <url>
+        <loc>https://fmacias.github.io/profile/</loc>
+        <lastmod>2026-11-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fmacias.github.io/profile/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://fmacias.github.io/de/profile/"/>
+    </url>
+    <url>
+        <loc>https://fmacias.github.io/services/</loc>
+        <lastmod>2026-11-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fmacias.github.io/services/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://fmacias.github.io/de/services/"/>
+    </url>
+    <url>
+        <loc>https://fmacias.github.io/tplqueue/</loc>
+        <lastmod>2026-11-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fmacias.github.io/tplqueue/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://fmacias.github.io/de/tplqueue/"/>
+    </url>
+    <url>
+        <loc>https://fmacias.github.io/tplqueue/architecture/</loc>
+        <lastmod>2026-11-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fmacias.github.io/tplqueue/architecture/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://fmacias.github.io/de/tplqueue/architecture/"/>
+    </url>
+    <url>
+        <loc>https://fmacias.github.io/tplqueue/architecture/cache-persistence-boundary/</loc>
+        <lastmod>2026-11-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fmacias.github.io/tplqueue/architecture/cache-persistence-boundary/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://fmacias.github.io/de/tplqueue/architecture/cache-persistence-boundary/"/>
+    </url>
+    <url>
+        <loc>https://fmacias.github.io/tplqueue/architecture/core-adapter-boundary/</loc>
+        <lastmod>2026-11-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fmacias.github.io/tplqueue/architecture/core-adapter-boundary/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://fmacias.github.io/de/tplqueue/architecture/core-adapter-boundary/"/>
+    </url>
+    <url>
+        <loc>https://fmacias.github.io/tplqueue/architecture/diagrams/</loc>
+        <lastmod>2026-11-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fmacias.github.io/tplqueue/architecture/diagrams/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://fmacias.github.io/de/tplqueue/architecture/diagrams/"/>
+    </url>
+    <url>
+        <loc>https://fmacias.github.io/tplqueue/architecture/observer-event-publication/</loc>
+        <lastmod>2026-11-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fmacias.github.io/tplqueue/architecture/observer-event-publication/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://fmacias.github.io/de/tplqueue/architecture/observer-event-publication/"/>
+    </url>
+    <url>
+        <loc>https://fmacias.github.io/tplqueue/architecture/payload-handler-integration/</loc>
+        <lastmod>2026-11-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fmacias.github.io/tplqueue/architecture/payload-handler-integration/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://fmacias.github.io/de/tplqueue/architecture/payload-handler-integration/"/>
+    </url>
+    <url>
+        <loc>https://fmacias.github.io/tplqueue/architecture/runtime-model/</loc>
+        <lastmod>2026-11-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fmacias.github.io/tplqueue/architecture/runtime-model/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://fmacias.github.io/de/tplqueue/architecture/runtime-model/"/>
+    </url>
+    <url>
+        <loc>https://fmacias.github.io/tplqueue/core-concepts/</loc>
+        <lastmod>2026-11-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fmacias.github.io/tplqueue/core-concepts/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://fmacias.github.io/de/tplqueue/core-concepts/"/>
+    </url>
+    <url>
+        <loc>https://fmacias.github.io/tplqueue/core-concepts/job-graphs/</loc>
+        <lastmod>2026-11-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fmacias.github.io/tplqueue/core-concepts/job-graphs/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://fmacias.github.io/de/tplqueue/core-concepts/job-graphs/"/>
+    </url>
+    <url>
+        <loc>https://fmacias.github.io/tplqueue/core-concepts/job-roots/</loc>
+        <lastmod>2026-11-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fmacias.github.io/tplqueue/core-concepts/job-roots/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://fmacias.github.io/de/tplqueue/core-concepts/job-roots/"/>
+    </url>
+    <url>
+        <loc>https://fmacias.github.io/tplqueue/core-concepts/jobs/</loc>
+        <lastmod>2026-11-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fmacias.github.io/tplqueue/core-concepts/jobs/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://fmacias.github.io/de/tplqueue/core-concepts/jobs/"/>
+    </url>
+    <url>
+        <loc>https://fmacias.github.io/tplqueue/core-concepts/payload-jobs/</loc>
+        <lastmod>2026-11-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fmacias.github.io/tplqueue/core-concepts/payload-jobs/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://fmacias.github.io/de/tplqueue/core-concepts/payload-jobs/"/>
+    </url>
+    <url>
+        <loc>https://fmacias.github.io/tplqueue/core-concepts/retry-selection/</loc>
+        <lastmod>2026-11-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fmacias.github.io/tplqueue/core-concepts/retry-selection/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://fmacias.github.io/de/tplqueue/core-concepts/retry-selection/"/>
+    </url>
+    <url>
+        <loc>https://fmacias.github.io/tplqueue/development/</loc>
+        <lastmod>2026-11-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fmacias.github.io/tplqueue/development/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://fmacias.github.io/de/tplqueue/development/"/>
+    </url>
+    <url>
+        <loc>https://fmacias.github.io/tplqueue/development/csharp-language-version/</loc>
+        <lastmod>2026-11-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fmacias.github.io/tplqueue/development/csharp-language-version/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://fmacias.github.io/de/tplqueue/development/csharp-language-version/"/>
+    </url>
+    <url>
+        <loc>https://fmacias.github.io/tplqueue/development/dependency-injection/</loc>
+        <lastmod>2026-11-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fmacias.github.io/tplqueue/development/dependency-injection/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://fmacias.github.io/de/tplqueue/development/dependency-injection/"/>
+    </url>
+    <url>
+        <loc>https://fmacias.github.io/tplqueue/development/extending-observers/</loc>
+        <lastmod>2026-11-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fmacias.github.io/tplqueue/development/extending-observers/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://fmacias.github.io/de/tplqueue/development/extending-observers/"/>
+    </url>
+    <url>
+        <loc>https://fmacias.github.io/tplqueue/development/extending-queues/</loc>
+        <lastmod>2026-11-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fmacias.github.io/tplqueue/development/extending-queues/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://fmacias.github.io/de/tplqueue/development/extending-queues/"/>
+    </url>
+    <url>
+        <loc>https://fmacias.github.io/tplqueue/development/extending-retry-policies/</loc>
+        <lastmod>2026-11-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fmacias.github.io/tplqueue/development/extending-retry-policies/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://fmacias.github.io/de/tplqueue/development/extending-retry-policies/"/>
+    </url>
+    <url>
+        <loc>https://fmacias.github.io/tplqueue/development/serialization-modules/</loc>
+        <lastmod>2026-11-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fmacias.github.io/tplqueue/development/serialization-modules/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://fmacias.github.io/de/tplqueue/development/serialization-modules/"/>
+    </url>
+    <url>
+        <loc>https://fmacias.github.io/tplqueue/getting-started/</loc>
+        <lastmod>2026-11-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fmacias.github.io/tplqueue/getting-started/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://fmacias.github.io/de/tplqueue/getting-started/"/>
+    </url>
+    <url>
+        <loc>https://fmacias.github.io/tplqueue/getting-started/first-job-graph/</loc>
+        <lastmod>2026-11-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fmacias.github.io/tplqueue/getting-started/first-job-graph/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://fmacias.github.io/de/tplqueue/getting-started/first-job-graph/"/>
+    </url>
+    <url>
+        <loc>https://fmacias.github.io/tplqueue/getting-started/first-queue/</loc>
+        <lastmod>2026-11-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fmacias.github.io/tplqueue/getting-started/first-queue/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://fmacias.github.io/de/tplqueue/getting-started/first-queue/"/>
+    </url>
+    <url>
+        <loc>https://fmacias.github.io/tplqueue/getting-started/install/</loc>
+        <lastmod>2026-11-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fmacias.github.io/tplqueue/getting-started/install/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://fmacias.github.io/de/tplqueue/getting-started/install/"/>
+    </url>
+    <url>
+        <loc>https://fmacias.github.io/tplqueue/getting-started/public-samples/</loc>
+        <lastmod>2026-11-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fmacias.github.io/tplqueue/getting-started/public-samples/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://fmacias.github.io/de/tplqueue/getting-started/public-samples/"/>
+    </url>
+    <url>
+        <loc>https://fmacias.github.io/tplqueue/license/</loc>
+        <lastmod>2026-11-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fmacias.github.io/tplqueue/license/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://fmacias.github.io/de/tplqueue/license/"/>
+    </url>
+    <url>
+        <loc>https://fmacias.github.io/tplqueue/license/core-license/</loc>
+        <lastmod>2026-11-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fmacias.github.io/tplqueue/license/core-license/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://fmacias.github.io/de/tplqueue/license/core-license/"/>
+    </url>
+    <url>
+        <loc>https://fmacias.github.io/tplqueue/license/mit-adapter-modules/</loc>
+        <lastmod>2026-11-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fmacias.github.io/tplqueue/license/mit-adapter-modules/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://fmacias.github.io/de/tplqueue/license/mit-adapter-modules/"/>
+    </url>
+    <url>
+        <loc>https://fmacias.github.io/tplqueue/license/production-use/</loc>
+        <lastmod>2026-11-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fmacias.github.io/tplqueue/license/production-use/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://fmacias.github.io/de/tplqueue/license/production-use/"/>
+    </url>
+    <url>
+        <loc>https://fmacias.github.io/tplqueue/operations/</loc>
+        <lastmod>2026-11-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fmacias.github.io/tplqueue/operations/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://fmacias.github.io/de/tplqueue/operations/"/>
+    </url>
+    <url>
+        <loc>https://fmacias.github.io/tplqueue/operations/build-and-test/</loc>
+        <lastmod>2026-11-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fmacias.github.io/tplqueue/operations/build-and-test/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://fmacias.github.io/de/tplqueue/operations/build-and-test/"/>
+    </url>
+    <url>
+        <loc>https://fmacias.github.io/tplqueue/operations/cache-backed-recovery/</loc>
+        <lastmod>2026-11-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fmacias.github.io/tplqueue/operations/cache-backed-recovery/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://fmacias.github.io/de/tplqueue/operations/cache-backed-recovery/"/>
+    </url>
+    <url>
+        <loc>https://fmacias.github.io/tplqueue/operations/observability/</loc>
+        <lastmod>2026-11-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fmacias.github.io/tplqueue/operations/observability/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://fmacias.github.io/de/tplqueue/operations/observability/"/>
+    </url>
+    <url>
+        <loc>https://fmacias.github.io/tplqueue/operations/retry-policies/</loc>
+        <lastmod>2026-11-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fmacias.github.io/tplqueue/operations/retry-policies/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://fmacias.github.io/de/tplqueue/operations/retry-policies/"/>
+    </url>
+    <url>
+        <loc>https://fmacias.github.io/tplqueue/operations/strong-name-signing/</loc>
+        <lastmod>2026-11-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fmacias.github.io/tplqueue/operations/strong-name-signing/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://fmacias.github.io/de/tplqueue/operations/strong-name-signing/"/>
+    </url>
+    <url>
+        <loc>https://fmacias.github.io/tplqueue/operations/versioning-release/</loc>
+        <lastmod>2026-11-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fmacias.github.io/tplqueue/operations/versioning-release/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://fmacias.github.io/de/tplqueue/operations/versioning-release/"/>
+    </url>
+    <url>
+        <loc>https://fmacias.github.io/tplqueue/queues/</loc>
+        <lastmod>2026-11-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fmacias.github.io/tplqueue/queues/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://fmacias.github.io/de/tplqueue/queues/"/>
+    </url>
+    <url>
+        <loc>https://fmacias.github.io/tplqueue/queues/cache-queue/</loc>
+        <lastmod>2026-11-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fmacias.github.io/tplqueue/queues/cache-queue/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://fmacias.github.io/de/tplqueue/queues/cache-queue/"/>
+    </url>
+    <url>
+        <loc>https://fmacias.github.io/tplqueue/queues/cancellation/</loc>
+        <lastmod>2026-11-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fmacias.github.io/tplqueue/queues/cancellation/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://fmacias.github.io/de/tplqueue/queues/cancellation/"/>
+    </url>
+    <url>
+        <loc>https://fmacias.github.io/tplqueue/queues/cross-queue-ownership/</loc>
+        <lastmod>2026-11-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fmacias.github.io/tplqueue/queues/cross-queue-ownership/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://fmacias.github.io/de/tplqueue/queues/cross-queue-ownership/"/>
+    </url>
+    <url>
+        <loc>https://fmacias.github.io/tplqueue/queues/fifo-queue/</loc>
+        <lastmod>2026-11-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fmacias.github.io/tplqueue/queues/fifo-queue/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://fmacias.github.io/de/tplqueue/queues/fifo-queue/"/>
+    </url>
+    <url>
+        <loc>https://fmacias.github.io/tplqueue/queues/parallel-queue/</loc>
+        <lastmod>2026-11-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fmacias.github.io/tplqueue/queues/parallel-queue/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://fmacias.github.io/de/tplqueue/queues/parallel-queue/"/>
+    </url>
+    <url>
+        <loc>https://fmacias.github.io/tplqueue/queues/pause-resume/</loc>
+        <lastmod>2026-11-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fmacias.github.io/tplqueue/queues/pause-resume/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://fmacias.github.io/de/tplqueue/queues/pause-resume/"/>
+    </url>
+    <url>
+        <loc>https://fmacias.github.io/tplqueue/queues/reactive-dequeue/</loc>
+        <lastmod>2026-11-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fmacias.github.io/tplqueue/queues/reactive-dequeue/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://fmacias.github.io/de/tplqueue/queues/reactive-dequeue/"/>
+    </url>
+    <url>
+        <loc>https://fmacias.github.io/tplqueue/reference/</loc>
+        <lastmod>2026-11-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fmacias.github.io/tplqueue/reference/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://fmacias.github.io/de/tplqueue/reference/"/>
+    </url>
+    <url>
+        <loc>https://fmacias.github.io/tplqueue/reference/api-facade/</loc>
+        <lastmod>2026-11-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fmacias.github.io/tplqueue/reference/api-facade/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://fmacias.github.io/de/tplqueue/reference/api-facade/"/>
+    </url>
+    <url>
+        <loc>https://fmacias.github.io/tplqueue/reference/core-api/</loc>
+        <lastmod>2026-11-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fmacias.github.io/tplqueue/reference/core-api/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://fmacias.github.io/de/tplqueue/reference/core-api/"/>
+    </url>
+    <url>
+        <loc>https://fmacias.github.io/tplqueue/reference/idatajobfactory/</loc>
+        <lastmod>2026-11-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fmacias.github.io/tplqueue/reference/idatajobfactory/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://fmacias.github.io/de/tplqueue/reference/idatajobfactory/"/>
+    </url>
+    <url>
+        <loc>https://fmacias.github.io/tplqueue/reference/ijobfactory/</loc>
+        <lastmod>2026-11-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fmacias.github.io/tplqueue/reference/ijobfactory/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://fmacias.github.io/de/tplqueue/reference/ijobfactory/"/>
+    </url>
+    <url>
+        <loc>https://fmacias.github.io/tplqueue/reference/iqfactory/</loc>
+        <lastmod>2026-11-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fmacias.github.io/tplqueue/reference/iqfactory/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://fmacias.github.io/de/tplqueue/reference/iqfactory/"/>
+    </url>
+    <url>
+        <loc>https://fmacias.github.io/tplqueue/reference/packages/</loc>
+        <lastmod>2026-11-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fmacias.github.io/tplqueue/reference/packages/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://fmacias.github.io/de/tplqueue/reference/packages/"/>
+    </url>
+    <url>
+        <loc>https://fmacias.github.io/tplqueue/reference/samples/</loc>
+        <lastmod>2026-11-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fmacias.github.io/tplqueue/reference/samples/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://fmacias.github.io/de/tplqueue/reference/samples/"/>
+    </url>
+    <url>
+        <loc>https://fmacias.github.io/de/</loc>
+        <lastmod>2026-11-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="https://fmacias.github.io/de/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fmacias.github.io/"/>
+    </url>
+    <url>
+        <loc>https://fmacias.github.io/de/contact/</loc>
+        <lastmod>2026-11-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="https://fmacias.github.io/de/contact/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fmacias.github.io/contact/"/>
+    </url>
+    <url>
+        <loc>https://fmacias.github.io/de/profile/</loc>
+        <lastmod>2026-11-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="https://fmacias.github.io/de/profile/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fmacias.github.io/profile/"/>
+    </url>
+    <url>
+        <loc>https://fmacias.github.io/de/services/</loc>
+        <lastmod>2026-11-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="https://fmacias.github.io/de/services/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fmacias.github.io/services/"/>
+    </url>
+    <url>
+        <loc>https://fmacias.github.io/de/tplqueue/</loc>
+        <lastmod>2026-11-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="https://fmacias.github.io/de/tplqueue/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fmacias.github.io/tplqueue/"/>
+    </url>
+    <url>
+        <loc>https://fmacias.github.io/de/tplqueue/architecture/</loc>
+        <lastmod>2026-11-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="https://fmacias.github.io/de/tplqueue/architecture/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fmacias.github.io/tplqueue/architecture/"/>
+    </url>
+    <url>
+        <loc>https://fmacias.github.io/de/tplqueue/architecture/cache-persistence-boundary/</loc>
+        <lastmod>2026-11-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="https://fmacias.github.io/de/tplqueue/architecture/cache-persistence-boundary/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fmacias.github.io/tplqueue/architecture/cache-persistence-boundary/"/>
+    </url>
+    <url>
+        <loc>https://fmacias.github.io/de/tplqueue/architecture/core-adapter-boundary/</loc>
+        <lastmod>2026-11-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="https://fmacias.github.io/de/tplqueue/architecture/core-adapter-boundary/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fmacias.github.io/tplqueue/architecture/core-adapter-boundary/"/>
+    </url>
+    <url>
+        <loc>https://fmacias.github.io/de/tplqueue/architecture/diagrams/</loc>
+        <lastmod>2026-11-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="https://fmacias.github.io/de/tplqueue/architecture/diagrams/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fmacias.github.io/tplqueue/architecture/diagrams/"/>
+    </url>
+    <url>
+        <loc>https://fmacias.github.io/de/tplqueue/architecture/observer-event-publication/</loc>
+        <lastmod>2026-11-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="https://fmacias.github.io/de/tplqueue/architecture/observer-event-publication/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fmacias.github.io/tplqueue/architecture/observer-event-publication/"/>
+    </url>
+    <url>
+        <loc>https://fmacias.github.io/de/tplqueue/architecture/payload-handler-integration/</loc>
+        <lastmod>2026-11-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="https://fmacias.github.io/de/tplqueue/architecture/payload-handler-integration/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fmacias.github.io/tplqueue/architecture/payload-handler-integration/"/>
+    </url>
+    <url>
+        <loc>https://fmacias.github.io/de/tplqueue/architecture/runtime-model/</loc>
+        <lastmod>2026-11-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="https://fmacias.github.io/de/tplqueue/architecture/runtime-model/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fmacias.github.io/tplqueue/architecture/runtime-model/"/>
+    </url>
+    <url>
+        <loc>https://fmacias.github.io/de/tplqueue/core-concepts/</loc>
+        <lastmod>2026-11-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="https://fmacias.github.io/de/tplqueue/core-concepts/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fmacias.github.io/tplqueue/core-concepts/"/>
+    </url>
+    <url>
+        <loc>https://fmacias.github.io/de/tplqueue/core-concepts/job-graphs/</loc>
+        <lastmod>2026-11-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="https://fmacias.github.io/de/tplqueue/core-concepts/job-graphs/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fmacias.github.io/tplqueue/core-concepts/job-graphs/"/>
+    </url>
+    <url>
+        <loc>https://fmacias.github.io/de/tplqueue/core-concepts/job-roots/</loc>
+        <lastmod>2026-11-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="https://fmacias.github.io/de/tplqueue/core-concepts/job-roots/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fmacias.github.io/tplqueue/core-concepts/job-roots/"/>
+    </url>
+    <url>
+        <loc>https://fmacias.github.io/de/tplqueue/core-concepts/jobs/</loc>
+        <lastmod>2026-11-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="https://fmacias.github.io/de/tplqueue/core-concepts/jobs/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fmacias.github.io/tplqueue/core-concepts/jobs/"/>
+    </url>
+    <url>
+        <loc>https://fmacias.github.io/de/tplqueue/core-concepts/payload-jobs/</loc>
+        <lastmod>2026-11-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="https://fmacias.github.io/de/tplqueue/core-concepts/payload-jobs/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fmacias.github.io/tplqueue/core-concepts/payload-jobs/"/>
+    </url>
+    <url>
+        <loc>https://fmacias.github.io/de/tplqueue/core-concepts/retry-selection/</loc>
+        <lastmod>2026-11-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="https://fmacias.github.io/de/tplqueue/core-concepts/retry-selection/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fmacias.github.io/tplqueue/core-concepts/retry-selection/"/>
+    </url>
+    <url>
+        <loc>https://fmacias.github.io/de/tplqueue/development/</loc>
+        <lastmod>2026-11-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="https://fmacias.github.io/de/tplqueue/development/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fmacias.github.io/tplqueue/development/"/>
+    </url>
+    <url>
+        <loc>https://fmacias.github.io/de/tplqueue/development/csharp-language-version/</loc>
+        <lastmod>2026-11-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="https://fmacias.github.io/de/tplqueue/development/csharp-language-version/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fmacias.github.io/tplqueue/development/csharp-language-version/"/>
+    </url>
+    <url>
+        <loc>https://fmacias.github.io/de/tplqueue/development/dependency-injection/</loc>
+        <lastmod>2026-11-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="https://fmacias.github.io/de/tplqueue/development/dependency-injection/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fmacias.github.io/tplqueue/development/dependency-injection/"/>
+    </url>
+    <url>
+        <loc>https://fmacias.github.io/de/tplqueue/development/extending-observers/</loc>
+        <lastmod>2026-11-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="https://fmacias.github.io/de/tplqueue/development/extending-observers/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fmacias.github.io/tplqueue/development/extending-observers/"/>
+    </url>
+    <url>
+        <loc>https://fmacias.github.io/de/tplqueue/development/extending-queues/</loc>
+        <lastmod>2026-11-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="https://fmacias.github.io/de/tplqueue/development/extending-queues/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fmacias.github.io/tplqueue/development/extending-queues/"/>
+    </url>
+    <url>
+        <loc>https://fmacias.github.io/de/tplqueue/development/extending-retry-policies/</loc>
+        <lastmod>2026-11-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="https://fmacias.github.io/de/tplqueue/development/extending-retry-policies/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fmacias.github.io/tplqueue/development/extending-retry-policies/"/>
+    </url>
+    <url>
+        <loc>https://fmacias.github.io/de/tplqueue/development/serialization-modules/</loc>
+        <lastmod>2026-11-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="https://fmacias.github.io/de/tplqueue/development/serialization-modules/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fmacias.github.io/tplqueue/development/serialization-modules/"/>
+    </url>
+    <url>
+        <loc>https://fmacias.github.io/de/tplqueue/getting-started/</loc>
+        <lastmod>2026-11-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="https://fmacias.github.io/de/tplqueue/getting-started/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fmacias.github.io/tplqueue/getting-started/"/>
+    </url>
+    <url>
+        <loc>https://fmacias.github.io/de/tplqueue/getting-started/first-job-graph/</loc>
+        <lastmod>2026-11-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="https://fmacias.github.io/de/tplqueue/getting-started/first-job-graph/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fmacias.github.io/tplqueue/getting-started/first-job-graph/"/>
+    </url>
+    <url>
+        <loc>https://fmacias.github.io/de/tplqueue/getting-started/first-queue/</loc>
+        <lastmod>2026-11-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="https://fmacias.github.io/de/tplqueue/getting-started/first-queue/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fmacias.github.io/tplqueue/getting-started/first-queue/"/>
+    </url>
+    <url>
+        <loc>https://fmacias.github.io/de/tplqueue/getting-started/install/</loc>
+        <lastmod>2026-11-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="https://fmacias.github.io/de/tplqueue/getting-started/install/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fmacias.github.io/tplqueue/getting-started/install/"/>
+    </url>
+    <url>
+        <loc>https://fmacias.github.io/de/tplqueue/getting-started/public-samples/</loc>
+        <lastmod>2026-11-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="https://fmacias.github.io/de/tplqueue/getting-started/public-samples/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fmacias.github.io/tplqueue/getting-started/public-samples/"/>
+    </url>
+    <url>
+        <loc>https://fmacias.github.io/de/tplqueue/license/</loc>
+        <lastmod>2026-11-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="https://fmacias.github.io/de/tplqueue/license/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fmacias.github.io/tplqueue/license/"/>
+    </url>
+    <url>
+        <loc>https://fmacias.github.io/de/tplqueue/license/core-license/</loc>
+        <lastmod>2026-11-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="https://fmacias.github.io/de/tplqueue/license/core-license/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fmacias.github.io/tplqueue/license/core-license/"/>
+    </url>
+    <url>
+        <loc>https://fmacias.github.io/de/tplqueue/license/mit-adapter-modules/</loc>
+        <lastmod>2026-11-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="https://fmacias.github.io/de/tplqueue/license/mit-adapter-modules/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fmacias.github.io/tplqueue/license/mit-adapter-modules/"/>
+    </url>
+    <url>
+        <loc>https://fmacias.github.io/de/tplqueue/license/production-use/</loc>
+        <lastmod>2026-11-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="https://fmacias.github.io/de/tplqueue/license/production-use/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fmacias.github.io/tplqueue/license/production-use/"/>
+    </url>
+    <url>
+        <loc>https://fmacias.github.io/de/tplqueue/operations/</loc>
+        <lastmod>2026-11-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="https://fmacias.github.io/de/tplqueue/operations/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fmacias.github.io/tplqueue/operations/"/>
+    </url>
+    <url>
+        <loc>https://fmacias.github.io/de/tplqueue/operations/build-and-test/</loc>
+        <lastmod>2026-11-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="https://fmacias.github.io/de/tplqueue/operations/build-and-test/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fmacias.github.io/tplqueue/operations/build-and-test/"/>
+    </url>
+    <url>
+        <loc>https://fmacias.github.io/de/tplqueue/operations/cache-backed-recovery/</loc>
+        <lastmod>2026-11-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="https://fmacias.github.io/de/tplqueue/operations/cache-backed-recovery/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fmacias.github.io/tplqueue/operations/cache-backed-recovery/"/>
+    </url>
+    <url>
+        <loc>https://fmacias.github.io/de/tplqueue/operations/observability/</loc>
+        <lastmod>2026-11-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="https://fmacias.github.io/de/tplqueue/operations/observability/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fmacias.github.io/tplqueue/operations/observability/"/>
+    </url>
+    <url>
+        <loc>https://fmacias.github.io/de/tplqueue/operations/retry-policies/</loc>
+        <lastmod>2026-11-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="https://fmacias.github.io/de/tplqueue/operations/retry-policies/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fmacias.github.io/tplqueue/operations/retry-policies/"/>
+    </url>
+    <url>
+        <loc>https://fmacias.github.io/de/tplqueue/operations/strong-name-signing/</loc>
+        <lastmod>2026-11-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="https://fmacias.github.io/de/tplqueue/operations/strong-name-signing/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fmacias.github.io/tplqueue/operations/strong-name-signing/"/>
+    </url>
+    <url>
+        <loc>https://fmacias.github.io/de/tplqueue/operations/versioning-release/</loc>
+        <lastmod>2026-11-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="https://fmacias.github.io/de/tplqueue/operations/versioning-release/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fmacias.github.io/tplqueue/operations/versioning-release/"/>
+    </url>
+    <url>
+        <loc>https://fmacias.github.io/de/tplqueue/queues/</loc>
+        <lastmod>2026-11-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="https://fmacias.github.io/de/tplqueue/queues/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fmacias.github.io/tplqueue/queues/"/>
+    </url>
+    <url>
+        <loc>https://fmacias.github.io/de/tplqueue/queues/cache-queue/</loc>
+        <lastmod>2026-11-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="https://fmacias.github.io/de/tplqueue/queues/cache-queue/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fmacias.github.io/tplqueue/queues/cache-queue/"/>
+    </url>
+    <url>
+        <loc>https://fmacias.github.io/de/tplqueue/queues/cancellation/</loc>
+        <lastmod>2026-11-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="https://fmacias.github.io/de/tplqueue/queues/cancellation/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fmacias.github.io/tplqueue/queues/cancellation/"/>
+    </url>
+    <url>
+        <loc>https://fmacias.github.io/de/tplqueue/queues/cross-queue-ownership/</loc>
+        <lastmod>2026-11-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="https://fmacias.github.io/de/tplqueue/queues/cross-queue-ownership/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fmacias.github.io/tplqueue/queues/cross-queue-ownership/"/>
+    </url>
+    <url>
+        <loc>https://fmacias.github.io/de/tplqueue/queues/fifo-queue/</loc>
+        <lastmod>2026-11-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="https://fmacias.github.io/de/tplqueue/queues/fifo-queue/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fmacias.github.io/tplqueue/queues/fifo-queue/"/>
+    </url>
+    <url>
+        <loc>https://fmacias.github.io/de/tplqueue/queues/parallel-queue/</loc>
+        <lastmod>2026-11-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="https://fmacias.github.io/de/tplqueue/queues/parallel-queue/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fmacias.github.io/tplqueue/queues/parallel-queue/"/>
+    </url>
+    <url>
+        <loc>https://fmacias.github.io/de/tplqueue/queues/pause-resume/</loc>
+        <lastmod>2026-11-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="https://fmacias.github.io/de/tplqueue/queues/pause-resume/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fmacias.github.io/tplqueue/queues/pause-resume/"/>
+    </url>
+    <url>
+        <loc>https://fmacias.github.io/de/tplqueue/queues/reactive-dequeue/</loc>
+        <lastmod>2026-11-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="https://fmacias.github.io/de/tplqueue/queues/reactive-dequeue/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fmacias.github.io/tplqueue/queues/reactive-dequeue/"/>
+    </url>
+    <url>
+        <loc>https://fmacias.github.io/de/tplqueue/reference/</loc>
+        <lastmod>2026-11-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="https://fmacias.github.io/de/tplqueue/reference/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fmacias.github.io/tplqueue/reference/"/>
+    </url>
+    <url>
+        <loc>https://fmacias.github.io/de/tplqueue/reference/api-facade/</loc>
+        <lastmod>2026-11-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="https://fmacias.github.io/de/tplqueue/reference/api-facade/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fmacias.github.io/tplqueue/reference/api-facade/"/>
+    </url>
+    <url>
+        <loc>https://fmacias.github.io/de/tplqueue/reference/core-api/</loc>
+        <lastmod>2026-11-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="https://fmacias.github.io/de/tplqueue/reference/core-api/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fmacias.github.io/tplqueue/reference/core-api/"/>
+    </url>
+    <url>
+        <loc>https://fmacias.github.io/de/tplqueue/reference/idatajobfactory/</loc>
+        <lastmod>2026-11-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="https://fmacias.github.io/de/tplqueue/reference/idatajobfactory/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fmacias.github.io/tplqueue/reference/idatajobfactory/"/>
+    </url>
+    <url>
+        <loc>https://fmacias.github.io/de/tplqueue/reference/ijobfactory/</loc>
+        <lastmod>2026-11-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="https://fmacias.github.io/de/tplqueue/reference/ijobfactory/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fmacias.github.io/tplqueue/reference/ijobfactory/"/>
+    </url>
+    <url>
+        <loc>https://fmacias.github.io/de/tplqueue/reference/iqfactory/</loc>
+        <lastmod>2026-11-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="https://fmacias.github.io/de/tplqueue/reference/iqfactory/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fmacias.github.io/tplqueue/reference/iqfactory/"/>
+    </url>
+    <url>
+        <loc>https://fmacias.github.io/de/tplqueue/reference/packages/</loc>
+        <lastmod>2026-11-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="https://fmacias.github.io/de/tplqueue/reference/packages/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fmacias.github.io/tplqueue/reference/packages/"/>
+    </url>
+    <url>
+        <loc>https://fmacias.github.io/de/tplqueue/reference/samples/</loc>
+        <lastmod>2026-11-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="https://fmacias.github.io/de/tplqueue/reference/samples/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fmacias.github.io/tplqueue/reference/samples/"/>
+    </url>
+</urlset>
